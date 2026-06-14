@@ -1,8 +1,10 @@
 import { NavLink } from 'react-router-dom';
 
 const NAV_ITEMS = [
-  { to: '/app/shield', label: 'Shield', icon: '\u25C8' },
+  { to: '/app/shield', label: 'Earn', icon: '\u25C8' },
+  { to: '/app/markets', label: 'Assets', icon: '\u25A0' },
   { to: '/app/portfolio', label: 'Dashboard', icon: '\u25C6' },
+  { to: '/app/leaderboard', label: 'Board', icon: '\u2261' },
 ];
 
 export default function MobileNav() {

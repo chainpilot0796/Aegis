@@ -8,7 +8,10 @@ import logo from '../../assets/aegis-mark.svg';
 
 const NAV_ITEMS = [
   { to: '/app/shield', label: 'Shield', icon: '\u25C8' },
+  { to: '/app/markets', label: 'Assets', icon: '\u25A0' },
+  { to: '/app/agents', label: 'My Agents', icon: '\u25C9' },
   { to: '/app/portfolio', label: 'My Dashboard', icon: '\u25C6' },
+  { to: '/app/leaderboard', label: 'Leaderboard', icon: '\u2261' },
 ];
 
 export default function Sidebar() {
