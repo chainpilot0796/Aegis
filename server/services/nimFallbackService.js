@@ -30,8 +30,9 @@ function getInfo() {
   };
 }
 
-async function chatCompletion({ systemPrompt, userPrompt, model: modelOverride }) {
-  if (!isConfigured()) {
+async function chatCompletion({ systemPrompt, userPrompt, model: modelOverride, apiKey }) {
+  const key = apiKey || process.env.NIM_API_KEY;
+  if (!key) {
     throw new Error("NIM not configured - set NIM_API_KEY");
   }
   const baseUrl = process.env.NIM_BASE_URL || DEFAULT_BASE_URL;
@@ -53,7 +54,7 @@ async function chatCompletion({ systemPrompt, userPrompt, model: modelOverride }
     },
     {
       headers: {
-        Authorization: `Bearer ${process.env.NIM_API_KEY}`,
+        Authorization: `Bearer ${key}`,
         Accept: "application/json",
         "Content-Type": "application/json",
       },

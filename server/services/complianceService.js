@@ -13,7 +13,7 @@
  *   "reject" -> block shield creation (sanctioned / empty jurisdiction)
  */
 
-const nimFallbackService = require('./nimFallbackService');
+const llmGateway = require('./llmGateway');
 
 // Minimal sanctioned-jurisdiction list (ISO-ish codes + common names) for the demo.
 const SANCTIONED = new Set([
@@ -60,7 +60,7 @@ Rules:
 - Empty or sanctioned jurisdiction (North Korea, Iran, Syria, Cuba, Russia, Belarus): verdict "reject".`;
 
 function isConfigured() {
-  return nimFallbackService.isConfigured() || !!process.env.OPENAI_API_KEY;
+  return llmGateway.isConfigured();
 }
 
 function getInfo() {
@@ -157,26 +157,10 @@ async function checkCompliance({ user, asset, jurisdiction, attestedAccredited }
     return heuristicCheck({ user, asset, jurisdiction, attestedAccredited });
   }
 
-  // LLM-assisted classification when configured.
+  // LLM-assisted classification via the gateway (active provider + fallbacks).
   const userPrompt = `Asset: ${asset}. Jurisdiction: ${jurisdiction}. Attested accredited: ${!!attestedAccredited}. User: ${user || 'n/a'}.`;
   try {
-    let llm = null;
-    if (nimFallbackService.isConfigured()) {
-      llm = await nimFallbackService.chatCompletion({ systemPrompt: SYSTEM_PROMPT, userPrompt });
-    } else if (process.env.OPENAI_API_KEY) {
-      const oa = require('openai');
-      const OpenAICtor = oa.OpenAI || oa.default || oa;
-      const client = new OpenAICtor({ apiKey: process.env.OPENAI_API_KEY });
-      const completion = await client.chat.completions.create({
-        model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: userPrompt },
-        ],
-        temperature: 0.1,
-      });
-      llm = { content: completion?.choices?.[0]?.message?.content || '' };
-    }
+    const llm = await llmGateway.chatCompletion({ systemPrompt: SYSTEM_PROMPT, userPrompt });
     if (llm) {
       const parsed = parseComplianceJson(llm.content);
       if (parsed) {

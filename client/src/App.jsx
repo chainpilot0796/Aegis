@@ -17,6 +17,7 @@ import VaultPage from './pages/VaultPage';
 import PortfolioPage from './pages/PortfolioPage';
 import LeaderboardPage from './pages/LeaderboardPage';
 import AgentsPage from './pages/AgentsPage';
+import AdminPage from './pages/AdminPage';
 
 const queryClient = new QueryClient();
 
@@ -57,6 +58,7 @@ function App() {
                 <div style={{ position: 'relative', zIndex: 1 }}>
                   <Routes>
                     <Route path="/" element={<LandingPage />} />
+                    <Route path="/admin" element={<AdminPage />} />
                     <Route path="/app" element={<RootLayout />}>
                       <Route index element={<Navigate to="/app/shield" replace />} />
                       <Route path="shield" element={<YieldShieldPage />} />

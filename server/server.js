@@ -60,12 +60,17 @@ const elsaRouter = require('./routes/elsa');
 const custodyRouter = require('./routes/custody');
 const agentsRouter = require('./routes/agents');
 const skillsRouter = require('./routes/skills');
+const adminRouter = require('./routes/admin');
+const llmGateway = require('./services/llmGateway');
 
 const PORT = process.env.PORT || 3001;
 
 async function startServer() {
   // Connect to MongoDB
   await connectDB();
+
+  // Load runtime LLM config (active provider/model + admin API keys) into cache
+  await llmGateway.loadConfig();
 
   // Setup Express
   const app = express();
@@ -96,6 +101,7 @@ async function startServer() {
   app.use('/api/custody', custodyRouter);
   app.use('/api/agents', agentsRouter);
   app.use('/api/skills', skillsRouter);
+  app.use('/api/admin', adminRouter);
 
   // Health check
   app.get('/', (req, res) => {

@@ -18,7 +18,7 @@
  */
 
 const { ethers } = require('ethers');
-const nimFallbackService = require('./nimFallbackService');
+const llmGateway = require('./llmGateway');
 
 // Mantle RWA hedge universe. The on-chain demo uses mETH/USDY; the others are
 // offered so the AI can reason over a small realistic set of RWA proxies.
@@ -112,58 +112,29 @@ function parseAdvisorJson(text) {
 }
 
 function isConfigured() {
-  return nimFallbackService.isConfigured() || !!process.env.OPENAI_API_KEY;
+  return llmGateway.isConfigured();
 }
 
 function getInfo() {
+  const pub = llmGateway.publicConfig();
   return {
-    configured: isConfigured(),
-    providers: [
-      nimFallbackService.isConfigured() ? 'nim' : null,
-      process.env.OPENAI_API_KEY ? 'openai' : null,
-      'heuristic',
-    ].filter(Boolean),
+    configured: llmGateway.isConfigured(),
+    active: pub.active,
+    providers: pub.providers
+      .filter((p) => p.configured)
+      .map((p) => p.id)
+      .concat('heuristic'),
     universe: SYMBOLS,
   };
 }
 
 async function callLlm(userPrompt) {
-  // 1. NIM
-  if (nimFallbackService.isConfigured()) {
-    try {
-      const r = await nimFallbackService.chatCompletion({
-        systemPrompt: SYSTEM_PROMPT,
-        userPrompt,
-      });
-      return { content: r.content, model: r.model, provider: 'nim' };
-    } catch (err) {
-      console.warn(`[AI Advisor] NIM failed: ${err.message || err}`);
-    }
+  try {
+    return await llmGateway.chatCompletion({ systemPrompt: SYSTEM_PROMPT, userPrompt });
+  } catch (err) {
+    console.warn(`[AI Advisor] LLM gateway failed: ${err.message || err}`);
+    return null;
   }
-  // 2. OpenAI
-  if (process.env.OPENAI_API_KEY) {
-    try {
-      const oa = require('openai');
-      const OpenAICtor = oa.OpenAI || oa.default || oa;
-      const client = new OpenAICtor({ apiKey: process.env.OPENAI_API_KEY });
-      const completion = await client.chat.completions.create({
-        model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: userPrompt },
-        ],
-        temperature: 0.2,
-      });
-      return {
-        content: completion?.choices?.[0]?.message?.content || '',
-        model: completion?.model || 'openai',
-        provider: 'openai',
-      };
-    } catch (err) {
-      console.warn(`[AI Advisor] OpenAI failed: ${err.message || err}`);
-    }
-  }
-  return null;
 }
 
 /**
