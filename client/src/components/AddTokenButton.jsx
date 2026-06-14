@@ -1,25 +1,37 @@
 import { useState } from 'react';
-import { useAccount, useChainId, useSwitchChain } from 'wagmi';
-import { USDY_ADDRESS, USDY_DECIMALS, CHAIN_ID } from '../config/contracts';
+import {
+  useAccount,
+  useChainId,
+  useSwitchChain,
+  useWriteContract,
+  usePublicClient,
+} from 'wagmi';
+import { parseUnits } from 'viem';
+import { USDY_ADDRESS, USDY_ABI, USDY_DECIMALS, CHAIN_ID } from '../config/contracts';
+
+// Amount of test USDY minted to the user per click (faucet cap is 1,000,000).
+const FAUCET_AMOUNT = '10000';
 
 /**
- * Adds the USDY token to the user's wallet (MetaMask et al.) via EIP-747.
+ * Mints test USDY to the user's wallet via the on-chain faucet, then registers
+ * the token in the wallet (MetaMask et al.) via EIP-747 so the balance shows up.
  *
- * - Sends a tokenImage URL pointing at the dapp's own /aegis-mark.svg so MetaMask
- *   shows the project logo on the asset row.
- * - If the wallet is on a different chain than the configured AEGIS chain, asks
- *   the wallet to switch first; the token row only resolves a balance on the
- *   chain where USDY actually lives.
- * - Falls back gracefully if the wallet doesn't support wallet_watchAsset.
+ * - Switches to the AEGIS chain (Mantle) first so the faucet tx + token row land
+ *   on the chain where USDY actually lives.
+ * - Calls MockRWAToken.faucet(to, amount) so the user receives real on-chain
+ *   USDY they can deposit into a shield (gas paid in MNT).
+ * - Then wallet_watchAsset so the token + balance appear in the wallet UI.
  */
 export default function AddTokenButton({
   className = '',
-  label = 'Add USDY to wallet',
+  label = 'Get test USDY',
   variant = 'default', // 'default' | 'compact'
 }) {
-  const { connector, isConnected } = useAccount();
+  const { address, connector, isConnected } = useAccount();
   const currentChainId = useChainId();
   const { switchChainAsync } = useSwitchChain();
+  const { writeContractAsync } = useWriteContract();
+  const publicClient = usePublicClient();
   const [state, setState] = useState('idle'); // idle | adding | added | error
   const [err, setErr] = useState('');
 
@@ -62,6 +74,20 @@ export default function AddTokenButton({
         }
       }
 
+      // Mint test USDY to the connected wallet via the on-chain faucet.
+      if (!address) throw new Error('Connect a wallet first');
+      const amount = parseUnits(FAUCET_AMOUNT, USDY_DECIMALS);
+      const faucetHash = await writeContractAsync({
+        address: USDY_ADDRESS,
+        abi: USDY_ABI,
+        functionName: 'faucet',
+        args: [address, amount],
+      });
+      if (publicClient) {
+        await publicClient.waitForTransactionReceipt({ hash: faucetHash, timeout: 60_000 });
+      }
+
+      // Register the token so the wallet shows the new balance.
       const params = {
         type: 'ERC20',
         options: {
@@ -72,11 +98,12 @@ export default function AddTokenButton({
       };
       if (tokenImage) params.options.image = tokenImage;
 
-      const result = await provider.request({
-        method: 'wallet_watchAsset',
-        params,
-      });
-      setState(result ? 'added' : 'idle');
+      // Best-effort: the mint already succeeded, so a dismissed watch prompt
+      // is not an error — the user has the USDY either way.
+      try {
+        await provider.request({ method: 'wallet_watchAsset', params });
+      } catch (_) {}
+      setState('added');
     } catch (e) {
       setErr(e?.shortMessage || e?.message || 'Failed to add token');
       setState('error');
@@ -91,8 +118,9 @@ export default function AddTokenButton({
     : 'inline-flex items-center gap-1.5 rounded-lg border border-[var(--t-border)] bg-[var(--t-panel)] px-3 py-1.5 text-xs font-medium text-[var(--t-text)] hover:border-[var(--t-violet)] hover:text-[var(--t-violet)] transition-colors disabled:opacity-50';
 
   const display =
-    state === 'added' ? '✓ USDY added' :
-    state === 'error' ? 'Retry add' :
+    state === 'adding' ? 'Minting…' :
+    state === 'added' ? `✓ ${Number(FAUCET_AMOUNT).toLocaleString()} USDY sent` :
+    state === 'error' ? 'Retry' :
     label;
 
   return (
@@ -101,7 +129,7 @@ export default function AddTokenButton({
       onClick={add}
       disabled={state === 'adding'}
       className={baseCls + ' ' + className}
-      title={err || 'Adds USDY (on Mantle) to MetaMask / your connected wallet'}
+      title={err || `Mints ${Number(FAUCET_AMOUNT).toLocaleString()} test USDY (on Mantle) to your connected wallet`}
     >
       {state === 'adding' && <span className="shield-loader w-3 h-3" />}
       {display}
