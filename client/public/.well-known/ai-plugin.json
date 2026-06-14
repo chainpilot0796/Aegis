@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Aegis.0G",
+  "name_for_model": "aegis_0g",
+  "description_for_human": "Principal-protected yield shields on 0G Chain. Agents recommend, prepare, and activate shields on a user's behalf with a session key.",
+  "description_for_model": "Aegis.0G lets agents call /api/ai/recommend-shield, /api/yield-shield/prepare, /api/yield-shield/activate on behalf of a user using a Bearer session key (aegis_sk_...). Strategy skills live under /api/skills/. See /api/skills/aegis.skill.md for the entrypoint.",
+  "auth": { "type": "user_http", "authorization_type": "bearer" },
+  "api": { "type": "openapi", "url": "/.well-known/openapi.yaml" },
+  "logo_url": "/logo.svg",
+  "contact_email": "team@aegis-0g.xyz",
+  "legal_info_url": "/"
+}

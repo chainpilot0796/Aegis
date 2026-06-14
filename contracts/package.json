@@ -1,0 +1,22 @@
+{
+  "name": "aegis-0g-contracts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "node node_modules/hardhat/internal/cli/bootstrap.js compile",
+    "test": "node node_modules/hardhat/internal/cli/bootstrap.js test",
+    "deploy:testnet": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js --network ogTestnet",
+    "deploy:mainnet": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js --network ogMainnet",
+    "deploy:base-sepolia": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js --network baseSepolia"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "chai": "^4.3.10",
+    "hardhat": "^2.27.1"
+  }
+}

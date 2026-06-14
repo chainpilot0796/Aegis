@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Aegis.0G mark">
+  <!-- Hex shield ring (violet) -->
+  <path d="M32 4 L55.5 17 L55.5 43 L32 56 L8.5 43 L8.5 17 Z"
+        stroke="#A78BFA" stroke-width="2.4" stroke-linejoin="miter" fill="none"/>
+  <!-- Inner faceted A / chevron (violet) -->
+  <path d="M32 16 L46 42 L38.5 42 L32 30 L25.5 42 L18 42 Z"
+        fill="#A78BFA"/>
+  <!-- Attestation bar (cyan) — the verifiable seal -->
+  <path d="M27 36 L37 36" stroke="#00E5D4" stroke-width="2.4" stroke-linecap="square"/>
+  <!-- Lower notch (cyan) — key/seal hint -->
+  <path d="M28 50 L32 46 L36 50" stroke="#00E5D4" stroke-width="2" stroke-linejoin="miter" fill="none"/>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "name": "aegis-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Aegis backend server",
+  "dependencies": {
+    "@0gfoundation/0g-compute-ts-sdk": "^0.8.3",
+    "@0gfoundation/0g-ts-sdk": "^1.2.8",
+    "@bitgo/sdk-api": "^1.75.4",
+    "@bitgo/sdk-coin-eth": "^25.6.6",
+    "@fileverse/agents": "^2.0.1",
+    "axios": "^1.7.0",
+    "bitgo": "^50.27.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "ethers": "^6.13.0",
+    "express": "^5.2.1",
+    "json-stringify-deterministic": "^1.0.12",
+    "mongoose": "^9.0.0",
+    "node-cron": "^3.0.3",
+    "openai": "^6.29.0",
+    "socket.io": "^4.7.0",
+    "twilio": "^5.13.0",
+    "viem": "^2.47.4",
+    "x402-axios": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

@@ -1,0 +1,1351 @@
+[
+  {
+    "key": "re_nyc",
+    "label": "New York City",
+    "ticker": "NY-NYC",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 486.25,
+    "current_price": 590.48,
+    "all_time_high": 625.49,
+    "all_time_high_date": "2022-08-05",
+    "all_time_low": 485.68,
+    "all_time_low_date": "2021-03-29",
+    "total_return_pct": 21.44,
+    "cagr_pct": 3.96,
+    "annual_volatility_pct": 2.14,
+    "max_drawdown_pct": -18.49,
+    "max_drawdown_period": "2022-08-05 to 2023-01-01",
+    "sharpe_ratio": -0.61,
+    "sortino_ratio": -0.03,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.3566126144251498,
+        "median": 0.6871477913106658,
+        "best": 8.630034021678942,
+        "worst": -7.508504513934332,
+        "positive_pct": 58.263772954924875,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.0074461771721586,
+        "median": 1.823980691319721,
+        "best": 12.867209109814443,
+        "worst": -11.766774848518764,
+        "positive_pct": 61.3126079447323,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 1.7859615184070525,
+        "median": 1.6629381058911394,
+        "best": 16.502635480151547,
+        "worst": -17.33925186709219,
+        "positive_pct": 61.68791742562234,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 2.9669791463159827,
+        "median": 4.196279838795694,
+        "best": 22.16252247156967,
+        "worst": -14.90031815056996,
+        "positive_pct": 68.46785225718193,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 0.67,
+      "3m": 2.11,
+      "6m": -3.76,
+      "1y": 1.94,
+      "2y": 9.15
+    },
+    "year_over_year": {
+      "2022": -4.68,
+      "2023": 2.86,
+      "2024": 5.59,
+      "2025": 4.77,
+      "2026": 1.76
+    },
+    "max_win_streak_days": 47,
+    "max_lose_streak_days": 71,
+    "positive_days_pct": 54.0
+  },
+  {
+    "key": "re_brooklyn",
+    "label": "Brooklyn",
+    "ticker": "NY-BRK",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 601.73,
+    "current_price": 623.6,
+    "all_time_high": 723.76,
+    "all_time_high_date": "2025-08-14",
+    "all_time_low": 542.44,
+    "all_time_low_date": "2023-01-02",
+    "total_return_pct": 3.63,
+    "cagr_pct": 0.72,
+    "annual_volatility_pct": 2.62,
+    "max_drawdown_pct": -20.25,
+    "max_drawdown_period": "2022-08-12 to 2023-01-02",
+    "sharpe_ratio": -1.32,
+    "sortino_ratio": -1.89,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.1275677531297946,
+        "median": 0.33888776099822887,
+        "best": 13.798177330548706,
+        "worst": -7.7572313173297145,
+        "positive_pct": 54.09015025041736,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 0.4589724354143667,
+        "median": 1.4391131590370303,
+        "best": 13.869452849218375,
+        "worst": -14.81464879644986,
+        "positive_pct": 59.81577432354634,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 0.9648598076017914,
+        "median": 1.1785019781398736,
+        "best": 15.757196294690873,
+        "worst": -19.55165720889573,
+        "positive_pct": 55.919854280510016,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 1.652135418597886,
+        "median": 3.7905891294123277,
+        "best": 15.610569522832224,
+        "worst": -12.623729415420131,
+        "positive_pct": 68.2626538987688,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -2.25,
+      "3m": -0.92,
+      "6m": -11.53,
+      "1y": -2.16,
+      "2y": 6.05
+    },
+    "year_over_year": {
+      "2022": -8.72,
+      "2023": 5.22,
+      "2024": 4.51,
+      "2025": 5.41,
+      "2026": -0.97
+    },
+    "max_win_streak_days": 47,
+    "max_lose_streak_days": 64,
+    "positive_days_pct": 51.6
+  },
+  {
+    "key": "re_la",
+    "label": "Los Angeles",
+    "ticker": "CA-LA",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 540.69,
+    "current_price": 617.46,
+    "all_time_high": 654.98,
+    "all_time_high_date": "2025-03-26",
+    "all_time_low": 540.69,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 14.2,
+    "cagr_pct": 2.69,
+    "annual_volatility_pct": 2.16,
+    "max_drawdown_pct": -13.13,
+    "max_drawdown_period": "2022-07-02 to 2023-01-23",
+    "sharpe_ratio": -0.99,
+    "sortino_ratio": -0.98,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.19569966034734712,
+        "median": 0.3130282351468103,
+        "best": 6.40852737110639,
+        "worst": -6.294354580909148,
+        "positive_pct": 56.5386755703951,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 0.4530170666555335,
+        "median": 0.25363899255237343,
+        "best": 11.30981067125646,
+        "worst": -7.214703168255933,
+        "positive_pct": 52.38917674150835,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 0.8393516604421846,
+        "median": 1.1250911165340893,
+        "best": 10.646322647008406,
+        "worst": -12.459797130133603,
+        "positive_pct": 56.04128718882817,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 1.8454086417846067,
+        "median": 1.3979833932495138,
+        "best": 16.19896335364189,
+        "worst": -9.009177165966706,
+        "positive_pct": 62.585499316005475,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 2.29,
+      "3m": -0.24,
+      "6m": 1.35,
+      "1y": -2.2,
+      "2y": 0.79
+    },
+    "year_over_year": {
+      "2022": -3.77,
+      "2023": 7.08,
+      "2024": 0.74,
+      "2025": -1.7,
+      "2026": 1.5
+    },
+    "max_win_streak_days": 37,
+    "max_lose_streak_days": 50,
+    "positive_days_pct": 51.9
+  },
+  {
+    "key": "re_sf",
+    "label": "San Francisco",
+    "ticker": "CA-SF",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 1006.48,
+    "current_price": 959.9,
+    "all_time_high": 1091.85,
+    "all_time_high_date": "2022-04-02",
+    "all_time_low": 825.25,
+    "all_time_low_date": "2024-01-12",
+    "total_return_pct": -4.63,
+    "cagr_pct": -0.94,
+    "annual_volatility_pct": 3.01,
+    "max_drawdown_pct": -24.42,
+    "max_drawdown_period": "2022-04-02 to 2024-01-12",
+    "sharpe_ratio": -1.53,
+    "sortino_ratio": -2.61,
+    "rolling_returns": {
+      "30d": {
+        "avg": -0.17927444009881308,
+        "median": -0.24893238052319258,
+        "best": 15.464190343301167,
+        "worst": -9.100769079077098,
+        "positive_pct": 46.24373956594324,
+        "count": 1797
+      },
+      "90d": {
+        "avg": -0.5864112794068054,
+        "median": -0.6308054149550795,
+        "best": 15.184050907444268,
+        "worst": -14.478940936026868,
+        "positive_pct": 43.9838802533103,
+        "count": 1737
+      },
+      "180d": {
+        "avg": -1.270901999014267,
+        "median": -1.0302130840311545,
+        "best": 13.668063055427753,
+        "worst": -18.414042431738174,
+        "positive_pct": 43.65513054037644,
+        "count": 1647
+      },
+      "365d": {
+        "avg": -2.7655125088721157,
+        "median": -0.3071061946407233,
+        "best": 6.339222463130333,
+        "worst": -16.475979218959775,
+        "positive_pct": 48.35841313269494,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 15.46,
+      "3m": 0.17,
+      "6m": 9.52,
+      "1y": 5.88,
+      "2y": 3.66
+    },
+    "year_over_year": {
+      "2022": -12.95,
+      "2023": -5.91,
+      "2024": 2.87,
+      "2025": 3.1,
+      "2026": 5.62
+    },
+    "max_win_streak_days": 57,
+    "max_lose_streak_days": 67,
+    "positive_days_pct": 48.3
+  },
+  {
+    "key": "re_sd",
+    "label": "San Diego",
+    "ticker": "CA-SD",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 513.26,
+    "current_price": 678.63,
+    "all_time_high": 716.81,
+    "all_time_high_date": "2024-07-02",
+    "all_time_low": 513.26,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 32.22,
+    "cagr_pct": 5.75,
+    "annual_volatility_pct": 1.42,
+    "max_drawdown_pct": -13.97,
+    "max_drawdown_period": "2022-05-31 to 2023-03-12",
+    "sharpe_ratio": -0.1,
+    "sortino_ratio": 2.05,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.4602138331423202,
+        "median": 0.442612280321103,
+        "best": 5.18685885806642,
+        "worst": -4.652854565558985,
+        "positive_pct": 59.766277128547586,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.220311374569642,
+        "median": 0.7977009492293026,
+        "best": 12.351069701003155,
+        "worst": -8.789794342267102,
+        "positive_pct": 52.792170408750714,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 2.2910285704776534,
+        "median": 0.9766985373266572,
+        "best": 18.064069439519063,
+        "worst": -11.442336645588671,
+        "positive_pct": 58.227079538554946,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 4.521520187041966,
+        "median": 3.8445874231826807,
+        "best": 29.055377069748882,
+        "worst": -7.709311565412123,
+        "positive_pct": 63.611491108071135,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 1.82,
+      "3m": 2.82,
+      "6m": 0.24,
+      "1y": -1.09,
+      "2y": -1.13
+    },
+    "year_over_year": {
+      "2022": 2.16,
+      "2023": 6.52,
+      "2024": 4.17,
+      "2025": -4.14,
+      "2026": 4.04
+    },
+    "max_win_streak_days": 65,
+    "max_lose_streak_days": 77,
+    "positive_days_pct": 57.3
+  },
+  {
+    "key": "re_miami",
+    "label": "Miami",
+    "ticker": "FL-MIA",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 351.29,
+    "current_price": 548.26,
+    "all_time_high": 591.09,
+    "all_time_high_date": "2025-06-14",
+    "all_time_low": 351.0,
+    "all_time_low_date": "2021-03-18",
+    "total_return_pct": 56.07,
+    "cagr_pct": 9.31,
+    "annual_volatility_pct": 2.62,
+    "max_drawdown_pct": -13.48,
+    "max_drawdown_period": "2022-07-14 to 2023-02-23",
+    "sharpe_ratio": 0.83,
+    "sortino_ratio": 2.84,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.7448545846261239,
+        "median": 0.6966271482400657,
+        "best": 8.14561627476012,
+        "worst": -9.97727439337292,
+        "positive_pct": 59.821925431274344,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 2.2115126082248113,
+        "median": 2.0895965556916436,
+        "best": 15.567949199983284,
+        "worst": -10.622947189725808,
+        "positive_pct": 64.3062751871042,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 4.286652100272606,
+        "median": 2.0224800187634253,
+        "best": 28.44871147043962,
+        "worst": -11.596259381464437,
+        "positive_pct": 65.33090467516696,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 8.958842797163186,
+        "median": 2.8207319600333753,
+        "best": 47.755944037449396,
+        "worst": -5.954749537811435,
+        "positive_pct": 76.40218878248974,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 0.36,
+      "3m": 5.23,
+      "6m": 1.5,
+      "1y": -1.18,
+      "2y": -0.14
+    },
+    "year_over_year": {
+      "2022": 25.13,
+      "2023": 1.42,
+      "2024": -3.22,
+      "2025": -3.14,
+      "2026": 5.52
+    },
+    "max_win_streak_days": 74,
+    "max_lose_streak_days": 42,
+    "positive_days_pct": 59.9
+  },
+  {
+    "key": "re_miami_beach",
+    "label": "Miami Beach",
+    "ticker": "FL-MB",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 491.88,
+    "current_price": 653.72,
+    "all_time_high": 679.03,
+    "all_time_high_date": "2025-10-31",
+    "all_time_low": 483.02,
+    "all_time_low_date": "2021-12-14",
+    "total_return_pct": 32.9,
+    "cagr_pct": 5.85,
+    "annual_volatility_pct": 3.43,
+    "max_drawdown_pct": -13.99,
+    "max_drawdown_period": "2025-10-31 to 2025-12-27",
+    "sharpe_ratio": -0.0,
+    "sortino_ratio": 0.68,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.4507942087743635,
+        "median": 0.7728356490997268,
+        "best": 11.823753169907013,
+        "worst": -12.629448875133912,
+        "positive_pct": 60.60100166944908,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.121309424457179,
+        "median": 1.3450385178133861,
+        "best": 13.460542066427243,
+        "worst": -12.157153446997777,
+        "positive_pct": 56.246401842256766,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 2.3812632696846827,
+        "median": 1.4246491177543457,
+        "best": 18.303981894051933,
+        "worst": -10.351403849549701,
+        "positive_pct": 61.74863387978142,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 5.509509346196722,
+        "median": 5.339048157929419,
+        "best": 18.722195422629568,
+        "worst": -4.910130590255346,
+        "positive_pct": 86.45690834473324,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 7.66,
+      "3m": 10.97,
+      "6m": 7.72,
+      "1y": -2.55,
+      "2y": 13.38
+    },
+    "year_over_year": {
+      "2022": 2.1,
+      "2023": 10.31,
+      "2024": 8.41,
+      "2025": -4.09,
+      "2026": 11.81
+    },
+    "max_win_streak_days": 45,
+    "max_lose_streak_days": 45,
+    "positive_days_pct": 53.4
+  },
+  {
+    "key": "re_austin",
+    "label": "Austin",
+    "ticker": "TX-AUS",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 297.96,
+    "current_price": 219.17,
+    "all_time_high": 387.91,
+    "all_time_high_date": "2022-05-25",
+    "all_time_low": 219.13,
+    "all_time_low_date": "2026-03-13",
+    "total_return_pct": -26.44,
+    "cagr_pct": -5.96,
+    "annual_volatility_pct": 7.31,
+    "max_drawdown_pct": -43.51,
+    "max_drawdown_period": "2022-05-25 to 2026-03-13",
+    "sharpe_ratio": -1.09,
+    "sortino_ratio": -1.65,
+    "rolling_returns": {
+      "30d": {
+        "avg": -0.3631715165262879,
+        "median": -0.42841177201042946,
+        "best": 23.954402827977905,
+        "worst": -23.31991823176185,
+        "positive_pct": 46.91151919866444,
+        "count": 1797
+      },
+      "90d": {
+        "avg": -1.1005754248423432,
+        "median": -1.400269047327866,
+        "best": 19.107511389743387,
+        "worst": -22.793496621621635,
+        "positive_pct": 41.796200345423145,
+        "count": 1737
+      },
+      "180d": {
+        "avg": -1.7998964129565789,
+        "median": -1.9772665396133962,
+        "best": 18.521681021681015,
+        "worst": -29.04823567497572,
+        "positive_pct": 42.926533090467515,
+        "count": 1647
+      },
+      "365d": {
+        "avg": -3.8454386683330175,
+        "median": -5.2318469113013855,
+        "best": 23.37831816156343,
+        "worst": -22.344334807757736,
+        "positive_pct": 24.21340629274966,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -4.2,
+      "3m": -22.03,
+      "6m": -29.05,
+      "1y": -18.57,
+      "2y": -29.42
+    },
+    "year_over_year": {
+      "2022": -6.16,
+      "2023": -3.61,
+      "2024": -8.74,
+      "2025": -6.35,
+      "2026": -15.57
+    },
+    "max_win_streak_days": 50,
+    "max_lose_streak_days": 59,
+    "positive_days_pct": 46.9
+  },
+  {
+    "key": "re_denver",
+    "label": "Denver",
+    "ticker": "CO-DEN",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 370.36,
+    "current_price": 379.85,
+    "all_time_high": 461.53,
+    "all_time_high_date": "2022-05-07",
+    "all_time_low": 359.73,
+    "all_time_low_date": "2025-02-27",
+    "total_return_pct": 2.56,
+    "cagr_pct": 0.51,
+    "annual_volatility_pct": 2.3,
+    "max_drawdown_pct": -22.06,
+    "max_drawdown_period": "2022-05-07 to 2025-02-27",
+    "sharpe_ratio": -1.57,
+    "sortino_ratio": -2.33,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.005644336128047561,
+        "median": -0.05847020677190518,
+        "best": 9.920248978797897,
+        "worst": -9.886164822430754,
+        "positive_pct": 48.970506399554814,
+        "count": 1797
+      },
+      "90d": {
+        "avg": -0.03764452124758328,
+        "median": -0.5410796658770766,
+        "best": 18.059499143069083,
+        "worst": -14.464898032846046,
+        "positive_pct": 45.53828439838802,
+        "count": 1737
+      },
+      "180d": {
+        "avg": -0.1447095188201208,
+        "median": -1.2369889877809663,
+        "best": 18.419496645157967,
+        "worst": -14.698941406513391,
+        "positive_pct": 43.2301153612629,
+        "count": 1647
+      },
+      "365d": {
+        "avg": -0.17586545712200888,
+        "median": -1.8208826335931858,
+        "best": 17.246996538383218,
+        "worst": -11.363998452329472,
+        "positive_pct": 38.0984952120383,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 1.63,
+      "3m": -0.5,
+      "6m": -0.31,
+      "1y": -0.12,
+      "2y": -5.66
+    },
+    "year_over_year": {
+      "2022": -2.37,
+      "2023": -1.87,
+      "2024": 1.13,
+      "2025": -2.33,
+      "2026": 0.77
+    },
+    "max_win_streak_days": 81,
+    "max_lose_streak_days": 55,
+    "positive_days_pct": 48.7
+  },
+  {
+    "key": "re_atlanta",
+    "label": "Atlanta",
+    "ticker": "GA-ATL",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 234.17,
+    "current_price": 273.41,
+    "all_time_high": 302.11,
+    "all_time_high_date": "2025-06-20",
+    "all_time_low": 234.17,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 16.76,
+    "cagr_pct": 3.15,
+    "annual_volatility_pct": 2.89,
+    "max_drawdown_pct": -13.65,
+    "max_drawdown_period": "2022-06-22 to 2023-02-24",
+    "sharpe_ratio": -0.63,
+    "sortino_ratio": -0.46,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.23787705613338944,
+        "median": 0.21195421788894037,
+        "best": 8.11296534017972,
+        "worst": -7.807995554166239,
+        "positive_pct": 52.309404563160825,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 0.6100012281836868,
+        "median": -0.7263922518159753,
+        "best": 15.047926032742382,
+        "worst": -8.789055666351773,
+        "positive_pct": 44.90500863557859,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 0.9042902048304583,
+        "median": 0.649047943486213,
+        "best": 13.482363861386142,
+        "worst": -11.540396418150726,
+        "positive_pct": 54.462659380692166,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 2.248164802379697,
+        "median": 0.7933454897377643,
+        "best": 14.794542929499235,
+        "worst": -8.34460373275629,
+        "positive_pct": 57.52393980848153,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 1.89,
+      "3m": -3.64,
+      "6m": -6.16,
+      "1y": 1.1,
+      "2y": -1.45
+    },
+    "year_over_year": {
+      "2022": 4.24,
+      "2023": 4.44,
+      "2024": -2.64,
+      "2025": -1.34,
+      "2026": -1.54
+    },
+    "max_win_streak_days": 65,
+    "max_lose_streak_days": 48,
+    "positive_days_pct": 51.2
+  },
+  {
+    "key": "re_chicago",
+    "label": "Chicago",
+    "ticker": "IL-CHI",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 203.36,
+    "current_price": 256.82,
+    "all_time_high": 279.16,
+    "all_time_high_date": "2025-07-26",
+    "all_time_low": 203.36,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 26.29,
+    "cagr_pct": 4.78,
+    "annual_volatility_pct": 2.34,
+    "max_drawdown_pct": -20.68,
+    "max_drawdown_period": "2022-07-14 to 2023-02-09",
+    "sharpe_ratio": -0.32,
+    "sortino_ratio": 0.67,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.35115152695062973,
+        "median": -0.8209080247947644,
+        "best": 9.405626797991122,
+        "worst": -6.650728954381564,
+        "positive_pct": 41.56928213689483,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 0.9292622080943448,
+        "median": -2.2475495782995245,
+        "best": 20.748190961634734,
+        "worst": -11.179309013703921,
+        "positive_pct": 42.026482440990215,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 1.7960565779792357,
+        "median": 0.04886483235603497,
+        "best": 22.31378763866878,
+        "worst": -19.2389089198934,
+        "positive_pct": 50.151791135397694,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 3.9853721842202297,
+        "median": 5.1875373626195,
+        "best": 10.310992848827533,
+        "worst": -5.110001560305828,
+        "positive_pct": 81.46374829001368,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 5.5,
+      "3m": -0.23,
+      "6m": -5.41,
+      "1y": 3.88,
+      "2y": 11.36
+    },
+    "year_over_year": {
+      "2022": -2.17,
+      "2023": 7.43,
+      "2024": 4.86,
+      "2025": 6.23,
+      "2026": 0.48
+    },
+    "max_win_streak_days": 80,
+    "max_lose_streak_days": 74,
+    "positive_days_pct": 48.4
+  },
+  {
+    "key": "re_boston",
+    "label": "Boston",
+    "ticker": "MA-BOS",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 543.04,
+    "current_price": 615.61,
+    "all_time_high": 696.7,
+    "all_time_high_date": "2024-08-02",
+    "all_time_low": 543.04,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 13.36,
+    "cagr_pct": 2.54,
+    "annual_volatility_pct": 3.66,
+    "max_drawdown_pct": -18.99,
+    "max_drawdown_period": "2022-05-26 to 2022-11-12",
+    "sharpe_ratio": -0.6,
+    "sortino_ratio": -0.64,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.27434309801229806,
+        "median": -0.047327521717217366,
+        "best": 10.01783639606618,
+        "worst": -10.806618407445708,
+        "positive_pct": 49.13745130773511,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 0.6504746773386626,
+        "median": 0.16562091919609573,
+        "best": 18.869723345279922,
+        "worst": -14.420184226033559,
+        "positive_pct": 50.662061024755324,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 1.0217151358543817,
+        "median": -0.77289340441941,
+        "best": 21.321911205689243,
+        "worst": -18.270654427006217,
+        "positive_pct": 48.08743169398907,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 2.083232091004638,
+        "median": 2.3016039355854216,
+        "best": 13.12793523746871,
+        "worst": -9.306677329068382,
+        "positive_pct": 66.62106703146374,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -2.35,
+      "3m": -6.6,
+      "6m": -5.4,
+      "1y": -3.34,
+      "2y": 6.26
+    },
+    "year_over_year": {
+      "2022": -3.89,
+      "2023": 1.83,
+      "2024": 5.32,
+      "2025": 7.29,
+      "2026": -3.76
+    },
+    "max_win_streak_days": 64,
+    "max_lose_streak_days": 49,
+    "positive_days_pct": 50.4
+  },
+  {
+    "key": "re_dc",
+    "label": "Washington DC",
+    "ticker": "DC-WAS",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 549.47,
+    "current_price": 461.99,
+    "all_time_high": 602.38,
+    "all_time_high_date": "2022-06-27",
+    "all_time_low": 460.72,
+    "all_time_low_date": "2026-03-12",
+    "total_return_pct": -15.92,
+    "cagr_pct": -3.41,
+    "annual_volatility_pct": 2.38,
+    "max_drawdown_pct": -23.52,
+    "max_drawdown_period": "2022-06-27 to 2026-03-12",
+    "sharpe_ratio": -2.68,
+    "sortino_ratio": -4.5,
+    "rolling_returns": {
+      "30d": {
+        "avg": -0.27127120576243263,
+        "median": -0.3354930327505079,
+        "best": 6.664750328515106,
+        "worst": -8.237441167995378,
+        "positive_pct": 45.40901502504174,
+        "count": 1797
+      },
+      "90d": {
+        "avg": -0.683853092580409,
+        "median": -1.5658816040738408,
+        "best": 16.145965089805216,
+        "worst": -11.807501716746154,
+        "positive_pct": 39.95394358088659,
+        "count": 1737
+      },
+      "180d": {
+        "avg": -1.340198706825111,
+        "median": -1.617887333948997,
+        "best": 13.399106164094768,
+        "worst": -14.546363872114998,
+        "positive_pct": 39.526411657559194,
+        "count": 1647
+      },
+      "365d": {
+        "avg": -2.218032740234713,
+        "median": -1.760239163837971,
+        "best": 5.5598740720587685,
+        "worst": -9.319783942140432,
+        "positive_pct": 28.72777017783858,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -0.93,
+      "3m": -8.11,
+      "6m": -11.69,
+      "1y": -5.87,
+      "2y": -7.39
+    },
+    "year_over_year": {
+      "2022": -3.25,
+      "2023": -3.8,
+      "2024": 4.32,
+      "2025": -4.7,
+      "2026": -9.6
+    },
+    "max_win_streak_days": 49,
+    "max_lose_streak_days": 60,
+    "positive_days_pct": 47.5
+  },
+  {
+    "key": "re_pittsburgh",
+    "label": "Pittsburgh",
+    "ticker": "PA-PIT",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 127.35,
+    "current_price": 161.67,
+    "all_time_high": 195.11,
+    "all_time_high_date": "2025-07-18",
+    "all_time_low": 116.91,
+    "all_time_low_date": "2023-03-12",
+    "total_return_pct": 26.95,
+    "cagr_pct": 4.89,
+    "annual_volatility_pct": 6.48,
+    "max_drawdown_pct": -34.98,
+    "max_drawdown_period": "2022-07-22 to 2023-03-12",
+    "sharpe_ratio": -0.08,
+    "sortino_ratio": 0.19,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.5236981952919523,
+        "median": 0.34097466295966306,
+        "best": 22.78607731403047,
+        "worst": -15.350751815219251,
+        "positive_pct": 52.14245965498052,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.7131619615896732,
+        "median": -0.8673564215352245,
+        "best": 40.71098125152181,
+        "worst": -24.928415989004694,
+        "positive_pct": 46.286701208981,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 3.092052613356495,
+        "median": -0.1007366366555594,
+        "best": 32.044732845506,
+        "worst": -28.5125406409661,
+        "positive_pct": 49.66605950212507,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 5.6629065893568225,
+        "median": 6.774434273545133,
+        "best": 31.008913190023225,
+        "worst": -17.15076962710119,
+        "positive_pct": 74.4186046511628,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -2.76,
+      "3m": -10.04,
+      "6m": -14.84,
+      "1y": 7.68,
+      "2y": 23.9
+    },
+    "year_over_year": {
+      "2022": -2.24,
+      "2023": 9.34,
+      "2024": 7.44,
+      "2025": 13.61,
+      "2026": -10.83
+    },
+    "max_win_streak_days": 48,
+    "max_lose_streak_days": 44,
+    "positive_days_pct": 50.3
+  },
+  {
+    "key": "re_charlotte",
+    "label": "Charlotte",
+    "ticker": "NC-CHA",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 171.8,
+    "current_price": 234.63,
+    "all_time_high": 252.96,
+    "all_time_high_date": "2025-08-04",
+    "all_time_low": 171.8,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 36.57,
+    "cagr_pct": 6.43,
+    "annual_volatility_pct": 2.01,
+    "max_drawdown_pct": -9.71,
+    "max_drawdown_period": "2022-07-22 to 2023-03-07",
+    "sharpe_ratio": 0.16,
+    "sortino_ratio": 1.77,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.531514320267486,
+        "median": 0.6767888151743222,
+        "best": 6.551912840157215,
+        "worst": -4.698165056289334,
+        "positive_pct": 61.101836393989984,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.5095885345363405,
+        "median": 0.6111085962609182,
+        "best": 13.556618819776725,
+        "worst": -6.966078227760468,
+        "positive_pct": 54.74956822107081,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 3.0936939535438395,
+        "median": 3.581383562800908,
+        "best": 17.200758710192677,
+        "worst": -8.003796267004116,
+        "positive_pct": 61.93078324225865,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 6.548766922323906,
+        "median": 3.2185564629173156,
+        "best": 24.13647183284845,
+        "worst": -1.9437407180920716,
+        "positive_pct": 92.47606019151847,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -0.97,
+      "3m": -1.88,
+      "6m": -2.81,
+      "1y": -0.23,
+      "2y": 1.02
+    },
+    "year_over_year": {
+      "2022": 12.04,
+      "2023": 2.08,
+      "2024": 2.7,
+      "2025": 1.35,
+      "2026": -1.09
+    },
+    "max_win_streak_days": 57,
+    "max_lose_streak_days": 39,
+    "positive_days_pct": 55.0
+  },
+  {
+    "key": "re_tampa",
+    "label": "Tampa",
+    "ticker": "FL-TPA",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 202.29,
+    "current_price": 296.8,
+    "all_time_high": 309.89,
+    "all_time_high_date": "2024-07-07",
+    "all_time_low": 202.29,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 46.72,
+    "cagr_pct": 7.97,
+    "annual_volatility_pct": 2.42,
+    "max_drawdown_pct": -9.12,
+    "max_drawdown_period": "2022-08-02 to 2023-01-25",
+    "sharpe_ratio": 0.55,
+    "sortino_ratio": 2.59,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.629162391976238,
+        "median": 0.46760871049218533,
+        "best": 6.683860814827776,
+        "worst": -5.996936600958974,
+        "positive_pct": 55.64830272676683,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.828081551118075,
+        "median": 0.9663797303881743,
+        "best": 13.468953596596192,
+        "worst": -6.070183086312111,
+        "positive_pct": 58.318940702360386,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 3.3406639992900957,
+        "median": 2.239928869434379,
+        "best": 15.474684835380033,
+        "worst": -9.048658545172872,
+        "positive_pct": 62.41651487553127,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 6.4484132102761516,
+        "median": 4.788676516317347,
+        "best": 26.768397033656587,
+        "worst": -8.790215883055282,
+        "positive_pct": 80.91655266757866,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": -1.2,
+      "3m": 4.29,
+      "6m": 2.81,
+      "1y": 1.7,
+      "2y": 3.3
+    },
+    "year_over_year": {
+      "2022": 3.7,
+      "2023": 7.04,
+      "2024": 4.42,
+      "2025": -2.13,
+      "2026": 2.05
+    },
+    "max_win_streak_days": 45,
+    "max_lose_streak_days": 31,
+    "positive_days_pct": 55.6
+  },
+  {
+    "key": "re_las_vegas",
+    "label": "Las Vegas",
+    "ticker": "NV-LV",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 182.6,
+    "current_price": 247.62,
+    "all_time_high": 266.48,
+    "all_time_high_date": "2025-06-07",
+    "all_time_low": 182.6,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 35.61,
+    "cagr_pct": 6.28,
+    "annual_volatility_pct": 1.11,
+    "max_drawdown_pct": -12.56,
+    "max_drawdown_period": "2022-07-08 to 2023-02-19",
+    "sharpe_ratio": 0.19,
+    "sortino_ratio": 3.59,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.49127064601408793,
+        "median": 0.5742666459723581,
+        "best": 4.435150513057436,
+        "worst": -3.425888117599026,
+        "positive_pct": 62.604340567612695,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.4950663011909193,
+        "median": 1.1454531334938216,
+        "best": 11.610623148485008,
+        "worst": -7.744348933460684,
+        "positive_pct": 64.24870466321244,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 2.8416382575207138,
+        "median": 2.4497511670074545,
+        "best": 18.811610076670316,
+        "worst": -11.203416149068328,
+        "positive_pct": 71.09896782027928,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 5.340108695512938,
+        "median": 4.706768686171092,
+        "best": 30.915398156777474,
+        "worst": -8.583211284976484,
+        "positive_pct": 70.86183310533517,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 0.12,
+      "3m": -2.12,
+      "6m": -4.05,
+      "1y": -4.72,
+      "2y": 1.12
+    },
+    "year_over_year": {
+      "2022": 1.65,
+      "2023": 5.98,
+      "2024": 5.02,
+      "2025": -2.17,
+      "2026": -1.83
+    },
+    "max_win_streak_days": 71,
+    "max_lose_streak_days": 44,
+    "positive_days_pct": 52.7
+  },
+  {
+    "key": "re_nashville",
+    "label": "Nashville",
+    "ticker": "TN-NASH",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 203.88,
+    "current_price": 274.11,
+    "all_time_high": 285.21,
+    "all_time_high_date": "2022-06-24",
+    "all_time_low": 203.88,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 34.45,
+    "cagr_pct": 6.1,
+    "annual_volatility_pct": 1.76,
+    "max_drawdown_pct": -9.8,
+    "max_drawdown_period": "2022-06-24 to 2022-12-15",
+    "sharpe_ratio": 0.06,
+    "sortino_ratio": 2.11,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.4857767305696964,
+        "median": 0.27276108608505045,
+        "best": 7.592493737937824,
+        "worst": -4.683924485125866,
+        "positive_pct": 56.8725653867557,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.3210395979653793,
+        "median": 0.19643506729720644,
+        "best": 15.312668128957496,
+        "worst": -8.602990800269945,
+        "positive_pct": 52.274035693724805,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 2.346678831900203,
+        "median": 1.6531961792799414,
+        "best": 19.366227878999233,
+        "worst": -9.527487186688193,
+        "positive_pct": 57.86278081360049,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 4.756477090270027,
+        "median": 1.1397646329858886,
+        "best": 27.30840149401919,
+        "worst": -4.2861656194053355,
+        "positive_pct": 61.35430916552668,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 1.51,
+      "3m": 0.98,
+      "6m": 0.23,
+      "1y": 2.1,
+      "2y": 1.72
+    },
+    "year_over_year": {
+      "2022": 6.69,
+      "2023": 2.8,
+      "2024": 2.79,
+      "2025": -2.53,
+      "2026": 3.02
+    },
+    "max_win_streak_days": 83,
+    "max_lose_streak_days": 61,
+    "positive_days_pct": 54.0
+  },
+  {
+    "key": "re_us",
+    "label": "US National",
+    "ticker": "NA-US",
+    "data_points": 1827,
+    "date_range": "2021-03-14 to 2026-03-14",
+    "start_price": 167.76,
+    "current_price": 212.05,
+    "all_time_high": 217.06,
+    "all_time_high_date": "2024-07-05",
+    "all_time_low": 167.76,
+    "all_time_low_date": "2021-03-14",
+    "total_return_pct": 26.4,
+    "cagr_pct": 4.8,
+    "annual_volatility_pct": 1.03,
+    "max_drawdown_pct": -12.59,
+    "max_drawdown_period": "2022-06-09 to 2023-02-08",
+    "sharpe_ratio": -0.74,
+    "sortino_ratio": 1.37,
+    "rolling_returns": {
+      "30d": {
+        "avg": 0.37140833570093096,
+        "median": 0.1527469820152758,
+        "best": 3.6907122159524124,
+        "worst": -3.6728837876614095,
+        "positive_pct": 57.15080690038954,
+        "count": 1797
+      },
+      "90d": {
+        "avg": 1.0379448513147063,
+        "median": 0.7822685788787516,
+        "best": 9.027742298063668,
+        "worst": -6.333017077798872,
+        "positive_pct": 58.4916522740357,
+        "count": 1737
+      },
+      "180d": {
+        "avg": 1.885033065698016,
+        "median": 2.2786069651741356,
+        "best": 13.687448243227248,
+        "worst": -11.460779708783468,
+        "positive_pct": 61.80935033394049,
+        "count": 1647
+      },
+      "365d": {
+        "avg": 3.525001407769307,
+        "median": 2.5230683911574205,
+        "best": 20.748719759844608,
+        "worst": -6.853948419223001,
+        "positive_pct": 68.33105335157319,
+        "count": 1462
+      }
+    },
+    "recent_performance": {
+      "1m": 1.01,
+      "3m": 0.72,
+      "6m": -0.59,
+      "1y": -1.16,
+      "2y": 2.18
+    },
+    "year_over_year": {
+      "2022": -2.48,
+      "2023": 7.13,
+      "2024": 3.98,
+      "2025": 0.34,
+      "2026": 0.73
+    },
+    "max_win_streak_days": 114,
+    "max_lose_streak_days": 102,
+    "positive_days_pct": 50.1
+  }
+]

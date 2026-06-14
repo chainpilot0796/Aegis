@@ -1,0 +1,92 @@
+openapi: 3.0.3
+info:
+  title: Aegis.0G Agent API
+  version: "1.0.0"
+  description: |
+    Agent-facing endpoints for Aegis.0G — principal-protected yield shields
+    on 0G Chain. Bearer auth uses an `aegis_sk_...` session key minted by the
+    user from the My Agents page.
+servers:
+  - url: /
+security:
+  - bearerAuth: []
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: aegis-session-key
+  schemas:
+    ShieldIntent:
+      type: object
+      required: [address, depositAmount, asset, durationMonths]
+      properties:
+        address: { type: string, description: "User EVM address (0x...)" }
+        depositAmount: { type: number, description: "A-USDC amount" }
+        asset: { type: string, description: "Asset id, e.g. gold, bitcoin" }
+        durationMonths: { type: integer, minimum: 1 }
+    RecommendRequest:
+      type: object
+      required: [concern]
+      properties:
+        concern: { type: string }
+        amount: { type: number }
+paths:
+  /api/ai/recommend-shield:
+    post:
+      summary: TEE-verified shield recommendation from a natural-language concern
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/RecommendRequest" }
+      responses:
+        "200": { description: Recommendation }
+  /api/yield-shield/simulate:
+    post:
+      summary: Project yield + exposure for a hypothetical shield
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ShieldIntent" }
+      responses:
+        "200": { description: Projection }
+  /api/yield-shield/prepare:
+    post:
+      summary: Upload agreement doc to 0G Storage, return on-chain args
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ShieldIntent" }
+      responses:
+        "200": { description: Prepare result with rootHash }
+  /api/yield-shield/activate:
+    post:
+      summary: Persist Shield record after on-chain createShield tx
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ShieldIntent" }
+      responses:
+        "200": { description: Activated shield }
+  /api/yield-shield/doc/{rootHash}:
+    get:
+      summary: Fetch a shield agreement document from 0G Storage
+      security: []
+      parameters:
+        - in: path
+          name: rootHash
+          required: true
+          schema: { type: string }
+      responses:
+        "200": { description: Shield agreement doc }
+        "404": { description: Not found }
+  /api/sponsors/zerog:
+    get:
+      summary: 0G stack health (chain, storage, compute, NIM fallback)
+      security: []
+      responses:
+        "200": { description: Sponsor health payload }

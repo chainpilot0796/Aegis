@@ -1,0 +1,450 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* shadcn/ui base — kept dark across the app */
+    --background: 240 28% 4%;
+    --foreground: 240 14% 90%;
+    --card: 240 24% 8%;
+    --card-foreground: 240 14% 90%;
+    --popover: 240 24% 8%;
+    --popover-foreground: 240 14% 90%;
+    --primary: 258 90% 76%;
+    --primary-foreground: 240 28% 4%;
+    --secondary: 240 24% 12%;
+    --secondary-foreground: 240 14% 90%;
+    --muted: 240 24% 14%;
+    --muted-foreground: 240 8% 60%;
+    --accent: 173 100% 45%;
+    --accent-foreground: 240 28% 4%;
+    --destructive: 0 84% 64%;
+    --destructive-foreground: 240 14% 90%;
+    --border: 240 26% 20%;
+    --input: 240 26% 18%;
+    --ring: 258 90% 76%;
+    --radius: 0.75rem;
+
+    /* ──────────────────────────────────────────────────────────────────────
+       Aegis design tokens — dark, verifiable-finance.
+       Violet = agent / TEE / primary action.
+       Cyan   = positive / verifiable.
+       Amber  = pending. Red = danger.
+       Legacy names (--t-blue, --t-green) are kept as aliases to violet so
+       all existing callers shift coherently to the new palette.
+       ────────────────────────────────────────────────────────────────────── */
+    --t-bg:            #07070C;
+    --t-bg-secondary:  #0F0F18;
+    --t-panel:         #14141F;
+    --t-panel-elev:    #1C1C29;
+    --t-border:        #262640;
+    --t-border-strong: #3A3A55;
+
+    --t-text:       #E8E8F0;
+    --t-text-muted: #8B8BA8;
+    --t-text-dim:   #5C5C80;
+
+    --t-violet:        #A78BFA;
+    --t-violet-strong: #7B3FF0;
+    --t-cyan:          #00E5D4;
+    --t-cyan-soft:     rgba(0, 229, 212, 0.12);
+    --t-amber:         #F59E0B;
+    --t-red:           #F25555;
+    --t-gold:          #F59E0B;
+
+    /* Legacy aliases — keep existing call-sites coherent with the new theme. */
+    --t-blue:  var(--t-violet);
+    --t-green: var(--t-violet);
+
+    /* Soft surfaces */
+    --surface-soft: rgba(167, 139, 250, 0.06);
+    --surface-soft-cyan: rgba(0, 229, 212, 0.06);
+  }
+
+  .dark { /* kept identical — app is dark-first; .dark class is a no-op */ }
+}
+
+@layer base {
+  * { @apply border-border; }
+
+  body {
+    font-family: 'Geist', ui-sans-serif, system-ui, sans-serif;
+    background-color: var(--t-bg);
+    color: var(--t-text);
+    min-height: 100vh;
+  }
+
+  /* Sane defaults for primitives that inherited the old white look */
+  input, textarea, select {
+    color-scheme: dark;
+  }
+}
+
+/* Terminal Panel */
+.t-panel {
+  background-color: var(--t-panel);
+  border: 1px solid var(--t-border);
+  border-radius: 14px;
+}
+
+.t-panel-green {
+  border-color: var(--t-violet);
+  background-color: rgba(167, 139, 250, 0.04);
+}
+
+.t-panel-header {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--t-border);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--t-text-muted);
+}
+
+/* Terminal Label */
+.t-label {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.7rem;
+  color: var(--t-text-muted);
+  font-family: 'Geist Mono', monospace;
+}
+
+.t-label::before {
+  content: '├ ';
+  color: var(--t-text-dim);
+}
+
+.t-label::after {
+  content: ' ┤';
+  color: var(--t-text-dim);
+}
+
+.t-label-green {
+  color: var(--t-violet);
+}
+
+.t-label-green::before,
+.t-label-green::after {
+  color: rgba(167, 139, 250, 0.55);
+}
+
+/* Section */
+.t-section::before {
+  content: '// ';
+  color: var(--t-text-dim);
+}
+
+/* Nav Items */
+.t-nav-item {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.65rem 1rem;
+  font-size: 0.72rem;
+  color: var(--t-text-muted);
+  border-left: 2px solid transparent;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+}
+
+.t-nav-item:hover {
+  border-left-color: var(--t-violet);
+  color: var(--t-text);
+  background-color: rgba(167, 139, 250, 0.06);
+}
+
+.t-nav-item.active {
+  background-color: rgba(167, 139, 250, 0.10);
+  border-left-color: var(--t-violet);
+  color: var(--t-violet);
+}
+
+/* Input */
+.t-input {
+  background-color: var(--t-panel-elev);
+  border: 1px solid var(--t-border);
+  color: var(--t-text);
+  font-family: 'Geist Mono', monospace;
+  border-radius: 10px;
+  padding: 0.55rem 0.85rem;
+  font-size: 0.875rem;
+  width: 100%;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.t-input:focus {
+  border-color: var(--t-violet);
+  box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.18);
+}
+
+.t-input::placeholder {
+  color: var(--t-text-dim);
+}
+
+/* Buttons */
+.t-btn {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: 'Geist Mono', monospace;
+  border-radius: 10px;
+  padding: 0.6rem 1.1rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border: 1px solid transparent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Use Geist (sans) inside panels that opt in */
+.font-sans .t-panel-header,
+.font-sans .t-label,
+.font-sans .t-input,
+.font-sans .t-btn,
+.font-sans .t-tag {
+  font-family: inherit;
+}
+
+.font-sans .t-label::before,
+.font-sans .t-label::after {
+  content: none;
+  display: none;
+}
+
+.t-btn-primary {
+  background-image: linear-gradient(135deg, var(--t-violet-strong) 0%, var(--t-violet) 70%);
+  color: #07070C;
+  border-color: transparent;
+  box-shadow: 0 0 0 0 rgba(167, 139, 250, 0.0);
+}
+
+.t-btn-primary:hover {
+  filter: brightness(1.07);
+  box-shadow: 0 0 0 4px rgba(167, 139, 250, 0.18);
+}
+
+.t-btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.t-btn-ghost {
+  background-color: transparent;
+  border: 1px solid var(--t-border);
+  color: var(--t-text-muted);
+}
+
+.t-btn-ghost:hover {
+  border-color: var(--t-violet);
+  color: var(--t-text);
+  background-color: rgba(167, 139, 250, 0.06);
+}
+
+.t-btn-ghost.active {
+  border-color: var(--t-violet);
+  color: var(--t-violet);
+  background-color: rgba(167, 139, 250, 0.10);
+}
+
+.t-btn-danger {
+  background-color: rgba(242, 85, 85, 0.10);
+  border: 1px solid rgba(242, 85, 85, 0.45);
+  color: var(--t-red);
+}
+
+.t-btn-danger:hover {
+  background-color: rgba(242, 85, 85, 0.18);
+}
+
+/* Stat Cards */
+.t-stat {
+  padding: 1rem;
+  background-color: var(--t-panel-elev);
+  border: 1px solid var(--t-border);
+  border-radius: 12px;
+}
+
+.t-stat-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--t-text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.t-stat-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--t-text);
+}
+
+/* Tags */
+.t-tag {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--t-border);
+  color: var(--t-text-muted);
+  font-family: 'Geist Mono', monospace;
+  border-radius: 4px;
+  background-color: rgba(167, 139, 250, 0.04);
+}
+
+.t-tag-green {
+  border-color: rgba(167, 139, 250, 0.4);
+  color: var(--t-violet);
+  background-color: rgba(167, 139, 250, 0.10);
+}
+
+.t-tag-red {
+  border-color: rgba(242, 85, 85, 0.4);
+  color: var(--t-red);
+  background-color: rgba(242, 85, 85, 0.10);
+}
+
+.t-tag-blue {
+  border-color: rgba(167, 139, 250, 0.4);
+  color: var(--t-violet);
+  background-color: rgba(167, 139, 250, 0.10);
+}
+
+.t-tag-cyan {
+  border-color: rgba(0, 229, 212, 0.4);
+  color: var(--t-cyan);
+  background-color: var(--t-cyan-soft);
+}
+
+.t-tag-gold {
+  border-color: rgba(245, 158, 11, 0.4);
+  color: var(--t-amber);
+  background-color: rgba(245, 158, 11, 0.10);
+}
+
+/* Glass Card */
+.glass-card {
+  background-color: var(--t-panel);
+  border: 1px solid var(--t-border);
+  border-radius: 14px;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.glass-card:hover {
+  border-color: var(--t-violet);
+}
+
+/* Price Flash Animations */
+.price-up   { animation: flashCyan 0.6s ease-out; }
+.price-down { animation: flashRed  0.6s ease-out; }
+
+@keyframes flashCyan {
+  0%   { background-color: rgba(0, 229, 212, 0.22); }
+  100% { background-color: transparent; }
+}
+
+@keyframes flashRed {
+  0%   { background-color: rgba(242, 85, 85, 0.22); }
+  100% { background-color: transparent; }
+}
+
+/* Ticker Track */
+.ticker-track {
+  display: flex;
+  animation: tickerScroll 60s linear infinite;
+  white-space: nowrap;
+}
+
+@keyframes tickerScroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes ticker_25s_linear_infinite {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-ticker-25s {
+  animation: ticker_25s_linear_infinite 25s linear infinite;
+}
+
+/* Cursor Blink */
+.cursor-blink::after {
+  content: '█';
+  animation: blink 1s step-end infinite;
+  color: var(--t-violet);
+}
+
+@keyframes blink {
+  0%, 50%   { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Hedge Pulse CTA */
+.hedge-pulse {
+  animation: hedgePulse 2s ease-in-out infinite;
+}
+
+@keyframes hedgePulse {
+  0%, 100% { box-shadow: 0 0 5px  rgba(167, 139, 250, 0.30); }
+  50%      { box-shadow: 0 0 20px rgba(167, 139, 250, 0.50),
+                         0 0 40px rgba(0, 229, 212, 0.20); }
+}
+
+/* Shield activation loader */
+.shield-loader {
+  width: 20px;
+  height: 20px;
+  border-radius: 9999px;
+  border: 2px solid rgba(167, 139, 250, 0.20);
+  border-top-color: var(--t-violet);
+  border-right-color: var(--t-cyan);
+  animation: shieldSpin 0.7s linear infinite;
+}
+
+@keyframes shieldSpin {
+  to { transform: rotate(360deg); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--t-bg-secondary); }
+::-webkit-scrollbar-thumb {
+  background: var(--t-border-strong);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--t-violet); }
+
+/* Utility for theme colors */
+.text-t-green  { color: var(--t-violet); }
+.text-t-red    { color: var(--t-red);    }
+.text-t-blue   { color: var(--t-violet); }
+.text-t-violet { color: var(--t-violet); }
+.text-t-cyan   { color: var(--t-cyan);   }
+.text-t-gold   { color: var(--t-gold);   }
+.text-t-muted  { color: var(--t-text-muted); }
+.text-t-dim    { color: var(--t-text-dim);   }
+.bg-t-bg       { background-color: var(--t-bg);     }
+.bg-t-panel    { background-color: var(--t-panel);  }
+.border-t-border { border-color: var(--t-border);    }
+
+/* StarBorder animation keyframes */
+@keyframes star-movement-bottom {
+  0%   { transform: translate(0%, 0%);    opacity: 1; }
+  100% { transform: translate(-100%, 0%); opacity: 0; }
+}
+
+@keyframes star-movement-top {
+  0%   { transform: translate(0%, 0%);   opacity: 1; }
+  100% { transform: translate(100%, 0%); opacity: 0; }
+}

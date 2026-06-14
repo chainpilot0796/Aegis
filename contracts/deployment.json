@@ -1,0 +1,110 @@
+{
+  "networks": {
+    "baseSepolia": {
+      "network": "baseSepolia",
+      "label": "Base Sepolia (legacy)",
+      "chainId": "84532",
+      "explorer": "https://sepolia.basescan.org",
+      "deployer": "0x71AfE44200A819171a0687b1026E8d4424472Ff8",
+      "relayer": "0x71AfE44200A819171a0687b1026E8d4424472Ff8",
+      "deploymentTime": "2026-03-14T04:53:50.931Z",
+      "contracts": {
+        "husdc": {
+          "address": "0x17b9526493820C6EB04988433B9220B06e210a3e",
+          "name": "Aegis USD",
+          "symbol": "A-USDC",
+          "decimals": 6
+        },
+        "hedgeVault": {
+          "address": "0xc4220872C6b1Bc83dE46180B6F4Df42151567604",
+          "husdcToken": "0x17b9526493820C6EB04988433B9220B06e210a3e",
+          "relayer": "0x71AfE44200A819171a0687b1026E8d4424472Ff8"
+        }
+      },
+      "_note": "Legacy Base Sepolia deployment. Aegis.0G lives under ogTestnet / ogMainnet."
+    },
+    "ogTestnet": {
+      "network": "ogTestnet",
+      "label": "0G Galileo Testnet",
+      "chainId": "16602",
+      "explorer": "https://chainscan-galileo.0g.ai",
+      "deployer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+      "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+      "deploymentTime": "2026-05-16T12:08:14.420Z",
+      "contracts": {
+        "ausdc": {
+          "address": "0xA3CD4843Fc8f2Af53fa4786b16F70c90BfecD2F2",
+          "name": "Aegis USD",
+          "symbol": "A-USDC",
+          "decimals": 6,
+          "txHash": "0x9185d0d7d1ee9107dc956cf0a79cacc8c9d6b55f4df14d43ae38274f43b06752"
+        },
+        "aegisVault": {
+          "address": "0x60403dd3CC683F65Db6dEb8597051aDc80506C3F",
+          "ausdcToken": "0xA3CD4843Fc8f2Af53fa4786b16F70c90BfecD2F2",
+          "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+          "txHash": "0x8458bf25e3f623688f2e3e59d21ade28254938499f47447886571d69f9bf4505"
+        }
+      }
+    },
+    "ogMainnet": {
+      "network": "ogMainnet",
+      "label": "0G Aristotle Mainnet",
+      "chainId": "16661",
+      "explorer": "https://chainscan.0g.ai",
+      "deployer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+      "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+      "deploymentTime": "2026-05-16T14:51:49.431Z",
+      "contracts": {
+        "ausdc": {
+          "address": "0xA3CD4843Fc8f2Af53fa4786b16F70c90BfecD2F2",
+          "name": "Aegis USD",
+          "symbol": "A-USDC",
+          "decimals": 6,
+          "txHash": "0x2a17704d508b6304f1403a77b69c395aa5d05fae8c9c9407d1852bef823dfffd"
+        },
+        "aegisVault": {
+          "address": "0x60403dd3CC683F65Db6dEb8597051aDc80506C3F",
+          "ausdcToken": "0xA3CD4843Fc8f2Af53fa4786b16F70c90BfecD2F2",
+          "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
+          "txHash": "0xd52ad1c0095210a4814c9b9baa00ea7be16655a3e63b0996a11c87c47656913f"
+        }
+      }
+    },
+    "mantleSepolia": {
+      "network": "mantleSepolia",
+      "label": "Mantle Sepolia Testnet",
+      "chainId": "5003",
+      "explorer": "https://sepolia.mantlescan.xyz",
+      "deployer": "0x7176DC1B76a17BB502324Dd825EaB983F675DD7a",
+      "relayer": "0x7176DC1B76a17BB502324Dd825EaB983F675DD7a",
+      "deploymentTime": "2026-06-14T11:15:13.352Z",
+      "protocolFeeBps": 1000,
+      "contracts": {
+        "usdy": {
+          "address": "0x0Ab24f25f0Be64BF9AD9857a9f12CE1d11157Ff1",
+          "name": "Ondo US Dollar Yield",
+          "symbol": "USDY",
+          "decimals": 6,
+          "txHash": "0xe901668d1eb350bbca6b892be8bba0a716dbfcc71f1859c56293023420356953",
+          "role": "deposit / settlement asset"
+        },
+        "meth": {
+          "address": "0x9D504DAE235A128b48401EdE055CE729394a937A",
+          "name": "Mantle Staked Ether",
+          "symbol": "mETH",
+          "decimals": 18,
+          "txHash": "0x1b22e7c40c32b59f58c7ed582913bc72f2741efef2a39473d8f48cce291f27fc",
+          "role": "hedge target"
+        },
+        "aegisVault": {
+          "address": "0x2dD69482E709b864EB6791f5948Bdc1e96981638",
+          "depositToken": "0x0Ab24f25f0Be64BF9AD9857a9f12CE1d11157Ff1",
+          "relayer": "0x7176DC1B76a17BB502324Dd825EaB983F675DD7a",
+          "protocolFeeBps": 1000,
+          "txHash": "0x568b5b601266704f562cf4dcc7c0531a41c0e0b2466b25b7895b2fb77d82bac5"
+        }
+      }
+    }
+  }
+}

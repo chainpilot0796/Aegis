@@ -1,0 +1,82 @@
+# ─── Secrets — never commit ────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Fileverse portal keys (RSA private keys, encrypted portal secrets, etc.)
+server/creds/
+server/creds/*
+**/creds/
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+
+# ─── Dependencies ──────────────────────────────────────────────────────────
+node_modules/
+**/node_modules/
+.pnpm-store/
+
+# ─── Build / cache ─────────────────────────────────────────────────────────
+dist/
+build/
+.next/
+.cache/
+.vite/
+**/dist/
+**/build/
+
+# Hardhat
+contracts/cache/
+contracts/artifacts/
+contracts/typechain/
+contracts/typechain-types/
+contracts/coverage/
+contracts/coverage.json
+contracts/ignition/deployments/chain-31337/
+
+# ─── Test artifacts ────────────────────────────────────────────────────────
+playwright-report/
+test-results/
+**/playwright-report/
+**/test-results/
+tests-e2e/node_modules/
+tests-e2e/recordings/
+tests-e2e/last-mainnet-flow.json
+
+# Real-MetaMask recording scratch: the bundled MetaMask 13.13.1 extension files
+# and the per-run synpress cache. Re-downloadable; don't pollute git.
+tests-e2e/.cache-synpress/
+tests-e2e/.mm-profile/
+tests-e2e/.aegis-setup-compiled.mjs
+tests-e2e/test/
+tests-e2e/tests/
+tests-e2e/playwright.config.ts
+tests-e2e/synpress-build-cache.mjs
+
+# ─── Editor / OS ───────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.swp
+
+# ─── Local-only assets / brainstorm sessions ──────────────────────────────
+.superpowers/
+.cursorignore
+backtest/results/charts_data.json
+
+# ─── Anthropic / Claude tooling caches ────────────────────────────────────
+.claude/
+**/.claude/

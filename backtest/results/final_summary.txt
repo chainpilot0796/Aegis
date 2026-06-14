@@ -1,0 +1,43 @@
+======================================================================
+  PPN FINAL BACKTEST SUMMARY
+  12,523,401 simulations | 25 assets | 5775 configs
+  Protocols: Aave V3 (2.46%), Morpho Steakhouse (3.63%), Moonwell (3.43%)
+  APYs fetched LIVE from DeFiLlama yields.llama.fi/pools
+======================================================================
+
+PRINCIPAL PROTECTION: 100.0000%
+
+WORTH-IT MARKETS (>10% annualized, <20% liquidation):
+                Solana: +44.6%/yr | liq 0.0% | Morpho Steakhouse 1x 365d
+                   XRP: +28.8%/yr | liq 0.0% | Morpho Steakhouse 1x 365d
+              Ethereum: +23.1%/yr | liq 0.0% | Morpho Steakhouse 1x 365d
+               Bitcoin: +10.4%/yr | liq 19.9% | Morpho Steakhouse 2x 270d
+
+ALL MARKETS — BEST SAFE CONFIG (<20% liq):
+               Bitcoin: +10.4%/yr | liq 19.9% | Morpho Steakhouse 2x 270d | 4,432 sims
+              Ethereum: +23.1%/yr | liq 0.0% | Morpho Steakhouse 1x 365d | 3,507 sims
+            Gold (XAU): +5.8%/yr | liq 9.9% | Morpho Steakhouse 5x 365d | 3,707 sims
+               Atlanta: +4.0%/yr | liq 16.8% | Morpho Steakhouse 30x 30d | 1,797 sims
+                Austin: +3.5%/yr | liq 0.0% | Morpho Steakhouse 1x 30d | 1,797 sims
+                Boston: +3.9%/yr | liq 0.0% | Morpho Steakhouse 5x 365d | 1,462 sims
+              Brooklyn: +4.1%/yr | liq 15.5% | Morpho Steakhouse 10x 270d | 1,557 sims
+             Charlotte: +6.5%/yr | liq 10.2% | Morpho Steakhouse 15x 365d | 1,462 sims
+               Chicago: +4.2%/yr | liq 19.2% | Morpho Steakhouse 15x 90d | 1,737 sims
+         Washington DC: +3.5%/yr | liq 0.0% | Morpho Steakhouse 1x 30d | 1,797 sims
+                Denver: +3.8%/yr | liq 14.8% | Morpho Steakhouse 20x 60d | 1,767 sims
+           Los Angeles: +4.2%/yr | liq 18.0% | Morpho Steakhouse 15x 365d | 1,462 sims
+             Las Vegas: +7.2%/yr | liq 17.0% | Morpho Steakhouse 20x 365d | 1,462 sims
+                 Miami: +6.3%/yr | liq 8.6% | Morpho Steakhouse 10x 365d | 1,462 sims
+           Miami Beach: +5.3%/yr | liq 4.7% | Morpho Steakhouse 10x 365d | 1,462 sims
+             Nashville: +5.8%/yr | liq 9.2% | Morpho Steakhouse 15x 365d | 1,462 sims
+         New York City: +5.0%/yr | liq 18.4% | Morpho Steakhouse 15x 270d | 1,557 sims
+            Pittsburgh: +4.1%/yr | liq 14.8% | Morpho Steakhouse 5x 270d | 1,557 sims
+             San Diego: +5.8%/yr | liq 10.2% | Morpho Steakhouse 15x 365d | 1,462 sims
+         San Francisco: +3.5%/yr | liq 0.0% | Morpho Steakhouse 1x 30d | 1,797 sims
+                 Tampa: +6.5%/yr | liq 10.2% | Morpho Steakhouse 15x 365d | 1,462 sims
+           US National: +6.0%/yr | liq 17.8% | Morpho Steakhouse 50x 90d | 1,737 sims
+          Silver (XAG): +4.6%/yr | liq 13.6% | Morpho Steakhouse 3x 365d | 3,707 sims
+                Solana: +44.6%/yr | liq 0.0% | Morpho Steakhouse 1x 365d | 1,799 sims
+                   XRP: +28.8%/yr | liq 0.0% | Morpho Steakhouse 1x 365d | 4,236 sims
+
+======================================================================

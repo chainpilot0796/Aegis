@@ -1,0 +1,9767 @@
+[
+  {
+    "date": "2022-03-27",
+    "apy": 0.9224,
+    "apy_base": 0.9224,
+    "apy_reward": 0,
+    "tvl_usd": 47371550
+  },
+  {
+    "date": "2022-03-28",
+    "apy": 1.2616,
+    "apy_base": 1.2616,
+    "apy_reward": 0,
+    "tvl_usd": 47202947
+  },
+  {
+    "date": "2022-03-29",
+    "apy": 1.9018,
+    "apy_base": 1.9018,
+    "apy_reward": 0,
+    "tvl_usd": 47144312
+  },
+  {
+    "date": "2022-03-30",
+    "apy": 1.9873,
+    "apy_base": 1.9873,
+    "apy_reward": 0,
+    "tvl_usd": 47320819
+  },
+  {
+    "date": "2022-03-31",
+    "apy": 1.9578,
+    "apy_base": 1.9578,
+    "apy_reward": 0,
+    "tvl_usd": 47337584
+  },
+  {
+    "date": "2022-04-01",
+    "apy": 3.5103,
+    "apy_base": 3.5103,
+    "apy_reward": 0,
+    "tvl_usd": 47387414
+  },
+  {
+    "date": "2022-04-02",
+    "apy": 2.852,
+    "apy_base": 2.852,
+    "apy_reward": 0,
+    "tvl_usd": 46291290
+  },
+  {
+    "date": "2022-04-03",
+    "apy": 1.1257,
+    "apy_base": 1.1257,
+    "apy_reward": 0,
+    "tvl_usd": 46159008
+  },
+  {
+    "date": "2022-04-04",
+    "apy": 5.2409,
+    "apy_base": 5.2409,
+    "apy_reward": 0,
+    "tvl_usd": 39894691
+  },
+  {
+    "date": "2022-04-05",
+    "apy": 3.4222,
+    "apy_base": 3.4222,
+    "apy_reward": 0,
+    "tvl_usd": 39858497
+  },
+  {
+    "date": "2022-04-06",
+    "apy": 2.8047,
+    "apy_base": 2.8047,
+    "apy_reward": 0,
+    "tvl_usd": 39845741
+  },
+  {
+    "date": "2022-04-07",
+    "apy": 6.8512,
+    "apy_base": 6.8512,
+    "apy_reward": 0,
+    "tvl_usd": 39852643
+  },
+  {
+    "date": "2022-04-08",
+    "apy": 2.2492,
+    "apy_base": 2.2492,
+    "apy_reward": 0,
+    "tvl_usd": 52822720
+  },
+  {
+    "date": "2022-04-09",
+    "apy": 2.0023,
+    "apy_base": 2.0023,
+    "apy_reward": 0,
+    "tvl_usd": 52736465
+  },
+  {
+    "date": "2022-04-10",
+    "apy": 3.2594,
+    "apy_base": 3.2594,
+    "apy_reward": 0,
+    "tvl_usd": 52846144
+  },
+  {
+    "date": "2022-04-11",
+    "apy": 1.7708,
+    "apy_base": 1.7708,
+    "apy_reward": 0,
+    "tvl_usd": 52907098
+  },
+  {
+    "date": "2022-04-12",
+    "apy": 6.6294,
+    "apy_base": 6.6294,
+    "apy_reward": 0,
+    "tvl_usd": 34173676
+  },
+  {
+    "date": "2022-04-13",
+    "apy": 1.5902,
+    "apy_base": 1.5902,
+    "apy_reward": 0,
+    "tvl_usd": 33516333
+  },
+  {
+    "date": "2022-04-14",
+    "apy": 1.0998,
+    "apy_base": 1.0998,
+    "apy_reward": 0,
+    "tvl_usd": 33511518
+  },
+  {
+    "date": "2022-04-15",
+    "apy": 1.14,
+    "apy_base": 1.14,
+    "apy_reward": 0,
+    "tvl_usd": 33508080
+  },
+  {
+    "date": "2022-04-16",
+    "apy": 3.1846,
+    "apy_base": 3.1846,
+    "apy_reward": 0,
+    "tvl_usd": 33499502
+  },
+  {
+    "date": "2022-04-17",
+    "apy": 10.6686,
+    "apy_base": 10.6686,
+    "apy_reward": 0,
+    "tvl_usd": 33503191
+  },
+  {
+    "date": "2022-04-18",
+    "apy": 10.6429,
+    "apy_base": 10.6429,
+    "apy_reward": 0,
+    "tvl_usd": 32061883
+  },
+  {
+    "date": "2022-04-19",
+    "apy": 14.4016,
+    "apy_base": 14.4016,
+    "apy_reward": 0,
+    "tvl_usd": 32888620
+  },
+  {
+    "date": "2022-04-20",
+    "apy": 6.6696,
+    "apy_base": 6.6696,
+    "apy_reward": 0,
+    "tvl_usd": 33800511
+  },
+  {
+    "date": "2022-04-21",
+    "apy": 10.8923,
+    "apy_base": 10.8923,
+    "apy_reward": 0,
+    "tvl_usd": 33819430
+  },
+  {
+    "date": "2022-04-22",
+    "apy": 4.5783,
+    "apy_base": 4.5783,
+    "apy_reward": 0,
+    "tvl_usd": 33813576
+  },
+  {
+    "date": "2022-04-23",
+    "apy": 3.4545,
+    "apy_base": 3.4545,
+    "apy_reward": 0,
+    "tvl_usd": 33842584
+  },
+  {
+    "date": "2022-04-24",
+    "apy": 3.8562,
+    "apy_base": 3.8562,
+    "apy_reward": 0,
+    "tvl_usd": 33864566
+  },
+  {
+    "date": "2022-04-25",
+    "apy": 3.4214,
+    "apy_base": 3.4214,
+    "apy_reward": 0,
+    "tvl_usd": 33833935
+  },
+  {
+    "date": "2022-04-26",
+    "apy": 2.3356,
+    "apy_base": 2.3356,
+    "apy_reward": 0,
+    "tvl_usd": 33965358
+  },
+  {
+    "date": "2022-04-27",
+    "apy": 4.2867,
+    "apy_base": 4.2867,
+    "apy_reward": 0,
+    "tvl_usd": 33936428
+  },
+  {
+    "date": "2022-04-28",
+    "apy": 3.6535,
+    "apy_base": 3.6535,
+    "apy_reward": 0,
+    "tvl_usd": 41501443
+  },
+  {
+    "date": "2022-04-29",
+    "apy": 1.6538,
+    "apy_base": 1.6538,
+    "apy_reward": 0,
+    "tvl_usd": 34597580
+  },
+  {
+    "date": "2022-04-30",
+    "apy": 1.0792,
+    "apy_base": 1.0792,
+    "apy_reward": 0,
+    "tvl_usd": 34472387
+  },
+  {
+    "date": "2022-05-01",
+    "apy": 2.8696,
+    "apy_base": 2.8696,
+    "apy_reward": 0,
+    "tvl_usd": 33171711
+  },
+  {
+    "date": "2022-05-02",
+    "apy": 1.6492,
+    "apy_base": 1.6492,
+    "apy_reward": 0,
+    "tvl_usd": 33147658
+  },
+  {
+    "date": "2022-05-03",
+    "apy": 1.8793,
+    "apy_base": 1.8793,
+    "apy_reward": 0,
+    "tvl_usd": 33210444
+  },
+  {
+    "date": "2022-05-04",
+    "apy": 4.3567,
+    "apy_base": 4.3567,
+    "apy_reward": 0,
+    "tvl_usd": 33268401
+  },
+  {
+    "date": "2022-05-05",
+    "apy": 2.7461,
+    "apy_base": 2.7461,
+    "apy_reward": 0,
+    "tvl_usd": 33780790
+  },
+  {
+    "date": "2022-05-06",
+    "apy": 3.6978,
+    "apy_base": 3.6978,
+    "apy_reward": 0,
+    "tvl_usd": 33738916
+  },
+  {
+    "date": "2022-05-07",
+    "apy": 1.6415,
+    "apy_base": 1.6415,
+    "apy_reward": 0,
+    "tvl_usd": 33704869
+  },
+  {
+    "date": "2022-05-08",
+    "apy": 2.5842,
+    "apy_base": 2.5842,
+    "apy_reward": 0,
+    "tvl_usd": 33839598
+  },
+  {
+    "date": "2022-05-09",
+    "apy": 3.0572,
+    "apy_base": 3.0572,
+    "apy_reward": 0,
+    "tvl_usd": 31797762
+  },
+  {
+    "date": "2022-05-10",
+    "apy": 3.8317,
+    "apy_base": 3.8317,
+    "apy_reward": 0,
+    "tvl_usd": 32047828
+  },
+  {
+    "date": "2022-05-11",
+    "apy": 14.5374,
+    "apy_base": 14.5374,
+    "apy_reward": 0,
+    "tvl_usd": 31209416
+  },
+  {
+    "date": "2022-05-12",
+    "apy": 90.7266,
+    "apy_base": 90.7266,
+    "apy_reward": 0,
+    "tvl_usd": 31594708
+  },
+  {
+    "date": "2022-05-13",
+    "apy": 6.9124,
+    "apy_base": 6.9124,
+    "apy_reward": 0,
+    "tvl_usd": 33653177
+  },
+  {
+    "date": "2022-05-14",
+    "apy": 3.2456,
+    "apy_base": 3.2456,
+    "apy_reward": 0,
+    "tvl_usd": 33043402
+  },
+  {
+    "date": "2022-05-15",
+    "apy": 1.0021,
+    "apy_base": 1.0021,
+    "apy_reward": 0,
+    "tvl_usd": 31069194
+  },
+  {
+    "date": "2022-05-16",
+    "apy": 2.6079,
+    "apy_base": 2.6079,
+    "apy_reward": 0,
+    "tvl_usd": 31024942
+  },
+  {
+    "date": "2022-05-17",
+    "apy": 1.8731,
+    "apy_base": 1.8731,
+    "apy_reward": 0,
+    "tvl_usd": 31072571
+  },
+  {
+    "date": "2022-05-18",
+    "apy": 1.7979,
+    "apy_base": 1.7979,
+    "apy_reward": 0,
+    "tvl_usd": 31011034
+  },
+  {
+    "date": "2022-05-19",
+    "apy": 1.8114,
+    "apy_base": 1.8114,
+    "apy_reward": 0,
+    "tvl_usd": 27335738
+  },
+  {
+    "date": "2022-05-20",
+    "apy": 1.8911,
+    "apy_base": 1.8911,
+    "apy_reward": 0,
+    "tvl_usd": 27343147
+  },
+  {
+    "date": "2022-05-21",
+    "apy": 1.7547,
+    "apy_base": 1.7547,
+    "apy_reward": 0,
+    "tvl_usd": 27346750
+  },
+  {
+    "date": "2022-05-22",
+    "apy": 0.6648,
+    "apy_base": 0.6648,
+    "apy_reward": 0,
+    "tvl_usd": 27333593
+  },
+  {
+    "date": "2022-05-23",
+    "apy": 2.5546,
+    "apy_base": 2.5546,
+    "apy_reward": 0,
+    "tvl_usd": 26811056
+  },
+  {
+    "date": "2022-05-24",
+    "apy": 2.1918,
+    "apy_base": 2.1918,
+    "apy_reward": 0,
+    "tvl_usd": 26113335
+  },
+  {
+    "date": "2022-05-25",
+    "apy": 3.0641,
+    "apy_base": 3.0641,
+    "apy_reward": 0,
+    "tvl_usd": 22705783
+  },
+  {
+    "date": "2022-05-26",
+    "apy": 3.407,
+    "apy_base": 3.407,
+    "apy_reward": 0,
+    "tvl_usd": 18286157
+  },
+  {
+    "date": "2022-05-27",
+    "apy": 3.2502,
+    "apy_base": 3.2502,
+    "apy_reward": 0,
+    "tvl_usd": 18269537
+  },
+  {
+    "date": "2022-05-28",
+    "apy": 1.8432,
+    "apy_base": 1.8432,
+    "apy_reward": 0,
+    "tvl_usd": 18279169
+  },
+  {
+    "date": "2022-05-29",
+    "apy": 2.7942,
+    "apy_base": 2.7942,
+    "apy_reward": 0,
+    "tvl_usd": 18289493
+  },
+  {
+    "date": "2022-05-30",
+    "apy": 3.8658,
+    "apy_base": 3.8658,
+    "apy_reward": 0,
+    "tvl_usd": 18278958
+  },
+  {
+    "date": "2022-05-31",
+    "apy": 2.8012,
+    "apy_base": 2.8012,
+    "apy_reward": 0,
+    "tvl_usd": 18280365
+  },
+  {
+    "date": "2022-06-01",
+    "apy": 2.7072,
+    "apy_base": 2.7072,
+    "apy_reward": 0,
+    "tvl_usd": 18277637
+  },
+  {
+    "date": "2022-06-02",
+    "apy": 2.4292,
+    "apy_base": 2.4292,
+    "apy_reward": 0,
+    "tvl_usd": 18240270
+  },
+  {
+    "date": "2022-06-03",
+    "apy": 4.3163,
+    "apy_base": 4.3163,
+    "apy_reward": 0,
+    "tvl_usd": 18251423
+  },
+  {
+    "date": "2022-06-05",
+    "apy": 4.1949,
+    "apy_base": 4.1949,
+    "apy_reward": 0,
+    "tvl_usd": 18265771
+  },
+  {
+    "date": "2022-06-06",
+    "apy": 3.0838,
+    "apy_base": 3.0838,
+    "apy_reward": 0,
+    "tvl_usd": 18878031
+  },
+  {
+    "date": "2022-06-07",
+    "apy": 5.3728,
+    "apy_base": 5.3728,
+    "apy_reward": 0,
+    "tvl_usd": 19088176
+  },
+  {
+    "date": "2022-06-08",
+    "apy": 1.7705,
+    "apy_base": 1.7705,
+    "apy_reward": 0,
+    "tvl_usd": 18844084
+  },
+  {
+    "date": "2022-06-09",
+    "apy": 2.2999,
+    "apy_base": 2.2999,
+    "apy_reward": 0,
+    "tvl_usd": 19354949
+  },
+  {
+    "date": "2022-06-10",
+    "apy": 4.2199,
+    "apy_base": 4.2199,
+    "apy_reward": 0,
+    "tvl_usd": 19004828
+  },
+  {
+    "date": "2022-06-11",
+    "apy": 2.5674,
+    "apy_base": 2.5674,
+    "apy_reward": 0,
+    "tvl_usd": 19335718
+  },
+  {
+    "date": "2022-06-12",
+    "apy": 5.0079,
+    "apy_base": 5.0079,
+    "apy_reward": 0,
+    "tvl_usd": 19000036
+  },
+  {
+    "date": "2022-06-13",
+    "apy": 8.5482,
+    "apy_base": 8.5482,
+    "apy_reward": 0,
+    "tvl_usd": 63982639
+  },
+  {
+    "date": "2022-06-14",
+    "apy": 3.7973,
+    "apy_base": 3.7973,
+    "apy_reward": 0,
+    "tvl_usd": 45796974
+  },
+  {
+    "date": "2022-06-15",
+    "apy": 6.7863,
+    "apy_base": 6.7863,
+    "apy_reward": 0,
+    "tvl_usd": 15236823
+  },
+  {
+    "date": "2022-06-16",
+    "apy": 2.514,
+    "apy_base": 2.514,
+    "apy_reward": 0,
+    "tvl_usd": 15237258
+  },
+  {
+    "date": "2022-06-17",
+    "apy": 2.6921,
+    "apy_base": 2.6921,
+    "apy_reward": 0,
+    "tvl_usd": 15223204
+  },
+  {
+    "date": "2022-06-18",
+    "apy": 4.6203,
+    "apy_base": 4.6203,
+    "apy_reward": 0,
+    "tvl_usd": 15222629
+  },
+  {
+    "date": "2022-06-19",
+    "apy": 2.5286,
+    "apy_base": 2.5286,
+    "apy_reward": 0,
+    "tvl_usd": 16243733
+  },
+  {
+    "date": "2022-06-20",
+    "apy": 3.1328,
+    "apy_base": 3.1328,
+    "apy_reward": 0,
+    "tvl_usd": 15560236
+  },
+  {
+    "date": "2022-06-21",
+    "apy": 2.5901,
+    "apy_base": 2.5901,
+    "apy_reward": 0,
+    "tvl_usd": 15495095
+  },
+  {
+    "date": "2022-06-22",
+    "apy": 3.0204,
+    "apy_base": 3.0204,
+    "apy_reward": 0,
+    "tvl_usd": 15466352
+  },
+  {
+    "date": "2022-06-23",
+    "apy": 2.0718,
+    "apy_base": 2.0718,
+    "apy_reward": 0,
+    "tvl_usd": 15429793
+  },
+  {
+    "date": "2022-06-24",
+    "apy": 2.9295,
+    "apy_base": 2.9295,
+    "apy_reward": 0,
+    "tvl_usd": 15065681
+  },
+  {
+    "date": "2022-06-25",
+    "apy": 1.9737,
+    "apy_base": 1.9737,
+    "apy_reward": 0,
+    "tvl_usd": 15051489
+  },
+  {
+    "date": "2022-06-26",
+    "apy": 1.3203,
+    "apy_base": 1.3203,
+    "apy_reward": 0,
+    "tvl_usd": 15067093
+  },
+  {
+    "date": "2022-06-27",
+    "apy": 12.5113,
+    "apy_base": 12.5113,
+    "apy_reward": 0,
+    "tvl_usd": 13653412
+  },
+  {
+    "date": "2022-06-28",
+    "apy": 2.2712,
+    "apy_base": 2.2712,
+    "apy_reward": 0,
+    "tvl_usd": 13119614
+  },
+  {
+    "date": "2022-06-29",
+    "apy": 4.0644,
+    "apy_base": 4.0644,
+    "apy_reward": 0,
+    "tvl_usd": 15282108
+  },
+  {
+    "date": "2022-06-30",
+    "apy": 3.6707,
+    "apy_base": 3.6707,
+    "apy_reward": 0,
+    "tvl_usd": 14954902
+  },
+  {
+    "date": "2022-07-01",
+    "apy": 2.2871,
+    "apy_base": 2.2871,
+    "apy_reward": 0,
+    "tvl_usd": 14943102
+  },
+  {
+    "date": "2022-07-02",
+    "apy": 2.186,
+    "apy_base": 2.186,
+    "apy_reward": 0,
+    "tvl_usd": 14944199
+  },
+  {
+    "date": "2022-07-03",
+    "apy": 5.3812,
+    "apy_base": 5.3812,
+    "apy_reward": 0,
+    "tvl_usd": 14922375
+  },
+  {
+    "date": "2022-07-04",
+    "apy": 2.8666,
+    "apy_base": 2.8666,
+    "apy_reward": 0,
+    "tvl_usd": 14924575
+  },
+  {
+    "date": "2022-07-05",
+    "apy": 2.5118,
+    "apy_base": 2.5118,
+    "apy_reward": 0,
+    "tvl_usd": 14910626
+  },
+  {
+    "date": "2022-07-06",
+    "apy": 4.7577,
+    "apy_base": 4.7577,
+    "apy_reward": 0,
+    "tvl_usd": 14962284
+  },
+  {
+    "date": "2022-07-07",
+    "apy": 3.0724,
+    "apy_base": 3.0724,
+    "apy_reward": 0,
+    "tvl_usd": 14924915
+  },
+  {
+    "date": "2022-07-08",
+    "apy": 3.775,
+    "apy_base": 3.775,
+    "apy_reward": 0,
+    "tvl_usd": 15019730
+  },
+  {
+    "date": "2022-07-09",
+    "apy": 2.6247,
+    "apy_base": 2.6247,
+    "apy_reward": 0,
+    "tvl_usd": 15022258
+  },
+  {
+    "date": "2022-07-10",
+    "apy": 0.9732,
+    "apy_base": 0.9732,
+    "apy_reward": 0,
+    "tvl_usd": 15033032
+  },
+  {
+    "date": "2022-07-11",
+    "apy": 2.8756,
+    "apy_base": 2.8756,
+    "apy_reward": 0,
+    "tvl_usd": 15049476
+  },
+  {
+    "date": "2022-07-12",
+    "apy": 3.506,
+    "apy_base": 3.506,
+    "apy_reward": 0,
+    "tvl_usd": 15050919
+  },
+  {
+    "date": "2022-07-13",
+    "apy": 1.6563,
+    "apy_base": 1.6563,
+    "apy_reward": 0,
+    "tvl_usd": 15028352
+  },
+  {
+    "date": "2022-07-14",
+    "apy": 1.9711,
+    "apy_base": 1.9711,
+    "apy_reward": 0,
+    "tvl_usd": 14975296
+  },
+  {
+    "date": "2022-07-15",
+    "apy": 2.192,
+    "apy_base": 2.192,
+    "apy_reward": 0,
+    "tvl_usd": 14978844
+  },
+  {
+    "date": "2022-07-16",
+    "apy": 8.2013,
+    "apy_base": 8.2013,
+    "apy_reward": 0,
+    "tvl_usd": 14971872
+  },
+  {
+    "date": "2022-07-17",
+    "apy": 3.225,
+    "apy_base": 3.225,
+    "apy_reward": 0,
+    "tvl_usd": 14992030
+  },
+  {
+    "date": "2022-07-18",
+    "apy": 5.4304,
+    "apy_base": 5.4304,
+    "apy_reward": 0,
+    "tvl_usd": 13611979
+  },
+  {
+    "date": "2022-07-19",
+    "apy": 5.0033,
+    "apy_base": 5.0033,
+    "apy_reward": 0,
+    "tvl_usd": 13750318
+  },
+  {
+    "date": "2022-07-20",
+    "apy": 4.7589,
+    "apy_base": 4.7589,
+    "apy_reward": 0,
+    "tvl_usd": 13763272
+  },
+  {
+    "date": "2022-07-21",
+    "apy": 4.3598,
+    "apy_base": 4.3598,
+    "apy_reward": 0,
+    "tvl_usd": 13642780
+  },
+  {
+    "date": "2022-07-22",
+    "apy": 4.5525,
+    "apy_base": 4.5525,
+    "apy_reward": 0,
+    "tvl_usd": 13644480
+  },
+  {
+    "date": "2022-07-23",
+    "apy": 6.8555,
+    "apy_base": 6.8555,
+    "apy_reward": 0,
+    "tvl_usd": 14054269
+  },
+  {
+    "date": "2022-07-24",
+    "apy": 6.5413,
+    "apy_base": 6.5413,
+    "apy_reward": 0,
+    "tvl_usd": 14097248
+  },
+  {
+    "date": "2022-07-25",
+    "apy": 7.169,
+    "apy_base": 7.169,
+    "apy_reward": 0,
+    "tvl_usd": 14069900
+  },
+  {
+    "date": "2022-07-26",
+    "apy": 3.3518,
+    "apy_base": 3.3518,
+    "apy_reward": 0,
+    "tvl_usd": 14064161
+  },
+  {
+    "date": "2022-07-27",
+    "apy": 8.4765,
+    "apy_base": 8.4765,
+    "apy_reward": 0,
+    "tvl_usd": 13058467
+  },
+  {
+    "date": "2022-07-28",
+    "apy": 5.1956,
+    "apy_base": 5.1956,
+    "apy_reward": 0,
+    "tvl_usd": 13563388
+  },
+  {
+    "date": "2022-07-29",
+    "apy": 4.0639,
+    "apy_base": 4.0639,
+    "apy_reward": 0,
+    "tvl_usd": 12787854
+  },
+  {
+    "date": "2022-07-30",
+    "apy": 2.5287,
+    "apy_base": 2.5287,
+    "apy_reward": 0,
+    "tvl_usd": 12788755
+  },
+  {
+    "date": "2022-07-31",
+    "apy": 3.6938,
+    "apy_base": 3.6938,
+    "apy_reward": 0,
+    "tvl_usd": 12758110
+  },
+  {
+    "date": "2022-08-01",
+    "apy": 2.4845,
+    "apy_base": 2.4845,
+    "apy_reward": 0,
+    "tvl_usd": 12719694
+  },
+  {
+    "date": "2022-08-02",
+    "apy": 3.4661,
+    "apy_base": 3.4661,
+    "apy_reward": 0,
+    "tvl_usd": 12735077
+  },
+  {
+    "date": "2022-08-03",
+    "apy": 2.7229,
+    "apy_base": 2.7229,
+    "apy_reward": 0,
+    "tvl_usd": 12774672
+  },
+  {
+    "date": "2022-08-04",
+    "apy": 2.8877,
+    "apy_base": 2.8877,
+    "apy_reward": 0,
+    "tvl_usd": 12755562
+  },
+  {
+    "date": "2022-08-05",
+    "apy": 3.078,
+    "apy_base": 3.078,
+    "apy_reward": 0,
+    "tvl_usd": 12733169
+  },
+  {
+    "date": "2022-08-06",
+    "apy": 2.9153,
+    "apy_base": 2.9153,
+    "apy_reward": 0,
+    "tvl_usd": 12750900
+  },
+  {
+    "date": "2022-08-07",
+    "apy": 2.0307,
+    "apy_base": 2.0307,
+    "apy_reward": 0,
+    "tvl_usd": 12745239
+  },
+  {
+    "date": "2022-08-08",
+    "apy": 5.3987,
+    "apy_base": 5.3987,
+    "apy_reward": 0,
+    "tvl_usd": 12753503
+  },
+  {
+    "date": "2022-08-09",
+    "apy": 2.9495,
+    "apy_base": 2.9495,
+    "apy_reward": 0,
+    "tvl_usd": 12760907
+  },
+  {
+    "date": "2022-08-10",
+    "apy": 3.6839,
+    "apy_base": 3.6839,
+    "apy_reward": 0,
+    "tvl_usd": 12774939
+  },
+  {
+    "date": "2022-08-11",
+    "apy": 2.9354,
+    "apy_base": 2.9354,
+    "apy_reward": 0,
+    "tvl_usd": 11692644
+  },
+  {
+    "date": "2022-08-12",
+    "apy": 1.9079,
+    "apy_base": 1.9079,
+    "apy_reward": 0,
+    "tvl_usd": 11544028
+  },
+  {
+    "date": "2022-08-13",
+    "apy": 3.3647,
+    "apy_base": 3.3647,
+    "apy_reward": 0,
+    "tvl_usd": 11550865
+  },
+  {
+    "date": "2022-08-14",
+    "apy": 2.1649,
+    "apy_base": 2.1649,
+    "apy_reward": 0,
+    "tvl_usd": 11545779
+  },
+  {
+    "date": "2022-08-15",
+    "apy": 2.9297,
+    "apy_base": 2.9297,
+    "apy_reward": 0,
+    "tvl_usd": 11552468
+  },
+  {
+    "date": "2022-08-16",
+    "apy": 2.1486,
+    "apy_base": 2.1486,
+    "apy_reward": 0,
+    "tvl_usd": 11553158
+  },
+  {
+    "date": "2022-08-17",
+    "apy": 4.6394,
+    "apy_base": 4.6394,
+    "apy_reward": 0,
+    "tvl_usd": 11548865
+  },
+  {
+    "date": "2022-08-18",
+    "apy": 1.6795,
+    "apy_base": 1.6795,
+    "apy_reward": 0,
+    "tvl_usd": 11534768
+  },
+  {
+    "date": "2022-08-19",
+    "apy": 4.0614,
+    "apy_base": 4.0614,
+    "apy_reward": 0,
+    "tvl_usd": 11549618
+  },
+  {
+    "date": "2022-08-20",
+    "apy": 3.0467,
+    "apy_base": 3.0467,
+    "apy_reward": 0,
+    "tvl_usd": 11558909
+  },
+  {
+    "date": "2022-08-21",
+    "apy": 2.6065,
+    "apy_base": 2.6065,
+    "apy_reward": 0,
+    "tvl_usd": 11559747
+  },
+  {
+    "date": "2022-08-22",
+    "apy": 1.3836,
+    "apy_base": 1.3836,
+    "apy_reward": 0,
+    "tvl_usd": 11554410
+  },
+  {
+    "date": "2022-08-23",
+    "apy": 1.3549,
+    "apy_base": 1.3549,
+    "apy_reward": 0,
+    "tvl_usd": 11445249
+  },
+  {
+    "date": "2022-08-24",
+    "apy": 1.4882,
+    "apy_base": 1.4882,
+    "apy_reward": 0,
+    "tvl_usd": 11459655
+  },
+  {
+    "date": "2022-08-25",
+    "apy": 1.5778,
+    "apy_base": 1.5778,
+    "apy_reward": 0,
+    "tvl_usd": 11452885
+  },
+  {
+    "date": "2022-08-26",
+    "apy": 1.4344,
+    "apy_base": 1.4344,
+    "apy_reward": 0,
+    "tvl_usd": 11418001
+  },
+  {
+    "date": "2022-08-27",
+    "apy": 1.2215,
+    "apy_base": 1.2215,
+    "apy_reward": 0,
+    "tvl_usd": 11062094
+  },
+  {
+    "date": "2022-08-28",
+    "apy": 0.7413,
+    "apy_base": 0.7413,
+    "apy_reward": 0,
+    "tvl_usd": 11036799
+  },
+  {
+    "date": "2022-08-29",
+    "apy": 1.4987,
+    "apy_base": 1.4987,
+    "apy_reward": 0,
+    "tvl_usd": 10578455
+  },
+  {
+    "date": "2022-08-30",
+    "apy": 2.3809,
+    "apy_base": 2.3809,
+    "apy_reward": 0,
+    "tvl_usd": 10571332
+  },
+  {
+    "date": "2022-08-31",
+    "apy": 1.6153,
+    "apy_base": 1.6153,
+    "apy_reward": 0,
+    "tvl_usd": 10600565
+  },
+  {
+    "date": "2022-09-01",
+    "apy": 2.0395,
+    "apy_base": 2.0395,
+    "apy_reward": 0,
+    "tvl_usd": 10579998
+  },
+  {
+    "date": "2022-09-02",
+    "apy": 1.694,
+    "apy_base": 1.694,
+    "apy_reward": 0,
+    "tvl_usd": 10563384
+  },
+  {
+    "date": "2022-09-03",
+    "apy": 1.4782,
+    "apy_base": 1.4782,
+    "apy_reward": 0,
+    "tvl_usd": 10586456
+  },
+  {
+    "date": "2022-09-04",
+    "apy": 2.214,
+    "apy_base": 2.214,
+    "apy_reward": 0,
+    "tvl_usd": 10577164
+  },
+  {
+    "date": "2022-09-05",
+    "apy": 1.4456,
+    "apy_base": 1.4456,
+    "apy_reward": 0,
+    "tvl_usd": 10586260
+  },
+  {
+    "date": "2022-09-06",
+    "apy": 1.9012,
+    "apy_base": 1.9012,
+    "apy_reward": 0,
+    "tvl_usd": 10574805
+  },
+  {
+    "date": "2022-09-07",
+    "apy": 2.6032,
+    "apy_base": 2.6032,
+    "apy_reward": 0,
+    "tvl_usd": 10576677
+  },
+  {
+    "date": "2022-09-09",
+    "apy": 4.0447,
+    "apy_base": 4.0447,
+    "apy_reward": 0,
+    "tvl_usd": 10578707
+  },
+  {
+    "date": "2022-09-10",
+    "apy": 2.0747,
+    "apy_base": 2.0747,
+    "apy_reward": 0,
+    "tvl_usd": 10382870
+  },
+  {
+    "date": "2022-09-11",
+    "apy": 1.8904,
+    "apy_base": 1.8904,
+    "apy_reward": 0,
+    "tvl_usd": 10398939
+  },
+  {
+    "date": "2022-09-12",
+    "apy": 1.543,
+    "apy_base": 1.543,
+    "apy_reward": 0,
+    "tvl_usd": 10319944
+  },
+  {
+    "date": "2022-09-13",
+    "apy": 1.7223,
+    "apy_base": 1.7223,
+    "apy_reward": 0,
+    "tvl_usd": 13714123
+  },
+  {
+    "date": "2022-09-14",
+    "apy": 2.1237,
+    "apy_base": 2.1237,
+    "apy_reward": 0,
+    "tvl_usd": 13741737
+  },
+  {
+    "date": "2022-09-15",
+    "apy": 1.503,
+    "apy_base": 1.503,
+    "apy_reward": 0,
+    "tvl_usd": 13762381
+  },
+  {
+    "date": "2022-09-16",
+    "apy": 2.3493,
+    "apy_base": 2.3493,
+    "apy_reward": 0,
+    "tvl_usd": 13745610
+  },
+  {
+    "date": "2022-09-17",
+    "apy": 3.2465,
+    "apy_base": 3.2465,
+    "apy_reward": 0,
+    "tvl_usd": 13745483
+  },
+  {
+    "date": "2022-09-18",
+    "apy": 1.5314,
+    "apy_base": 1.5314,
+    "apy_reward": 0,
+    "tvl_usd": 13739204
+  },
+  {
+    "date": "2022-09-19",
+    "apy": 1.9225,
+    "apy_base": 1.9225,
+    "apy_reward": 0,
+    "tvl_usd": 13712789
+  },
+  {
+    "date": "2022-09-20",
+    "apy": 1.986,
+    "apy_base": 1.986,
+    "apy_reward": 0,
+    "tvl_usd": 13740582
+  },
+  {
+    "date": "2022-09-21",
+    "apy": 2.0654,
+    "apy_base": 2.0654,
+    "apy_reward": 0,
+    "tvl_usd": 13646702
+  },
+  {
+    "date": "2022-09-22",
+    "apy": 1.7284,
+    "apy_base": 1.7284,
+    "apy_reward": 0,
+    "tvl_usd": 13662957
+  },
+  {
+    "date": "2022-09-23",
+    "apy": 1.5658,
+    "apy_base": 1.5658,
+    "apy_reward": 0,
+    "tvl_usd": 13644980
+  },
+  {
+    "date": "2022-09-24",
+    "apy": 1.9123,
+    "apy_base": 1.9123,
+    "apy_reward": 0,
+    "tvl_usd": 13637508
+  },
+  {
+    "date": "2022-09-25",
+    "apy": 1.4571,
+    "apy_base": 1.4571,
+    "apy_reward": 0,
+    "tvl_usd": 13664786
+  },
+  {
+    "date": "2022-09-26",
+    "apy": 1.3359,
+    "apy_base": 1.3359,
+    "apy_reward": 0,
+    "tvl_usd": 13643031
+  },
+  {
+    "date": "2022-09-27",
+    "apy": 1.9254,
+    "apy_base": 1.9254,
+    "apy_reward": 0,
+    "tvl_usd": 13638249
+  },
+  {
+    "date": "2022-09-28",
+    "apy": 1.9263,
+    "apy_base": 1.9263,
+    "apy_reward": 0,
+    "tvl_usd": 13641322
+  },
+  {
+    "date": "2022-09-29",
+    "apy": 1.3088,
+    "apy_base": 1.3088,
+    "apy_reward": 0,
+    "tvl_usd": 13659912
+  },
+  {
+    "date": "2022-09-30",
+    "apy": 1.7238,
+    "apy_base": 1.7238,
+    "apy_reward": 0,
+    "tvl_usd": 13653736
+  },
+  {
+    "date": "2022-10-01",
+    "apy": 1.8081,
+    "apy_base": 1.8081,
+    "apy_reward": 0,
+    "tvl_usd": 13636066
+  },
+  {
+    "date": "2022-10-02",
+    "apy": 1.6396,
+    "apy_base": 1.6396,
+    "apy_reward": 0,
+    "tvl_usd": 13638712
+  },
+  {
+    "date": "2022-10-03",
+    "apy": 1.202,
+    "apy_base": 1.202,
+    "apy_reward": 0,
+    "tvl_usd": 13648631
+  },
+  {
+    "date": "2022-10-04",
+    "apy": 1.4077,
+    "apy_base": 1.4077,
+    "apy_reward": 0,
+    "tvl_usd": 13642383
+  },
+  {
+    "date": "2022-10-05",
+    "apy": 2.2249,
+    "apy_base": 2.2249,
+    "apy_reward": 0,
+    "tvl_usd": 13638289
+  },
+  {
+    "date": "2022-10-06",
+    "apy": 1.6942,
+    "apy_base": 1.6942,
+    "apy_reward": 0,
+    "tvl_usd": 13647143
+  },
+  {
+    "date": "2022-10-07",
+    "apy": 1.3749,
+    "apy_base": 1.3749,
+    "apy_reward": 0,
+    "tvl_usd": 13673170
+  },
+  {
+    "date": "2022-10-08",
+    "apy": 0.8636,
+    "apy_base": 0.8636,
+    "apy_reward": 0,
+    "tvl_usd": 13629097
+  },
+  {
+    "date": "2022-10-09",
+    "apy": 0.6021,
+    "apy_base": 0.6021,
+    "apy_reward": 0,
+    "tvl_usd": 13644914
+  },
+  {
+    "date": "2022-10-10",
+    "apy": 1.0582,
+    "apy_base": 1.0582,
+    "apy_reward": 0,
+    "tvl_usd": 13623258
+  },
+  {
+    "date": "2022-10-11",
+    "apy": 1.8425,
+    "apy_base": 1.8425,
+    "apy_reward": 0,
+    "tvl_usd": 13630619
+  },
+  {
+    "date": "2022-10-12",
+    "apy": 1.3307,
+    "apy_base": 1.3307,
+    "apy_reward": 0,
+    "tvl_usd": 13628037
+  },
+  {
+    "date": "2022-10-13",
+    "apy": 2.5287,
+    "apy_base": 2.5287,
+    "apy_reward": 0,
+    "tvl_usd": 13639095
+  },
+  {
+    "date": "2022-10-14",
+    "apy": 0.9915,
+    "apy_base": 0.9915,
+    "apy_reward": 0,
+    "tvl_usd": 13630736
+  },
+  {
+    "date": "2022-10-15",
+    "apy": 1.174,
+    "apy_base": 1.174,
+    "apy_reward": 0,
+    "tvl_usd": 13632976
+  },
+  {
+    "date": "2022-10-16",
+    "apy": 0.5828,
+    "apy_base": 0.5828,
+    "apy_reward": 0,
+    "tvl_usd": 13646824
+  },
+  {
+    "date": "2022-10-17",
+    "apy": 1.3745,
+    "apy_base": 1.3745,
+    "apy_reward": 0,
+    "tvl_usd": 13611166
+  },
+  {
+    "date": "2022-10-18",
+    "apy": 1.3376,
+    "apy_base": 1.3376,
+    "apy_reward": 0,
+    "tvl_usd": 13634188
+  },
+  {
+    "date": "2022-10-19",
+    "apy": 0.9977,
+    "apy_base": 0.9977,
+    "apy_reward": 0,
+    "tvl_usd": 13641391
+  },
+  {
+    "date": "2022-10-20",
+    "apy": 1.18,
+    "apy_base": 1.18,
+    "apy_reward": 0,
+    "tvl_usd": 13667119
+  },
+  {
+    "date": "2022-10-21",
+    "apy": 0.656,
+    "apy_base": 0.656,
+    "apy_reward": 0,
+    "tvl_usd": 13667660
+  },
+  {
+    "date": "2022-10-22",
+    "apy": 0.8473,
+    "apy_base": 0.8473,
+    "apy_reward": 0,
+    "tvl_usd": 13681646
+  },
+  {
+    "date": "2022-10-23",
+    "apy": 0.7658,
+    "apy_base": 0.7658,
+    "apy_reward": 0,
+    "tvl_usd": 13688778
+  },
+  {
+    "date": "2022-10-24",
+    "apy": 0.7374,
+    "apy_base": 0.7374,
+    "apy_reward": 0,
+    "tvl_usd": 13613254
+  },
+  {
+    "date": "2022-10-25",
+    "apy": 1.1072,
+    "apy_base": 1.1072,
+    "apy_reward": 0,
+    "tvl_usd": 13618866
+  },
+  {
+    "date": "2022-10-26",
+    "apy": 1.7218,
+    "apy_base": 1.7218,
+    "apy_reward": 0,
+    "tvl_usd": 11581475
+  },
+  {
+    "date": "2022-10-27",
+    "apy": 1.7996,
+    "apy_base": 1.7996,
+    "apy_reward": 0,
+    "tvl_usd": 11581298
+  },
+  {
+    "date": "2022-10-28",
+    "apy": 0.8928,
+    "apy_base": 0.8928,
+    "apy_reward": 0,
+    "tvl_usd": 11499357
+  },
+  {
+    "date": "2022-10-29",
+    "apy": 2.1831,
+    "apy_base": 2.1831,
+    "apy_reward": 0,
+    "tvl_usd": 11491307
+  },
+  {
+    "date": "2022-10-31",
+    "apy": 2.2267,
+    "apy_base": 2.2267,
+    "apy_reward": 0,
+    "tvl_usd": 11505565
+  },
+  {
+    "date": "2022-11-01",
+    "apy": 2.1024,
+    "apy_base": 2.1024,
+    "apy_reward": 0,
+    "tvl_usd": 11059375
+  },
+  {
+    "date": "2022-11-02",
+    "apy": 2.6405,
+    "apy_base": 2.6405,
+    "apy_reward": 0,
+    "tvl_usd": 10902119
+  },
+  {
+    "date": "2022-11-03",
+    "apy": 2.5145,
+    "apy_base": 2.5145,
+    "apy_reward": 0,
+    "tvl_usd": 10915040
+  },
+  {
+    "date": "2022-11-04",
+    "apy": 1.8751,
+    "apy_base": 1.8751,
+    "apy_reward": 0,
+    "tvl_usd": 10916013
+  },
+  {
+    "date": "2022-11-05",
+    "apy": 1.3426,
+    "apy_base": 1.3426,
+    "apy_reward": 0,
+    "tvl_usd": 10932875
+  },
+  {
+    "date": "2022-11-06",
+    "apy": 1.7358,
+    "apy_base": 1.7358,
+    "apy_reward": 0,
+    "tvl_usd": 10837646
+  },
+  {
+    "date": "2022-11-07",
+    "apy": 2.4253,
+    "apy_base": 2.4253,
+    "apy_reward": 0,
+    "tvl_usd": 10832440
+  },
+  {
+    "date": "2022-11-08",
+    "apy": 3.1154,
+    "apy_base": 3.1154,
+    "apy_reward": 0,
+    "tvl_usd": 10878752
+  },
+  {
+    "date": "2022-11-09",
+    "apy": 3.7977,
+    "apy_base": 3.7977,
+    "apy_reward": 0,
+    "tvl_usd": 10922273
+  },
+  {
+    "date": "2022-11-10",
+    "apy": 10.375,
+    "apy_base": 10.375,
+    "apy_reward": 0,
+    "tvl_usd": 10928194
+  },
+  {
+    "date": "2022-11-11",
+    "apy": 1.5408,
+    "apy_base": 1.5408,
+    "apy_reward": 0,
+    "tvl_usd": 10927898
+  },
+  {
+    "date": "2022-11-12",
+    "apy": 1.4011,
+    "apy_base": 1.4011,
+    "apy_reward": 0,
+    "tvl_usd": 10924053
+  },
+  {
+    "date": "2022-11-13",
+    "apy": 1.198,
+    "apy_base": 1.198,
+    "apy_reward": 0,
+    "tvl_usd": 10927910
+  },
+  {
+    "date": "2022-11-14",
+    "apy": 1.3454,
+    "apy_base": 1.3454,
+    "apy_reward": 0,
+    "tvl_usd": 10923986
+  },
+  {
+    "date": "2022-11-15",
+    "apy": 2.3034,
+    "apy_base": 2.3034,
+    "apy_reward": 0,
+    "tvl_usd": 10933576
+  },
+  {
+    "date": "2022-11-16",
+    "apy": 0.8099,
+    "apy_base": 0.8099,
+    "apy_reward": 0,
+    "tvl_usd": 10908796
+  },
+  {
+    "date": "2022-11-17",
+    "apy": 0.8046,
+    "apy_base": 0.8046,
+    "apy_reward": 0,
+    "tvl_usd": 10914596
+  },
+  {
+    "date": "2022-11-18",
+    "apy": 0.7265,
+    "apy_base": 0.7265,
+    "apy_reward": 0,
+    "tvl_usd": 10978315
+  },
+  {
+    "date": "2022-11-19",
+    "apy": 0.5419,
+    "apy_base": 0.5419,
+    "apy_reward": 0,
+    "tvl_usd": 10991642
+  },
+  {
+    "date": "2022-11-20",
+    "apy": 1.4786,
+    "apy_base": 1.4786,
+    "apy_reward": 0,
+    "tvl_usd": 11053332
+  },
+  {
+    "date": "2022-11-21",
+    "apy": 1.0847,
+    "apy_base": 1.0847,
+    "apy_reward": 0,
+    "tvl_usd": 10966386
+  },
+  {
+    "date": "2022-11-22",
+    "apy": 1.5131,
+    "apy_base": 1.5131,
+    "apy_reward": 0,
+    "tvl_usd": 10950447
+  },
+  {
+    "date": "2022-11-23",
+    "apy": 0.7936,
+    "apy_base": 0.7936,
+    "apy_reward": 0,
+    "tvl_usd": 10940347
+  },
+  {
+    "date": "2022-11-24",
+    "apy": 0.8117,
+    "apy_base": 0.8117,
+    "apy_reward": 0,
+    "tvl_usd": 10948651
+  },
+  {
+    "date": "2022-11-25",
+    "apy": 0.3663,
+    "apy_base": 0.3663,
+    "apy_reward": 0,
+    "tvl_usd": 10959714
+  },
+  {
+    "date": "2022-11-26",
+    "apy": 1.5215,
+    "apy_base": 1.5215,
+    "apy_reward": 0,
+    "tvl_usd": 10907121
+  },
+  {
+    "date": "2022-11-27",
+    "apy": 0.7633,
+    "apy_base": 0.7633,
+    "apy_reward": 0,
+    "tvl_usd": 10918900
+  },
+  {
+    "date": "2022-11-28",
+    "apy": 1.0565,
+    "apy_base": 1.0565,
+    "apy_reward": 0,
+    "tvl_usd": 10851048
+  },
+  {
+    "date": "2022-11-29",
+    "apy": 0.8946,
+    "apy_base": 0.8946,
+    "apy_reward": 0,
+    "tvl_usd": 10851909
+  },
+  {
+    "date": "2022-11-30",
+    "apy": 1.0182,
+    "apy_base": 1.0182,
+    "apy_reward": 0,
+    "tvl_usd": 10873914
+  },
+  {
+    "date": "2022-12-01",
+    "apy": 0.6011,
+    "apy_base": 0.6011,
+    "apy_reward": 0,
+    "tvl_usd": 10874331
+  },
+  {
+    "date": "2022-12-02",
+    "apy": 0.7257,
+    "apy_base": 0.7257,
+    "apy_reward": 0,
+    "tvl_usd": 10842249
+  },
+  {
+    "date": "2022-12-03",
+    "apy": 0.9448,
+    "apy_base": 0.9448,
+    "apy_reward": 0,
+    "tvl_usd": 10781416
+  },
+  {
+    "date": "2022-12-04",
+    "apy": 0.5,
+    "apy_base": 0.5,
+    "apy_reward": 0,
+    "tvl_usd": 10788658
+  },
+  {
+    "date": "2022-12-05",
+    "apy": 1.2781,
+    "apy_base": 1.2781,
+    "apy_reward": 0,
+    "tvl_usd": 10789367
+  },
+  {
+    "date": "2022-12-06",
+    "apy": 1.1958,
+    "apy_base": 1.1958,
+    "apy_reward": 0,
+    "tvl_usd": 10783396
+  },
+  {
+    "date": "2022-12-07",
+    "apy": 0.9726,
+    "apy_base": 0.9726,
+    "apy_reward": 0,
+    "tvl_usd": 10810407
+  },
+  {
+    "date": "2022-12-08",
+    "apy": 0.6839,
+    "apy_base": 0.6839,
+    "apy_reward": 0,
+    "tvl_usd": 10785326
+  },
+  {
+    "date": "2022-12-09",
+    "apy": 0.9777,
+    "apy_base": 0.9777,
+    "apy_reward": 0,
+    "tvl_usd": 10804059
+  },
+  {
+    "date": "2022-12-10",
+    "apy": 0.4894,
+    "apy_base": 0.4894,
+    "apy_reward": 0,
+    "tvl_usd": 10803535
+  },
+  {
+    "date": "2022-12-11",
+    "apy": 0.513,
+    "apy_base": 0.513,
+    "apy_reward": 0,
+    "tvl_usd": 10798157
+  },
+  {
+    "date": "2022-12-12",
+    "apy": 0.4597,
+    "apy_base": 0.4597,
+    "apy_reward": 0,
+    "tvl_usd": 10800221
+  },
+  {
+    "date": "2022-12-13",
+    "apy": 29.9373,
+    "apy_base": 29.9373,
+    "apy_reward": 0,
+    "tvl_usd": 10835176
+  },
+  {
+    "date": "2022-12-14",
+    "apy": 0.8474,
+    "apy_base": 0.8474,
+    "apy_reward": 0,
+    "tvl_usd": 10800618
+  },
+  {
+    "date": "2022-12-15",
+    "apy": 1.0263,
+    "apy_base": 1.0263,
+    "apy_reward": 0,
+    "tvl_usd": 10799669
+  },
+  {
+    "date": "2022-12-16",
+    "apy": 0.7981,
+    "apy_base": 0.7981,
+    "apy_reward": 0,
+    "tvl_usd": 10797546
+  },
+  {
+    "date": "2022-12-17",
+    "apy": 1.4515,
+    "apy_base": 1.4515,
+    "apy_reward": 0,
+    "tvl_usd": 10808227
+  },
+  {
+    "date": "2022-12-18",
+    "apy": 0.432,
+    "apy_base": 0.432,
+    "apy_reward": 0,
+    "tvl_usd": 10813755
+  },
+  {
+    "date": "2022-12-19",
+    "apy": 0.4496,
+    "apy_base": 0.4496,
+    "apy_reward": 0,
+    "tvl_usd": 10796347
+  },
+  {
+    "date": "2022-12-20",
+    "apy": 1.2551,
+    "apy_base": 1.2551,
+    "apy_reward": 0,
+    "tvl_usd": 10803149
+  },
+  {
+    "date": "2022-12-21",
+    "apy": 1.9488,
+    "apy_base": 1.9488,
+    "apy_reward": 0,
+    "tvl_usd": 10862211
+  },
+  {
+    "date": "2022-12-22",
+    "apy": 0.4393,
+    "apy_base": 0.4393,
+    "apy_reward": 0,
+    "tvl_usd": 10867772
+  },
+  {
+    "date": "2022-12-23",
+    "apy": 0.6844,
+    "apy_base": 0.6844,
+    "apy_reward": 0,
+    "tvl_usd": 10865040
+  },
+  {
+    "date": "2022-12-24",
+    "apy": 0.4571,
+    "apy_base": 0.4571,
+    "apy_reward": 0,
+    "tvl_usd": 10870019
+  },
+  {
+    "date": "2022-12-25",
+    "apy": 0.1639,
+    "apy_base": 0.1639,
+    "apy_reward": 0,
+    "tvl_usd": 10865644
+  },
+  {
+    "date": "2022-12-26",
+    "apy": 2.163,
+    "apy_base": 2.163,
+    "apy_reward": 0,
+    "tvl_usd": 10867448
+  },
+  {
+    "date": "2022-12-27",
+    "apy": 0.2517,
+    "apy_base": 0.2517,
+    "apy_reward": 0,
+    "tvl_usd": 10875863
+  },
+  {
+    "date": "2022-12-28",
+    "apy": 0.8286,
+    "apy_base": 0.8286,
+    "apy_reward": 0,
+    "tvl_usd": 10835170
+  },
+  {
+    "date": "2022-12-29",
+    "apy": 0.5542,
+    "apy_base": 0.5542,
+    "apy_reward": 0,
+    "tvl_usd": 10839448
+  },
+  {
+    "date": "2022-12-30",
+    "apy": 1.6104,
+    "apy_base": 1.6104,
+    "apy_reward": 0,
+    "tvl_usd": 10645788
+  },
+  {
+    "date": "2022-12-31",
+    "apy": 0.3588,
+    "apy_base": 0.3588,
+    "apy_reward": 0,
+    "tvl_usd": 10644689
+  },
+  {
+    "date": "2023-01-01",
+    "apy": 0.3094,
+    "apy_base": 0.3094,
+    "apy_reward": 0,
+    "tvl_usd": 10646368
+  },
+  {
+    "date": "2023-01-02",
+    "apy": 0.392,
+    "apy_base": 0.392,
+    "apy_reward": 0,
+    "tvl_usd": 10650807
+  },
+  {
+    "date": "2023-01-03",
+    "apy": 0.8998,
+    "apy_base": 0.8998,
+    "apy_reward": 0,
+    "tvl_usd": 10557544
+  },
+  {
+    "date": "2023-01-04",
+    "apy": 0.7262,
+    "apy_base": 0.7262,
+    "apy_reward": 0,
+    "tvl_usd": 10556045
+  },
+  {
+    "date": "2023-01-05",
+    "apy": 0.512,
+    "apy_base": 0.512,
+    "apy_reward": 0,
+    "tvl_usd": 10547637
+  },
+  {
+    "date": "2023-01-06",
+    "apy": 1.5943,
+    "apy_base": 1.5943,
+    "apy_reward": 0,
+    "tvl_usd": 10571618
+  },
+  {
+    "date": "2023-01-07",
+    "apy": 0.514,
+    "apy_base": 0.514,
+    "apy_reward": 0,
+    "tvl_usd": 10564155
+  },
+  {
+    "date": "2023-01-08",
+    "apy": 0.9928,
+    "apy_base": 0.9928,
+    "apy_reward": 0,
+    "tvl_usd": 10521741
+  },
+  {
+    "date": "2023-01-09",
+    "apy": 2.6534,
+    "apy_base": 2.6534,
+    "apy_reward": 0,
+    "tvl_usd": 10570821
+  },
+  {
+    "date": "2023-01-10",
+    "apy": 1.5347,
+    "apy_base": 1.5347,
+    "apy_reward": 0,
+    "tvl_usd": 10569553
+  },
+  {
+    "date": "2023-01-11",
+    "apy": 2.6723,
+    "apy_base": 2.6723,
+    "apy_reward": 0,
+    "tvl_usd": 10561967
+  },
+  {
+    "date": "2023-01-12",
+    "apy": 2.5917,
+    "apy_base": 2.5917,
+    "apy_reward": 0,
+    "tvl_usd": 10591552
+  },
+  {
+    "date": "2023-01-13",
+    "apy": 2.1858,
+    "apy_base": 2.1858,
+    "apy_reward": 0,
+    "tvl_usd": 10623149
+  },
+  {
+    "date": "2023-01-14",
+    "apy": 3.9249,
+    "apy_base": 3.9249,
+    "apy_reward": 0,
+    "tvl_usd": 10566337
+  },
+  {
+    "date": "2023-01-15",
+    "apy": 3.1895,
+    "apy_base": 3.1895,
+    "apy_reward": 0,
+    "tvl_usd": 10447736
+  },
+  {
+    "date": "2023-01-16",
+    "apy": 3.3026,
+    "apy_base": 3.3026,
+    "apy_reward": 0,
+    "tvl_usd": 10451227
+  },
+  {
+    "date": "2023-01-17",
+    "apy": 1.5151,
+    "apy_base": 1.5151,
+    "apy_reward": 0,
+    "tvl_usd": 10461340
+  },
+  {
+    "date": "2023-01-18",
+    "apy": 1.4906,
+    "apy_base": 1.4906,
+    "apy_reward": 0,
+    "tvl_usd": 10311201
+  },
+  {
+    "date": "2023-01-19",
+    "apy": 1.0266,
+    "apy_base": 1.0266,
+    "apy_reward": 0,
+    "tvl_usd": 10327901
+  },
+  {
+    "date": "2023-01-20",
+    "apy": 0.92,
+    "apy_base": 0.92,
+    "apy_reward": 0,
+    "tvl_usd": 10323828
+  },
+  {
+    "date": "2023-01-21",
+    "apy": 1.2894,
+    "apy_base": 1.2894,
+    "apy_reward": 0,
+    "tvl_usd": 10326133
+  },
+  {
+    "date": "2023-01-22",
+    "apy": 0.8132,
+    "apy_base": 0.8132,
+    "apy_reward": 0,
+    "tvl_usd": 10328771
+  },
+  {
+    "date": "2023-01-23",
+    "apy": 1.5174,
+    "apy_base": 1.5174,
+    "apy_reward": 0,
+    "tvl_usd": 10321222
+  },
+  {
+    "date": "2023-01-24",
+    "apy": 1.5812,
+    "apy_base": 1.5812,
+    "apy_reward": 0,
+    "tvl_usd": 10339236
+  },
+  {
+    "date": "2023-01-25",
+    "apy": 1.3245,
+    "apy_base": 1.3245,
+    "apy_reward": 0,
+    "tvl_usd": 10325603
+  },
+  {
+    "date": "2023-01-26",
+    "apy": 1.2232,
+    "apy_base": 1.2232,
+    "apy_reward": 0,
+    "tvl_usd": 10339936
+  },
+  {
+    "date": "2023-01-27",
+    "apy": 1.1511,
+    "apy_base": 1.1511,
+    "apy_reward": 0,
+    "tvl_usd": 10333205
+  },
+  {
+    "date": "2023-01-28",
+    "apy": 1.7588,
+    "apy_base": 1.7588,
+    "apy_reward": 0,
+    "tvl_usd": 10323908
+  },
+  {
+    "date": "2023-01-29",
+    "apy": 3.5914,
+    "apy_base": 3.5914,
+    "apy_reward": 0,
+    "tvl_usd": 10039530
+  },
+  {
+    "date": "2023-01-30",
+    "apy": 4.4943,
+    "apy_base": 4.4943,
+    "apy_reward": 0,
+    "tvl_usd": 10060600
+  },
+  {
+    "date": "2023-01-31",
+    "apy": 1.6562,
+    "apy_base": 1.6562,
+    "apy_reward": 0,
+    "tvl_usd": 10019040
+  },
+  {
+    "date": "2023-02-01",
+    "apy": 2.6958,
+    "apy_base": 2.6958,
+    "apy_reward": 0,
+    "tvl_usd": 10038938
+  },
+  {
+    "date": "2023-02-02",
+    "apy": 3.1156,
+    "apy_base": 3.1156,
+    "apy_reward": 0,
+    "tvl_usd": 10077917
+  },
+  {
+    "date": "2023-02-03",
+    "apy": 1.7899,
+    "apy_base": 1.7899,
+    "apy_reward": 0,
+    "tvl_usd": 10069689
+  },
+  {
+    "date": "2023-02-04",
+    "apy": 1.766,
+    "apy_base": 1.766,
+    "apy_reward": 0,
+    "tvl_usd": 10078192
+  },
+  {
+    "date": "2023-02-05",
+    "apy": 1.5892,
+    "apy_base": 1.5892,
+    "apy_reward": 0,
+    "tvl_usd": 10075008
+  },
+  {
+    "date": "2023-02-06",
+    "apy": 7.0194,
+    "apy_base": 7.0194,
+    "apy_reward": 0,
+    "tvl_usd": 10092716
+  },
+  {
+    "date": "2023-02-07",
+    "apy": 11.1435,
+    "apy_base": 11.1435,
+    "apy_reward": 0,
+    "tvl_usd": 10285771
+  },
+  {
+    "date": "2023-02-08",
+    "apy": 5.8322,
+    "apy_base": 5.8322,
+    "apy_reward": 0,
+    "tvl_usd": 10306372
+  },
+  {
+    "date": "2023-02-09",
+    "apy": 8.0602,
+    "apy_base": 8.0602,
+    "apy_reward": 0,
+    "tvl_usd": 10347770
+  },
+  {
+    "date": "2023-02-10",
+    "apy": 4.1025,
+    "apy_base": 4.1025,
+    "apy_reward": 0,
+    "tvl_usd": 10118682
+  },
+  {
+    "date": "2023-02-11",
+    "apy": 3.5972,
+    "apy_base": 3.5972,
+    "apy_reward": 0,
+    "tvl_usd": 10322969
+  },
+  {
+    "date": "2023-02-12",
+    "apy": 4.4671,
+    "apy_base": 4.4671,
+    "apy_reward": 0,
+    "tvl_usd": 10294684
+  },
+  {
+    "date": "2023-02-13",
+    "apy": 5.1596,
+    "apy_base": 5.1596,
+    "apy_reward": 0,
+    "tvl_usd": 10341091
+  },
+  {
+    "date": "2023-02-14",
+    "apy": 4.6891,
+    "apy_base": 4.6891,
+    "apy_reward": 0,
+    "tvl_usd": 10366513
+  },
+  {
+    "date": "2023-02-15",
+    "apy": 5.4215,
+    "apy_base": 5.4215,
+    "apy_reward": 0,
+    "tvl_usd": 10388027
+  },
+  {
+    "date": "2023-02-16",
+    "apy": 6.2511,
+    "apy_base": 6.2511,
+    "apy_reward": 0,
+    "tvl_usd": 10374993
+  },
+  {
+    "date": "2023-02-17",
+    "apy": 5.6692,
+    "apy_base": 5.6692,
+    "apy_reward": 0,
+    "tvl_usd": 10396505
+  },
+  {
+    "date": "2023-02-18",
+    "apy": 4.1816,
+    "apy_base": 4.1816,
+    "apy_reward": 0,
+    "tvl_usd": 10361585
+  },
+  {
+    "date": "2023-02-19",
+    "apy": 3.425,
+    "apy_base": 3.425,
+    "apy_reward": 0,
+    "tvl_usd": 10375517
+  },
+  {
+    "date": "2023-02-20",
+    "apy": 5.8509,
+    "apy_base": 5.8509,
+    "apy_reward": 0,
+    "tvl_usd": 10529934
+  },
+  {
+    "date": "2023-02-21",
+    "apy": 3.5286,
+    "apy_base": 3.5286,
+    "apy_reward": 0,
+    "tvl_usd": 10537593
+  },
+  {
+    "date": "2023-02-22",
+    "apy": 4.5864,
+    "apy_base": 4.5864,
+    "apy_reward": 0,
+    "tvl_usd": 10570490
+  },
+  {
+    "date": "2023-02-23",
+    "apy": 5.2351,
+    "apy_base": 5.2351,
+    "apy_reward": 0,
+    "tvl_usd": 10540816
+  },
+  {
+    "date": "2023-02-24",
+    "apy": 5.7648,
+    "apy_base": 5.7648,
+    "apy_reward": 0,
+    "tvl_usd": 10558607
+  },
+  {
+    "date": "2023-02-25",
+    "apy": 5.2763,
+    "apy_base": 5.2763,
+    "apy_reward": 0,
+    "tvl_usd": 10546205
+  },
+  {
+    "date": "2023-02-26",
+    "apy": 5.8137,
+    "apy_base": 5.8137,
+    "apy_reward": 0,
+    "tvl_usd": 10684789
+  },
+  {
+    "date": "2023-02-27",
+    "apy": 5.4985,
+    "apy_base": 5.4985,
+    "apy_reward": 0,
+    "tvl_usd": 10725036
+  },
+  {
+    "date": "2023-02-28",
+    "apy": 4.8235,
+    "apy_base": 4.8235,
+    "apy_reward": 0,
+    "tvl_usd": 12657159
+  },
+  {
+    "date": "2023-03-01",
+    "apy": 5.7722,
+    "apy_base": 5.7722,
+    "apy_reward": 0,
+    "tvl_usd": 12694221
+  },
+  {
+    "date": "2023-03-02",
+    "apy": 5.731,
+    "apy_base": 5.731,
+    "apy_reward": 0,
+    "tvl_usd": 13949410
+  },
+  {
+    "date": "2023-03-03",
+    "apy": 4.5529,
+    "apy_base": 4.5529,
+    "apy_reward": 0,
+    "tvl_usd": 13969675
+  },
+  {
+    "date": "2023-03-04",
+    "apy": 4.3035,
+    "apy_base": 4.3035,
+    "apy_reward": 0,
+    "tvl_usd": 13986156
+  },
+  {
+    "date": "2023-03-05",
+    "apy": 4.4257,
+    "apy_base": 4.4257,
+    "apy_reward": 0,
+    "tvl_usd": 13999220
+  },
+  {
+    "date": "2023-03-06",
+    "apy": 4.4889,
+    "apy_base": 4.4889,
+    "apy_reward": 0,
+    "tvl_usd": 13987808
+  },
+  {
+    "date": "2023-03-07",
+    "apy": 5.3879,
+    "apy_base": 5.3879,
+    "apy_reward": 0,
+    "tvl_usd": 13982677
+  },
+  {
+    "date": "2023-03-08",
+    "apy": 5.2076,
+    "apy_base": 5.2076,
+    "apy_reward": 0,
+    "tvl_usd": 13979243
+  },
+  {
+    "date": "2023-03-09",
+    "apy": 6.569,
+    "apy_base": 6.569,
+    "apy_reward": 0,
+    "tvl_usd": 13987945
+  },
+  {
+    "date": "2023-03-10",
+    "apy": 8.0769,
+    "apy_base": 8.0769,
+    "apy_reward": 0,
+    "tvl_usd": 10746068
+  },
+  {
+    "date": "2023-03-11",
+    "apy": 362.8054,
+    "apy_base": 362.8054,
+    "apy_reward": 0,
+    "tvl_usd": 7246207
+  },
+  {
+    "date": "2023-03-12",
+    "apy": 36.3796,
+    "apy_base": 36.3796,
+    "apy_reward": 0,
+    "tvl_usd": 6503776
+  },
+  {
+    "date": "2023-03-13",
+    "apy": 16.4919,
+    "apy_base": 16.4919,
+    "apy_reward": 0,
+    "tvl_usd": 6551725
+  },
+  {
+    "date": "2023-03-14",
+    "apy": 14.3946,
+    "apy_base": 14.3946,
+    "apy_reward": 0,
+    "tvl_usd": 6469064
+  },
+  {
+    "date": "2023-03-15",
+    "apy": 10.9941,
+    "apy_base": 10.9941,
+    "apy_reward": 0,
+    "tvl_usd": 6488828
+  },
+  {
+    "date": "2023-03-16",
+    "apy": 9.9735,
+    "apy_base": 9.9735,
+    "apy_reward": 0,
+    "tvl_usd": 7197067
+  },
+  {
+    "date": "2023-03-17",
+    "apy": 9.0745,
+    "apy_base": 9.0745,
+    "apy_reward": 0,
+    "tvl_usd": 7261219
+  },
+  {
+    "date": "2023-03-18",
+    "apy": 9.0498,
+    "apy_base": 9.0498,
+    "apy_reward": 0,
+    "tvl_usd": 7294214
+  },
+  {
+    "date": "2023-03-19",
+    "apy": 6.9513,
+    "apy_base": 6.9513,
+    "apy_reward": 0,
+    "tvl_usd": 7988573
+  },
+  {
+    "date": "2023-03-20",
+    "apy": 7.6596,
+    "apy_base": 7.6596,
+    "apy_reward": 0,
+    "tvl_usd": 7995262
+  },
+  {
+    "date": "2023-03-21",
+    "apy": 9.4096,
+    "apy_base": 9.4096,
+    "apy_reward": 0,
+    "tvl_usd": 7974537
+  },
+  {
+    "date": "2023-03-22",
+    "apy": 8.0254,
+    "apy_base": 8.0254,
+    "apy_reward": 0,
+    "tvl_usd": 8478895
+  },
+  {
+    "date": "2023-03-23",
+    "apy": 8.3882,
+    "apy_base": 8.3882,
+    "apy_reward": 0,
+    "tvl_usd": 8482997
+  },
+  {
+    "date": "2023-03-24",
+    "apy": 9.7769,
+    "apy_base": 9.7769,
+    "apy_reward": 0,
+    "tvl_usd": 8622236
+  },
+  {
+    "date": "2023-03-25",
+    "apy": 8.8948,
+    "apy_base": 8.8948,
+    "apy_reward": 0,
+    "tvl_usd": 8619638
+  },
+  {
+    "date": "2023-03-26",
+    "apy": 8.0791,
+    "apy_base": 8.0791,
+    "apy_reward": 0,
+    "tvl_usd": 8558023
+  },
+  {
+    "date": "2023-03-27",
+    "apy": 7.5095,
+    "apy_base": 7.5095,
+    "apy_reward": 0,
+    "tvl_usd": 8549268
+  },
+  {
+    "date": "2023-03-28",
+    "apy": 5.1844,
+    "apy_base": 5.1844,
+    "apy_reward": 0,
+    "tvl_usd": 8182151
+  },
+  {
+    "date": "2023-03-29",
+    "apy": 1.2915,
+    "apy_base": 1.2915,
+    "apy_reward": 0,
+    "tvl_usd": 8189001
+  },
+  {
+    "date": "2023-03-30",
+    "apy": 0.8731,
+    "apy_base": 0.8731,
+    "apy_reward": 0,
+    "tvl_usd": 8159652
+  },
+  {
+    "date": "2023-03-31",
+    "apy": 1.3129,
+    "apy_base": 1.3129,
+    "apy_reward": 0,
+    "tvl_usd": 8143398
+  },
+  {
+    "date": "2023-04-01",
+    "apy": 1.0717,
+    "apy_base": 1.0717,
+    "apy_reward": 0,
+    "tvl_usd": 8124461
+  },
+  {
+    "date": "2023-04-02",
+    "apy": 1.3008,
+    "apy_base": 1.3008,
+    "apy_reward": 0,
+    "tvl_usd": 8130654
+  },
+  {
+    "date": "2023-04-03",
+    "apy": 1.605,
+    "apy_base": 1.605,
+    "apy_reward": 0,
+    "tvl_usd": 8127563
+  },
+  {
+    "date": "2023-04-04",
+    "apy": 1.2246,
+    "apy_base": 1.2246,
+    "apy_reward": 0,
+    "tvl_usd": 7843794
+  },
+  {
+    "date": "2023-04-05",
+    "apy": 1.587,
+    "apy_base": 1.587,
+    "apy_reward": 0,
+    "tvl_usd": 7297866
+  },
+  {
+    "date": "2023-04-06",
+    "apy": 1.6632,
+    "apy_base": 1.6632,
+    "apy_reward": 0,
+    "tvl_usd": 7569680
+  },
+  {
+    "date": "2023-04-07",
+    "apy": 1.9383,
+    "apy_base": 1.9383,
+    "apy_reward": 0,
+    "tvl_usd": 7594915
+  },
+  {
+    "date": "2023-04-08",
+    "apy": 1.4104,
+    "apy_base": 1.4104,
+    "apy_reward": 0,
+    "tvl_usd": 7654130
+  },
+  {
+    "date": "2023-04-09",
+    "apy": 1.4308,
+    "apy_base": 1.4308,
+    "apy_reward": 0,
+    "tvl_usd": 7683593
+  },
+  {
+    "date": "2023-04-10",
+    "apy": 1.3033,
+    "apy_base": 1.3033,
+    "apy_reward": 0,
+    "tvl_usd": 7684460
+  },
+  {
+    "date": "2023-04-11",
+    "apy": 1.5438,
+    "apy_base": 1.5438,
+    "apy_reward": 0,
+    "tvl_usd": 7665490
+  },
+  {
+    "date": "2023-04-12",
+    "apy": 1.4261,
+    "apy_base": 1.4261,
+    "apy_reward": 0,
+    "tvl_usd": 7666999
+  },
+  {
+    "date": "2023-04-13",
+    "apy": 3.1881,
+    "apy_base": 3.1881,
+    "apy_reward": 0,
+    "tvl_usd": 7658733
+  },
+  {
+    "date": "2023-04-14",
+    "apy": 2.6483,
+    "apy_base": 2.6483,
+    "apy_reward": 0,
+    "tvl_usd": 7677192
+  },
+  {
+    "date": "2023-04-15",
+    "apy": 2.5727,
+    "apy_base": 2.5727,
+    "apy_reward": 0,
+    "tvl_usd": 7644822
+  },
+  {
+    "date": "2023-04-16",
+    "apy": 2.021,
+    "apy_base": 2.021,
+    "apy_reward": 0,
+    "tvl_usd": 7689552
+  },
+  {
+    "date": "2023-04-17",
+    "apy": 0.7459,
+    "apy_base": 0.7459,
+    "apy_reward": 0,
+    "tvl_usd": 22470448
+  },
+  {
+    "date": "2023-04-18",
+    "apy": 1.7277,
+    "apy_base": 1.7277,
+    "apy_reward": 0,
+    "tvl_usd": 22551821
+  },
+  {
+    "date": "2023-04-19",
+    "apy": 1.2568,
+    "apy_base": 1.2568,
+    "apy_reward": 0,
+    "tvl_usd": 22610422
+  },
+  {
+    "date": "2023-04-20",
+    "apy": 1.2055,
+    "apy_base": 1.2055,
+    "apy_reward": 0,
+    "tvl_usd": 22679479
+  },
+  {
+    "date": "2023-04-21",
+    "apy": 1.2652,
+    "apy_base": 1.2652,
+    "apy_reward": 0,
+    "tvl_usd": 22739094
+  },
+  {
+    "date": "2023-04-22",
+    "apy": 1.2391,
+    "apy_base": 1.2391,
+    "apy_reward": 0,
+    "tvl_usd": 22912985
+  },
+  {
+    "date": "2023-04-23",
+    "apy": 1.1538,
+    "apy_base": 1.1538,
+    "apy_reward": 0,
+    "tvl_usd": 22896797
+  },
+  {
+    "date": "2023-04-24",
+    "apy": 1.0431,
+    "apy_base": 1.0431,
+    "apy_reward": 0,
+    "tvl_usd": 22899272
+  },
+  {
+    "date": "2023-04-25",
+    "apy": 1.2992,
+    "apy_base": 1.2992,
+    "apy_reward": 0,
+    "tvl_usd": 23035337
+  },
+  {
+    "date": "2023-04-26",
+    "apy": 1.192,
+    "apy_base": 1.192,
+    "apy_reward": 0,
+    "tvl_usd": 23163906
+  },
+  {
+    "date": "2023-04-27",
+    "apy": 1.1152,
+    "apy_base": 1.1152,
+    "apy_reward": 0,
+    "tvl_usd": 23226947
+  },
+  {
+    "date": "2023-04-28",
+    "apy": 1.154,
+    "apy_base": 1.154,
+    "apy_reward": 0,
+    "tvl_usd": 23326607
+  },
+  {
+    "date": "2023-04-29",
+    "apy": 1.3066,
+    "apy_base": 1.3066,
+    "apy_reward": 0,
+    "tvl_usd": 23369321
+  },
+  {
+    "date": "2023-04-30",
+    "apy": 0.9517,
+    "apy_base": 0.9517,
+    "apy_reward": 0,
+    "tvl_usd": 23445415
+  },
+  {
+    "date": "2023-05-01",
+    "apy": 1.7766,
+    "apy_base": 1.7766,
+    "apy_reward": 0,
+    "tvl_usd": 23484497
+  },
+  {
+    "date": "2023-05-02",
+    "apy": 2.3261,
+    "apy_base": 2.3261,
+    "apy_reward": 0,
+    "tvl_usd": 23571537
+  },
+  {
+    "date": "2023-05-03",
+    "apy": 1.4771,
+    "apy_base": 1.4771,
+    "apy_reward": 0,
+    "tvl_usd": 23535314
+  },
+  {
+    "date": "2023-05-04",
+    "apy": 2.0008,
+    "apy_base": 2.0008,
+    "apy_reward": 0,
+    "tvl_usd": 23775421
+  },
+  {
+    "date": "2023-05-05",
+    "apy": 2.3343,
+    "apy_base": 2.3343,
+    "apy_reward": 0,
+    "tvl_usd": 23909560
+  },
+  {
+    "date": "2023-05-06",
+    "apy": 2.1198,
+    "apy_base": 2.1198,
+    "apy_reward": 0,
+    "tvl_usd": 23813463
+  },
+  {
+    "date": "2023-05-07",
+    "apy": 1.4494,
+    "apy_base": 1.4494,
+    "apy_reward": 0,
+    "tvl_usd": 23794667
+  },
+  {
+    "date": "2023-05-08",
+    "apy": 1.5859,
+    "apy_base": 1.5859,
+    "apy_reward": 0,
+    "tvl_usd": 23706018
+  },
+  {
+    "date": "2023-05-09",
+    "apy": 1.1966,
+    "apy_base": 1.1966,
+    "apy_reward": 0,
+    "tvl_usd": 23603939
+  },
+  {
+    "date": "2023-05-10",
+    "apy": 1.3327,
+    "apy_base": 1.3327,
+    "apy_reward": 0,
+    "tvl_usd": 23579190
+  },
+  {
+    "date": "2023-05-11",
+    "apy": 2.3577,
+    "apy_base": 2.3577,
+    "apy_reward": 0,
+    "tvl_usd": 23404448
+  },
+  {
+    "date": "2023-05-12",
+    "apy": 2.5171,
+    "apy_base": 2.5171,
+    "apy_reward": 0,
+    "tvl_usd": 23405472
+  },
+  {
+    "date": "2023-05-19",
+    "apy": 1.7821,
+    "apy_base": 1.7821,
+    "apy_reward": 0,
+    "tvl_usd": 24766513
+  },
+  {
+    "date": "2023-05-20",
+    "apy": 1.2151,
+    "apy_base": 1.2151,
+    "apy_reward": 0,
+    "tvl_usd": 24869202
+  },
+  {
+    "date": "2023-05-21",
+    "apy": 1.0185,
+    "apy_base": 1.0185,
+    "apy_reward": 0,
+    "tvl_usd": 24796342
+  },
+  {
+    "date": "2023-06-02",
+    "apy": 0.7067,
+    "apy_base": 0.7067,
+    "apy_reward": 0,
+    "tvl_usd": 22929528
+  },
+  {
+    "date": "2023-06-03",
+    "apy": 0.2062,
+    "apy_base": 0.2062,
+    "apy_reward": 0,
+    "tvl_usd": 22910091
+  },
+  {
+    "date": "2023-06-04",
+    "apy": 0.3566,
+    "apy_base": 0.3566,
+    "apy_reward": 0,
+    "tvl_usd": 22920903
+  },
+  {
+    "date": "2023-06-05",
+    "apy": 0.924,
+    "apy_base": 0.924,
+    "apy_reward": 0,
+    "tvl_usd": 22906768
+  },
+  {
+    "date": "2023-06-06",
+    "apy": 0.2589,
+    "apy_base": 0.2589,
+    "apy_reward": 0,
+    "tvl_usd": 22905757
+  },
+  {
+    "date": "2023-06-07",
+    "apy": 0.3689,
+    "apy_base": 0.3689,
+    "apy_reward": 0,
+    "tvl_usd": 22903949
+  },
+  {
+    "date": "2023-06-08",
+    "apy": 0.6989,
+    "apy_base": 0.6989,
+    "apy_reward": 0,
+    "tvl_usd": 22929417
+  },
+  {
+    "date": "2023-06-09",
+    "apy": 0.4449,
+    "apy_base": 0.4449,
+    "apy_reward": 0,
+    "tvl_usd": 22797923
+  },
+  {
+    "date": "2023-06-10",
+    "apy": 0.4353,
+    "apy_base": 0.4353,
+    "apy_reward": 0,
+    "tvl_usd": 22789274
+  },
+  {
+    "date": "2023-06-17",
+    "apy": 0.1037,
+    "apy_base": 0.1037,
+    "apy_reward": 0,
+    "tvl_usd": 21988368
+  },
+  {
+    "date": "2023-06-18",
+    "apy": 0.2639,
+    "apy_base": 0.2639,
+    "apy_reward": 0,
+    "tvl_usd": 21998382
+  },
+  {
+    "date": "2023-06-19",
+    "apy": 0.4771,
+    "apy_base": 0.4771,
+    "apy_reward": 0,
+    "tvl_usd": 21987026
+  },
+  {
+    "date": "2023-06-20",
+    "apy": 0.205,
+    "apy_base": 0.205,
+    "apy_reward": 0,
+    "tvl_usd": 21908563
+  },
+  {
+    "date": "2023-06-21",
+    "apy": 0.2827,
+    "apy_base": 0.2827,
+    "apy_reward": 0,
+    "tvl_usd": 21921558
+  },
+  {
+    "date": "2023-06-22",
+    "apy": 0.4267,
+    "apy_base": 0.4267,
+    "apy_reward": 0,
+    "tvl_usd": 21902958
+  },
+  {
+    "date": "2023-06-23",
+    "apy": 0.103,
+    "apy_base": 0.103,
+    "apy_reward": 0,
+    "tvl_usd": 21910917
+  },
+  {
+    "date": "2023-06-24",
+    "apy": 0.2089,
+    "apy_base": 0.2089,
+    "apy_reward": 0,
+    "tvl_usd": 21922007
+  },
+  {
+    "date": "2023-06-25",
+    "apy": 0.1006,
+    "apy_base": 0.1006,
+    "apy_reward": 0,
+    "tvl_usd": 21910757
+  },
+  {
+    "date": "2023-06-26",
+    "apy": 0.548,
+    "apy_base": 0.548,
+    "apy_reward": 0,
+    "tvl_usd": 21911081
+  },
+  {
+    "date": "2023-06-27",
+    "apy": 0.3161,
+    "apy_base": 0.3161,
+    "apy_reward": 0,
+    "tvl_usd": 21906176
+  },
+  {
+    "date": "2023-06-28",
+    "apy": 0.3363,
+    "apy_base": 0.3363,
+    "apy_reward": 0,
+    "tvl_usd": 21895921
+  },
+  {
+    "date": "2023-06-29",
+    "apy": 0.3562,
+    "apy_base": 0.3562,
+    "apy_reward": 0,
+    "tvl_usd": 21906862
+  },
+  {
+    "date": "2023-06-30",
+    "apy": 0.3456,
+    "apy_base": 0.3456,
+    "apy_reward": 0,
+    "tvl_usd": 21910197
+  },
+  {
+    "date": "2023-07-01",
+    "apy": 0.3211,
+    "apy_base": 0.3211,
+    "apy_reward": 0,
+    "tvl_usd": 21910433
+  },
+  {
+    "date": "2023-07-02",
+    "apy": 0.1614,
+    "apy_base": 0.1614,
+    "apy_reward": 0,
+    "tvl_usd": 21902738
+  },
+  {
+    "date": "2023-07-03",
+    "apy": 1.1878,
+    "apy_base": 1.1878,
+    "apy_reward": 0,
+    "tvl_usd": 21912899
+  },
+  {
+    "date": "2023-07-04",
+    "apy": 0.2376,
+    "apy_base": 0.2376,
+    "apy_reward": 0,
+    "tvl_usd": 21931615
+  },
+  {
+    "date": "2023-07-05",
+    "apy": 0.1193,
+    "apy_base": 0.1193,
+    "apy_reward": 0,
+    "tvl_usd": 21928700
+  },
+  {
+    "date": "2023-07-06",
+    "apy": 0.2499,
+    "apy_base": 0.2499,
+    "apy_reward": 0,
+    "tvl_usd": 21953884
+  },
+  {
+    "date": "2023-07-07",
+    "apy": 0.3378,
+    "apy_base": 0.3378,
+    "apy_reward": 0,
+    "tvl_usd": 21932156
+  },
+  {
+    "date": "2023-07-08",
+    "apy": 0.1834,
+    "apy_base": 0.1834,
+    "apy_reward": 0,
+    "tvl_usd": 21943229
+  },
+  {
+    "date": "2023-07-09",
+    "apy": 0.3214,
+    "apy_base": 0.3214,
+    "apy_reward": 0,
+    "tvl_usd": 21805162
+  },
+  {
+    "date": "2023-07-10",
+    "apy": 0.1764,
+    "apy_base": 0.1764,
+    "apy_reward": 0,
+    "tvl_usd": 21804472
+  },
+  {
+    "date": "2023-07-11",
+    "apy": 0.6161,
+    "apy_base": 0.6161,
+    "apy_reward": 0,
+    "tvl_usd": 21804862
+  },
+  {
+    "date": "2023-07-12",
+    "apy": 2.5795,
+    "apy_base": 2.5795,
+    "apy_reward": 0,
+    "tvl_usd": 21807387
+  },
+  {
+    "date": "2023-07-13",
+    "apy": 0.2476,
+    "apy_base": 0.2476,
+    "apy_reward": 0,
+    "tvl_usd": 21819540
+  },
+  {
+    "date": "2023-07-14",
+    "apy": 0.2826,
+    "apy_base": 0.2826,
+    "apy_reward": 0,
+    "tvl_usd": 21804484
+  },
+  {
+    "date": "2023-07-15",
+    "apy": 0.0955,
+    "apy_base": 0.0955,
+    "apy_reward": 0,
+    "tvl_usd": 21808859
+  },
+  {
+    "date": "2023-07-16",
+    "apy": 0.1565,
+    "apy_base": 0.1565,
+    "apy_reward": 0,
+    "tvl_usd": 21798029
+  },
+  {
+    "date": "2023-07-17",
+    "apy": 0.0948,
+    "apy_base": 0.0948,
+    "apy_reward": 0,
+    "tvl_usd": 21786813
+  },
+  {
+    "date": "2023-07-18",
+    "apy": 0.7802,
+    "apy_base": 0.7802,
+    "apy_reward": 0,
+    "tvl_usd": 21796670
+  },
+  {
+    "date": "2023-07-19",
+    "apy": 0.919,
+    "apy_base": 0.919,
+    "apy_reward": 0,
+    "tvl_usd": 21810027
+  },
+  {
+    "date": "2023-07-20",
+    "apy": 0.2271,
+    "apy_base": 0.2271,
+    "apy_reward": 0,
+    "tvl_usd": 21806791
+  },
+  {
+    "date": "2023-07-21",
+    "apy": 1.6222,
+    "apy_base": 1.6222,
+    "apy_reward": 0,
+    "tvl_usd": 21808611
+  },
+  {
+    "date": "2023-07-22",
+    "apy": 0.2388,
+    "apy_base": 0.2388,
+    "apy_reward": 0,
+    "tvl_usd": 21811024
+  },
+  {
+    "date": "2023-07-23",
+    "apy": 0.3719,
+    "apy_base": 0.3719,
+    "apy_reward": 0,
+    "tvl_usd": 21809675
+  },
+  {
+    "date": "2023-07-24",
+    "apy": 0.4633,
+    "apy_base": 0.4633,
+    "apy_reward": 0,
+    "tvl_usd": 21822680
+  },
+  {
+    "date": "2023-07-25",
+    "apy": 0.229,
+    "apy_base": 0.229,
+    "apy_reward": 0,
+    "tvl_usd": 21810633
+  },
+  {
+    "date": "2023-07-26",
+    "apy": 0.2246,
+    "apy_base": 0.2246,
+    "apy_reward": 0,
+    "tvl_usd": 21812054
+  },
+  {
+    "date": "2023-07-27",
+    "apy": 0.4289,
+    "apy_base": 0.4289,
+    "apy_reward": 0,
+    "tvl_usd": 21807763
+  },
+  {
+    "date": "2023-07-28",
+    "apy": 0.2425,
+    "apy_base": 0.2425,
+    "apy_reward": 0,
+    "tvl_usd": 21807629
+  },
+  {
+    "date": "2023-07-29",
+    "apy": 0.2046,
+    "apy_base": 0.2046,
+    "apy_reward": 0,
+    "tvl_usd": 21812352
+  },
+  {
+    "date": "2023-07-30",
+    "apy": 0.1236,
+    "apy_base": 0.1236,
+    "apy_reward": 0,
+    "tvl_usd": 21808005
+  },
+  {
+    "date": "2023-07-31",
+    "apy": 0.4043,
+    "apy_base": 0.4043,
+    "apy_reward": 0,
+    "tvl_usd": 21807330
+  },
+  {
+    "date": "2023-08-01",
+    "apy": 0.1473,
+    "apy_base": 0.1473,
+    "apy_reward": 0,
+    "tvl_usd": 21781989
+  },
+  {
+    "date": "2023-08-02",
+    "apy": 0.3372,
+    "apy_base": 0.3372,
+    "apy_reward": 0,
+    "tvl_usd": 21783698
+  },
+  {
+    "date": "2023-08-03",
+    "apy": 0.304,
+    "apy_base": 0.304,
+    "apy_reward": 0,
+    "tvl_usd": 21779784
+  },
+  {
+    "date": "2023-08-04",
+    "apy": 0.1867,
+    "apy_base": 0.1867,
+    "apy_reward": 0,
+    "tvl_usd": 21773390
+  },
+  {
+    "date": "2023-08-05",
+    "apy": 0.1173,
+    "apy_base": 0.1173,
+    "apy_reward": 0,
+    "tvl_usd": 21779375
+  },
+  {
+    "date": "2023-08-06",
+    "apy": 1.9391,
+    "apy_base": 1.9391,
+    "apy_reward": 0,
+    "tvl_usd": 21768629
+  },
+  {
+    "date": "2023-08-07",
+    "apy": 0.1805,
+    "apy_base": 0.1805,
+    "apy_reward": 0,
+    "tvl_usd": 21774955
+  },
+  {
+    "date": "2023-08-08",
+    "apy": 0.2172,
+    "apy_base": 0.2172,
+    "apy_reward": 0,
+    "tvl_usd": 21785115
+  },
+  {
+    "date": "2023-08-09",
+    "apy": 0.4932,
+    "apy_base": 0.4932,
+    "apy_reward": 0,
+    "tvl_usd": 21785429
+  },
+  {
+    "date": "2023-08-10",
+    "apy": 0.1622,
+    "apy_base": 0.1622,
+    "apy_reward": 0,
+    "tvl_usd": 21784862
+  },
+  {
+    "date": "2023-08-11",
+    "apy": 0.2428,
+    "apy_base": 0.2428,
+    "apy_reward": 0,
+    "tvl_usd": 21789586
+  },
+  {
+    "date": "2023-08-12",
+    "apy": 0.1174,
+    "apy_base": 0.1174,
+    "apy_reward": 0,
+    "tvl_usd": 21785842
+  },
+  {
+    "date": "2023-08-13",
+    "apy": 0.1477,
+    "apy_base": 0.1477,
+    "apy_reward": 0,
+    "tvl_usd": 21782119
+  },
+  {
+    "date": "2023-08-14",
+    "apy": 0.2679,
+    "apy_base": 0.2679,
+    "apy_reward": 0,
+    "tvl_usd": 21786419
+  },
+  {
+    "date": "2023-08-15",
+    "apy": 0.2482,
+    "apy_base": 0.2482,
+    "apy_reward": 0,
+    "tvl_usd": 21781663
+  },
+  {
+    "date": "2023-08-16",
+    "apy": 0.4324,
+    "apy_base": 0.4324,
+    "apy_reward": 0,
+    "tvl_usd": 21791626
+  },
+  {
+    "date": "2023-08-17",
+    "apy": 0.7732,
+    "apy_base": 0.7732,
+    "apy_reward": 0,
+    "tvl_usd": 21652588
+  },
+  {
+    "date": "2023-08-18",
+    "apy": 0.4077,
+    "apy_base": 0.4077,
+    "apy_reward": 0,
+    "tvl_usd": 21790474
+  },
+  {
+    "date": "2023-08-19",
+    "apy": 0.1659,
+    "apy_base": 0.1659,
+    "apy_reward": 0,
+    "tvl_usd": 21791767
+  },
+  {
+    "date": "2023-08-20",
+    "apy": 0.2619,
+    "apy_base": 0.2619,
+    "apy_reward": 0,
+    "tvl_usd": 21794974
+  },
+  {
+    "date": "2023-08-21",
+    "apy": 0.1952,
+    "apy_base": 0.1952,
+    "apy_reward": 0,
+    "tvl_usd": 21795967
+  },
+  {
+    "date": "2023-08-22",
+    "apy": 0.2381,
+    "apy_base": 0.2381,
+    "apy_reward": 0,
+    "tvl_usd": 21790224
+  },
+  {
+    "date": "2023-08-23",
+    "apy": 0.1296,
+    "apy_base": 0.1296,
+    "apy_reward": 0,
+    "tvl_usd": 21790515
+  },
+  {
+    "date": "2023-08-24",
+    "apy": 0.2046,
+    "apy_base": 0.2046,
+    "apy_reward": 0,
+    "tvl_usd": 21782903
+  },
+  {
+    "date": "2023-08-25",
+    "apy": 0.3845,
+    "apy_base": 0.3845,
+    "apy_reward": 0,
+    "tvl_usd": 21791303
+  },
+  {
+    "date": "2023-08-26",
+    "apy": 0.1002,
+    "apy_base": 0.1002,
+    "apy_reward": 0,
+    "tvl_usd": 21790055
+  },
+  {
+    "date": "2023-08-27",
+    "apy": 1.4682,
+    "apy_base": 1.4682,
+    "apy_reward": 0,
+    "tvl_usd": 21794750
+  },
+  {
+    "date": "2023-08-28",
+    "apy": 0.2871,
+    "apy_base": 0.2871,
+    "apy_reward": 0,
+    "tvl_usd": 21679744
+  },
+  {
+    "date": "2023-08-29",
+    "apy": 0.6254,
+    "apy_base": 0.6254,
+    "apy_reward": 0,
+    "tvl_usd": 21719608
+  },
+  {
+    "date": "2023-08-30",
+    "apy": 0.5862,
+    "apy_base": 0.5862,
+    "apy_reward": 0,
+    "tvl_usd": 21691750
+  },
+  {
+    "date": "2023-08-31",
+    "apy": 0.8481,
+    "apy_base": 0.8481,
+    "apy_reward": 0,
+    "tvl_usd": 21694842
+  },
+  {
+    "date": "2023-09-01",
+    "apy": 0.3142,
+    "apy_base": 0.3142,
+    "apy_reward": 0,
+    "tvl_usd": 21687150
+  },
+  {
+    "date": "2023-09-02",
+    "apy": 0.6088,
+    "apy_base": 0.6088,
+    "apy_reward": 0,
+    "tvl_usd": 21697258
+  },
+  {
+    "date": "2023-09-03",
+    "apy": 0.1102,
+    "apy_base": 0.1102,
+    "apy_reward": 0,
+    "tvl_usd": 21693091
+  },
+  {
+    "date": "2023-09-04",
+    "apy": 0.949,
+    "apy_base": 0.949,
+    "apy_reward": 0,
+    "tvl_usd": 21690837
+  },
+  {
+    "date": "2023-09-05",
+    "apy": 0.738,
+    "apy_base": 0.738,
+    "apy_reward": 0,
+    "tvl_usd": 21696709
+  },
+  {
+    "date": "2023-09-06",
+    "apy": 0.7207,
+    "apy_base": 0.7207,
+    "apy_reward": 0,
+    "tvl_usd": 21697018
+  },
+  {
+    "date": "2023-09-07",
+    "apy": 0.3036,
+    "apy_base": 0.3036,
+    "apy_reward": 0,
+    "tvl_usd": 21711752
+  },
+  {
+    "date": "2023-09-08",
+    "apy": 0.2887,
+    "apy_base": 0.2887,
+    "apy_reward": 0,
+    "tvl_usd": 21698346
+  },
+  {
+    "date": "2023-09-09",
+    "apy": 0.2356,
+    "apy_base": 0.2356,
+    "apy_reward": 0,
+    "tvl_usd": 21696432
+  },
+  {
+    "date": "2023-09-10",
+    "apy": 0.2948,
+    "apy_base": 0.2948,
+    "apy_reward": 0,
+    "tvl_usd": 21701389
+  },
+  {
+    "date": "2023-09-11",
+    "apy": 3.118,
+    "apy_base": 3.118,
+    "apy_reward": 0,
+    "tvl_usd": 21697370
+  },
+  {
+    "date": "2023-09-12",
+    "apy": 0.9575,
+    "apy_base": 0.9575,
+    "apy_reward": 0,
+    "tvl_usd": 21688389
+  },
+  {
+    "date": "2023-09-13",
+    "apy": 0.3582,
+    "apy_base": 0.3582,
+    "apy_reward": 0,
+    "tvl_usd": 21702821
+  },
+  {
+    "date": "2023-09-14",
+    "apy": 0.2687,
+    "apy_base": 0.2687,
+    "apy_reward": 0,
+    "tvl_usd": 21703526
+  },
+  {
+    "date": "2023-09-15",
+    "apy": 0.3099,
+    "apy_base": 0.3099,
+    "apy_reward": 0,
+    "tvl_usd": 21704359
+  },
+  {
+    "date": "2023-09-16",
+    "apy": 0.4772,
+    "apy_base": 0.4772,
+    "apy_reward": 0,
+    "tvl_usd": 21701170
+  },
+  {
+    "date": "2023-09-17",
+    "apy": 0.2786,
+    "apy_base": 0.2786,
+    "apy_reward": 0,
+    "tvl_usd": 21704811
+  },
+  {
+    "date": "2023-09-18",
+    "apy": 0.4668,
+    "apy_base": 0.4668,
+    "apy_reward": 0,
+    "tvl_usd": 21715913
+  },
+  {
+    "date": "2023-09-19",
+    "apy": 0.4024,
+    "apy_base": 0.4024,
+    "apy_reward": 0,
+    "tvl_usd": 21705287
+  },
+  {
+    "date": "2023-09-20",
+    "apy": 0.3657,
+    "apy_base": 0.3657,
+    "apy_reward": 0,
+    "tvl_usd": 21635452
+  },
+  {
+    "date": "2023-09-21",
+    "apy": 0.1746,
+    "apy_base": 0.1746,
+    "apy_reward": 0,
+    "tvl_usd": 21656410
+  },
+  {
+    "date": "2023-09-22",
+    "apy": 0.1967,
+    "apy_base": 0.1967,
+    "apy_reward": 0,
+    "tvl_usd": 21645708
+  },
+  {
+    "date": "2023-09-23",
+    "apy": 0.1224,
+    "apy_base": 0.1224,
+    "apy_reward": 0,
+    "tvl_usd": 21638961
+  },
+  {
+    "date": "2023-09-24",
+    "apy": 0.2535,
+    "apy_base": 0.2535,
+    "apy_reward": 0,
+    "tvl_usd": 20982834
+  },
+  {
+    "date": "2023-09-25",
+    "apy": 0.4266,
+    "apy_base": 0.4266,
+    "apy_reward": 0,
+    "tvl_usd": 20978779
+  },
+  {
+    "date": "2023-09-26",
+    "apy": 0.3887,
+    "apy_base": 0.3887,
+    "apy_reward": 0,
+    "tvl_usd": 20980466
+  },
+  {
+    "date": "2023-09-27",
+    "apy": 0.1344,
+    "apy_base": 0.1344,
+    "apy_reward": 0,
+    "tvl_usd": 20982317
+  },
+  {
+    "date": "2023-09-28",
+    "apy": 0.2909,
+    "apy_base": 0.2909,
+    "apy_reward": 0,
+    "tvl_usd": 20980176
+  },
+  {
+    "date": "2023-09-29",
+    "apy": 0.2644,
+    "apy_base": 0.2644,
+    "apy_reward": 0,
+    "tvl_usd": 20982217
+  },
+  {
+    "date": "2023-09-30",
+    "apy": 0.2082,
+    "apy_base": 0.2082,
+    "apy_reward": 0,
+    "tvl_usd": 20985691
+  },
+  {
+    "date": "2023-10-01",
+    "apy": 0.1942,
+    "apy_base": 0.1942,
+    "apy_reward": 0,
+    "tvl_usd": 20975312
+  },
+  {
+    "date": "2023-10-02",
+    "apy": 0.5416,
+    "apy_base": 0.5416,
+    "apy_reward": 0,
+    "tvl_usd": 20996615
+  },
+  {
+    "date": "2023-10-03",
+    "apy": 0.3859,
+    "apy_base": 0.3859,
+    "apy_reward": 0,
+    "tvl_usd": 20996828
+  },
+  {
+    "date": "2023-10-04",
+    "apy": 0.3074,
+    "apy_base": 0.3074,
+    "apy_reward": 0,
+    "tvl_usd": 20979904
+  },
+  {
+    "date": "2023-10-05",
+    "apy": 0.5257,
+    "apy_base": 0.5257,
+    "apy_reward": 0,
+    "tvl_usd": 20986817
+  },
+  {
+    "date": "2023-10-06",
+    "apy": 0.3065,
+    "apy_base": 0.3065,
+    "apy_reward": 0,
+    "tvl_usd": 20976606
+  },
+  {
+    "date": "2023-10-07",
+    "apy": 0.4764,
+    "apy_base": 0.4764,
+    "apy_reward": 0,
+    "tvl_usd": 20997659
+  },
+  {
+    "date": "2023-10-08",
+    "apy": 0.2017,
+    "apy_base": 0.2017,
+    "apy_reward": 0,
+    "tvl_usd": 21015377
+  },
+  {
+    "date": "2023-10-09",
+    "apy": 0.3226,
+    "apy_base": 0.3226,
+    "apy_reward": 0,
+    "tvl_usd": 21002984
+  },
+  {
+    "date": "2023-10-10",
+    "apy": 0.2435,
+    "apy_base": 0.2435,
+    "apy_reward": 0,
+    "tvl_usd": 21004542
+  },
+  {
+    "date": "2023-10-11",
+    "apy": 0.271,
+    "apy_base": 0.271,
+    "apy_reward": 0,
+    "tvl_usd": 21004282
+  },
+  {
+    "date": "2023-10-12",
+    "apy": 0.1271,
+    "apy_base": 0.1271,
+    "apy_reward": 0,
+    "tvl_usd": 21000261
+  },
+  {
+    "date": "2023-10-13",
+    "apy": 0.3118,
+    "apy_base": 0.3118,
+    "apy_reward": 0,
+    "tvl_usd": 21025554
+  },
+  {
+    "date": "2023-10-14",
+    "apy": 0.1314,
+    "apy_base": 0.1314,
+    "apy_reward": 0,
+    "tvl_usd": 20980795
+  },
+  {
+    "date": "2023-10-15",
+    "apy": 0.2476,
+    "apy_base": 0.2476,
+    "apy_reward": 0,
+    "tvl_usd": 20981769
+  },
+  {
+    "date": "2023-10-16",
+    "apy": 0.4649,
+    "apy_base": 0.4649,
+    "apy_reward": 0,
+    "tvl_usd": 20992526
+  },
+  {
+    "date": "2023-10-17",
+    "apy": 0.1718,
+    "apy_base": 0.1718,
+    "apy_reward": 0,
+    "tvl_usd": 21003119
+  },
+  {
+    "date": "2023-10-18",
+    "apy": 0.5053,
+    "apy_base": 0.5053,
+    "apy_reward": 0,
+    "tvl_usd": 20992918
+  },
+  {
+    "date": "2023-10-19",
+    "apy": 0.9119,
+    "apy_base": 0.9119,
+    "apy_reward": 0,
+    "tvl_usd": 20982430
+  },
+  {
+    "date": "2023-10-20",
+    "apy": 0.5065,
+    "apy_base": 0.5065,
+    "apy_reward": 0,
+    "tvl_usd": 20993731
+  },
+  {
+    "date": "2023-10-21",
+    "apy": 0.2995,
+    "apy_base": 0.2995,
+    "apy_reward": 0,
+    "tvl_usd": 20973761
+  },
+  {
+    "date": "2023-10-22",
+    "apy": 0.3511,
+    "apy_base": 0.3511,
+    "apy_reward": 0,
+    "tvl_usd": 21004605
+  },
+  {
+    "date": "2023-10-23",
+    "apy": 1.0523,
+    "apy_base": 1.0523,
+    "apy_reward": 0,
+    "tvl_usd": 20280018
+  },
+  {
+    "date": "2023-10-24",
+    "apy": 0.6419,
+    "apy_base": 0.6419,
+    "apy_reward": 0,
+    "tvl_usd": 20304212
+  },
+  {
+    "date": "2023-10-25",
+    "apy": 0.7571,
+    "apy_base": 0.7571,
+    "apy_reward": 0,
+    "tvl_usd": 20284353
+  },
+  {
+    "date": "2023-10-26",
+    "apy": 0.567,
+    "apy_base": 0.567,
+    "apy_reward": 0,
+    "tvl_usd": 20304958
+  },
+  {
+    "date": "2023-10-27",
+    "apy": 0.3742,
+    "apy_base": 0.3742,
+    "apy_reward": 0,
+    "tvl_usd": 20278889
+  },
+  {
+    "date": "2023-10-28",
+    "apy": 0.3644,
+    "apy_base": 0.3644,
+    "apy_reward": 0,
+    "tvl_usd": 20284977
+  },
+  {
+    "date": "2023-10-29",
+    "apy": 0.3673,
+    "apy_base": 0.3673,
+    "apy_reward": 0,
+    "tvl_usd": 20154130
+  },
+  {
+    "date": "2023-10-30",
+    "apy": 0.3762,
+    "apy_base": 0.3762,
+    "apy_reward": 0,
+    "tvl_usd": 20154354
+  },
+  {
+    "date": "2023-10-31",
+    "apy": 0.4713,
+    "apy_base": 0.4713,
+    "apy_reward": 0,
+    "tvl_usd": 20141012
+  },
+  {
+    "date": "2023-11-01",
+    "apy": 0.6947,
+    "apy_base": 0.6947,
+    "apy_reward": 0,
+    "tvl_usd": 20155003
+  },
+  {
+    "date": "2023-11-02",
+    "apy": 0.6338,
+    "apy_base": 0.6338,
+    "apy_reward": 0,
+    "tvl_usd": 20154442
+  },
+  {
+    "date": "2023-11-03",
+    "apy": 0.2812,
+    "apy_base": 0.2812,
+    "apy_reward": 0,
+    "tvl_usd": 20165580
+  },
+  {
+    "date": "2023-11-04",
+    "apy": 0.164,
+    "apy_base": 0.164,
+    "apy_reward": 0,
+    "tvl_usd": 20165671
+  },
+  {
+    "date": "2023-11-05",
+    "apy": 0.3096,
+    "apy_base": 0.3096,
+    "apy_reward": 0,
+    "tvl_usd": 20206154
+  },
+  {
+    "date": "2023-11-06",
+    "apy": 0.7616,
+    "apy_base": 0.7616,
+    "apy_reward": 0,
+    "tvl_usd": 20155583
+  },
+  {
+    "date": "2023-11-07",
+    "apy": 0.6929,
+    "apy_base": 0.6929,
+    "apy_reward": 0,
+    "tvl_usd": 20141164
+  },
+  {
+    "date": "2023-11-08",
+    "apy": 0.8316,
+    "apy_base": 0.8316,
+    "apy_reward": 0,
+    "tvl_usd": 20144936
+  },
+  {
+    "date": "2023-11-09",
+    "apy": 1.5387,
+    "apy_base": 1.5387,
+    "apy_reward": 0,
+    "tvl_usd": 20148913
+  },
+  {
+    "date": "2023-11-10",
+    "apy": 4.0968,
+    "apy_base": 4.0968,
+    "apy_reward": 0,
+    "tvl_usd": 20166509
+  },
+  {
+    "date": "2023-11-11",
+    "apy": 0.8685,
+    "apy_base": 0.8685,
+    "apy_reward": 0,
+    "tvl_usd": 20152169
+  },
+  {
+    "date": "2023-11-12",
+    "apy": 0.5648,
+    "apy_base": 0.5648,
+    "apy_reward": 0,
+    "tvl_usd": 20157622
+  },
+  {
+    "date": "2023-11-13",
+    "apy": 0.4881,
+    "apy_base": 0.4881,
+    "apy_reward": 0,
+    "tvl_usd": 20135223
+  },
+  {
+    "date": "2023-11-14",
+    "apy": 0.6168,
+    "apy_base": 0.6168,
+    "apy_reward": 0,
+    "tvl_usd": 20179804
+  },
+  {
+    "date": "2023-11-15",
+    "apy": 0.5212,
+    "apy_base": 0.5212,
+    "apy_reward": 0,
+    "tvl_usd": 19857547
+  },
+  {
+    "date": "2023-11-16",
+    "apy": 0.8348,
+    "apy_base": 0.8348,
+    "apy_reward": 0,
+    "tvl_usd": 19851250
+  },
+  {
+    "date": "2023-11-17",
+    "apy": 0.8282,
+    "apy_base": 0.8282,
+    "apy_reward": 0,
+    "tvl_usd": 19870846
+  },
+  {
+    "date": "2023-11-18",
+    "apy": 0.3779,
+    "apy_base": 0.3779,
+    "apy_reward": 0,
+    "tvl_usd": 19864092
+  },
+  {
+    "date": "2023-11-19",
+    "apy": 1.0719,
+    "apy_base": 1.0719,
+    "apy_reward": 0,
+    "tvl_usd": 19878084
+  },
+  {
+    "date": "2023-11-20",
+    "apy": 1.4739,
+    "apy_base": 1.4739,
+    "apy_reward": 0,
+    "tvl_usd": 19867237
+  },
+  {
+    "date": "2023-11-21",
+    "apy": 5.1025,
+    "apy_base": 5.1025,
+    "apy_reward": 0,
+    "tvl_usd": 4058221
+  },
+  {
+    "date": "2023-11-22",
+    "apy": 6.1284,
+    "apy_base": 6.1284,
+    "apy_reward": 0,
+    "tvl_usd": 4064087
+  },
+  {
+    "date": "2023-11-23",
+    "apy": 4.8539,
+    "apy_base": 4.8539,
+    "apy_reward": 0,
+    "tvl_usd": 4061054
+  },
+  {
+    "date": "2023-11-24",
+    "apy": 7.32,
+    "apy_base": 7.32,
+    "apy_reward": 0,
+    "tvl_usd": 4057597
+  },
+  {
+    "date": "2023-11-25",
+    "apy": 2.0818,
+    "apy_base": 2.0818,
+    "apy_reward": 0,
+    "tvl_usd": 4061588
+  },
+  {
+    "date": "2023-11-26",
+    "apy": 2.2654,
+    "apy_base": 2.2654,
+    "apy_reward": 0,
+    "tvl_usd": 4058842
+  },
+  {
+    "date": "2023-11-27",
+    "apy": 4.8752,
+    "apy_base": 4.8752,
+    "apy_reward": 0,
+    "tvl_usd": 4062384
+  },
+  {
+    "date": "2023-11-28",
+    "apy": 6.4375,
+    "apy_base": 6.4375,
+    "apy_reward": 0,
+    "tvl_usd": 4060294
+  },
+  {
+    "date": "2023-11-29",
+    "apy": 4.4922,
+    "apy_base": 4.4922,
+    "apy_reward": 0,
+    "tvl_usd": 4061102
+  },
+  {
+    "date": "2023-11-30",
+    "apy": 3.7089,
+    "apy_base": 3.7089,
+    "apy_reward": 0,
+    "tvl_usd": 4063912
+  },
+  {
+    "date": "2023-12-01",
+    "apy": 3.3864,
+    "apy_base": 3.3864,
+    "apy_reward": 0,
+    "tvl_usd": 4062034
+  },
+  {
+    "date": "2023-12-02",
+    "apy": 4.5681,
+    "apy_base": 4.5681,
+    "apy_reward": 0,
+    "tvl_usd": 4064757
+  },
+  {
+    "date": "2023-12-03",
+    "apy": 5.5463,
+    "apy_base": 5.5463,
+    "apy_reward": 0,
+    "tvl_usd": 4063387
+  },
+  {
+    "date": "2023-12-04",
+    "apy": 7.4996,
+    "apy_base": 7.4996,
+    "apy_reward": 0,
+    "tvl_usd": 4066251
+  },
+  {
+    "date": "2023-12-05",
+    "apy": 7.1077,
+    "apy_base": 7.1077,
+    "apy_reward": 0,
+    "tvl_usd": 4064015
+  },
+  {
+    "date": "2023-12-06",
+    "apy": 29.7579,
+    "apy_base": 29.7579,
+    "apy_reward": 0,
+    "tvl_usd": 4070317
+  },
+  {
+    "date": "2023-12-07",
+    "apy": 9.7756,
+    "apy_base": 9.7756,
+    "apy_reward": 0,
+    "tvl_usd": 4069069
+  },
+  {
+    "date": "2023-12-08",
+    "apy": 6.8305,
+    "apy_base": 6.8305,
+    "apy_reward": 0,
+    "tvl_usd": 4064701
+  },
+  {
+    "date": "2023-12-09",
+    "apy": 5.438,
+    "apy_base": 5.438,
+    "apy_reward": 0,
+    "tvl_usd": 4069995
+  },
+  {
+    "date": "2023-12-26",
+    "apy": 3.6713,
+    "apy_base": 3.6713,
+    "apy_reward": 0,
+    "tvl_usd": 4164571
+  },
+  {
+    "date": "2023-12-27",
+    "apy": 3.2016,
+    "apy_base": 3.2016,
+    "apy_reward": 0,
+    "tvl_usd": 4162905
+  },
+  {
+    "date": "2023-12-28",
+    "apy": 4.8594,
+    "apy_base": 4.8594,
+    "apy_reward": 0,
+    "tvl_usd": 4167579
+  },
+  {
+    "date": "2023-12-29",
+    "apy": 3.4956,
+    "apy_base": 3.4956,
+    "apy_reward": 0,
+    "tvl_usd": 4167976
+  },
+  {
+    "date": "2023-12-30",
+    "apy": 2.9428,
+    "apy_base": 2.9428,
+    "apy_reward": 0,
+    "tvl_usd": 4164834
+  },
+  {
+    "date": "2023-12-31",
+    "apy": 2.8197,
+    "apy_base": 2.8197,
+    "apy_reward": 0,
+    "tvl_usd": 4166390
+  },
+  {
+    "date": "2024-01-01",
+    "apy": 2.4987,
+    "apy_base": 2.4987,
+    "apy_reward": 0,
+    "tvl_usd": 4166764
+  },
+  {
+    "date": "2024-01-02",
+    "apy": 4.1632,
+    "apy_base": 4.1632,
+    "apy_reward": 0,
+    "tvl_usd": 4165339
+  },
+  {
+    "date": "2024-01-03",
+    "apy": 5.3719,
+    "apy_base": 5.3719,
+    "apy_reward": 0,
+    "tvl_usd": 4167267
+  },
+  {
+    "date": "2024-01-04",
+    "apy": 3.3509,
+    "apy_base": 3.3509,
+    "apy_reward": 0,
+    "tvl_usd": 4174413
+  },
+  {
+    "date": "2024-01-09",
+    "apy": 3.7498,
+    "apy_base": 3.7498,
+    "apy_reward": 0,
+    "tvl_usd": 4178476
+  },
+  {
+    "date": "2024-01-10",
+    "apy": 4.4835,
+    "apy_base": 4.4835,
+    "apy_reward": 0,
+    "tvl_usd": 4233285
+  },
+  {
+    "date": "2024-01-11",
+    "apy": 6.326,
+    "apy_base": 6.326,
+    "apy_reward": 0,
+    "tvl_usd": 4227744
+  },
+  {
+    "date": "2024-01-12",
+    "apy": 5.8906,
+    "apy_base": 5.8906,
+    "apy_reward": 0,
+    "tvl_usd": 4228427
+  },
+  {
+    "date": "2024-01-13",
+    "apy": 2.2128,
+    "apy_base": 2.2128,
+    "apy_reward": 0,
+    "tvl_usd": 4226570
+  },
+  {
+    "date": "2024-01-14",
+    "apy": 2.4944,
+    "apy_base": 2.4944,
+    "apy_reward": 0,
+    "tvl_usd": 4171425
+  },
+  {
+    "date": "2024-01-15",
+    "apy": 1.7531,
+    "apy_base": 1.7531,
+    "apy_reward": 0,
+    "tvl_usd": 4168933
+  },
+  {
+    "date": "2024-01-16",
+    "apy": 1.7782,
+    "apy_base": 1.7782,
+    "apy_reward": 0,
+    "tvl_usd": 4173518
+  },
+  {
+    "date": "2024-01-17",
+    "apy": 3.7817,
+    "apy_base": 3.7817,
+    "apy_reward": 0,
+    "tvl_usd": 4175564
+  },
+  {
+    "date": "2024-01-18",
+    "apy": 3.4642,
+    "apy_base": 3.4642,
+    "apy_reward": 0,
+    "tvl_usd": 4176938
+  },
+  {
+    "date": "2024-01-19",
+    "apy": 1.7011,
+    "apy_base": 1.7011,
+    "apy_reward": 0,
+    "tvl_usd": 4177758
+  },
+  {
+    "date": "2024-01-20",
+    "apy": 1.2528,
+    "apy_base": 1.2528,
+    "apy_reward": 0,
+    "tvl_usd": 4174896
+  },
+  {
+    "date": "2024-01-21",
+    "apy": 1.3304,
+    "apy_base": 1.3304,
+    "apy_reward": 0,
+    "tvl_usd": 4173104
+  },
+  {
+    "date": "2024-01-22",
+    "apy": 2.0721,
+    "apy_base": 2.0721,
+    "apy_reward": 0,
+    "tvl_usd": 4176603
+  },
+  {
+    "date": "2024-01-23",
+    "apy": 1.6197,
+    "apy_base": 1.6197,
+    "apy_reward": 0,
+    "tvl_usd": 4174049
+  },
+  {
+    "date": "2024-01-24",
+    "apy": 1.5577,
+    "apy_base": 1.5577,
+    "apy_reward": 0,
+    "tvl_usd": 4179135
+  },
+  {
+    "date": "2024-01-25",
+    "apy": 0.8324,
+    "apy_base": 0.8324,
+    "apy_reward": 0,
+    "tvl_usd": 4177705
+  },
+  {
+    "date": "2024-01-26",
+    "apy": 1.6526,
+    "apy_base": 1.6526,
+    "apy_reward": 0,
+    "tvl_usd": 4175535
+  },
+  {
+    "date": "2024-01-27",
+    "apy": 1.3005,
+    "apy_base": 1.3005,
+    "apy_reward": 0,
+    "tvl_usd": 4176562
+  },
+  {
+    "date": "2024-01-28",
+    "apy": 0.9821,
+    "apy_base": 0.9821,
+    "apy_reward": 0,
+    "tvl_usd": 4181771
+  },
+  {
+    "date": "2024-01-29",
+    "apy": 1.328,
+    "apy_base": 1.328,
+    "apy_reward": 0,
+    "tvl_usd": 4177746
+  },
+  {
+    "date": "2024-01-30",
+    "apy": 2.5476,
+    "apy_base": 2.5476,
+    "apy_reward": 0,
+    "tvl_usd": 4172888
+  },
+  {
+    "date": "2024-01-31",
+    "apy": 1.344,
+    "apy_base": 1.344,
+    "apy_reward": 0,
+    "tvl_usd": 4176563
+  },
+  {
+    "date": "2024-02-01",
+    "apy": 2.382,
+    "apy_base": 2.382,
+    "apy_reward": 0,
+    "tvl_usd": 4178910
+  },
+  {
+    "date": "2024-02-02",
+    "apy": 1.2718,
+    "apy_base": 1.2718,
+    "apy_reward": 0,
+    "tvl_usd": 4179054
+  },
+  {
+    "date": "2024-02-03",
+    "apy": 1.1569,
+    "apy_base": 1.1569,
+    "apy_reward": 0,
+    "tvl_usd": 4174341
+  },
+  {
+    "date": "2024-02-04",
+    "apy": 1.0193,
+    "apy_base": 1.0193,
+    "apy_reward": 0,
+    "tvl_usd": 4175377
+  },
+  {
+    "date": "2024-02-05",
+    "apy": 1.9762,
+    "apy_base": 1.9762,
+    "apy_reward": 0,
+    "tvl_usd": 4177418
+  },
+  {
+    "date": "2024-02-06",
+    "apy": 2.8682,
+    "apy_base": 2.8682,
+    "apy_reward": 0,
+    "tvl_usd": 4177081
+  },
+  {
+    "date": "2024-02-07",
+    "apy": 2.9164,
+    "apy_base": 2.9164,
+    "apy_reward": 0,
+    "tvl_usd": 4173779
+  },
+  {
+    "date": "2024-02-08",
+    "apy": 2.274,
+    "apy_base": 2.274,
+    "apy_reward": 0,
+    "tvl_usd": 4178364
+  },
+  {
+    "date": "2024-02-09",
+    "apy": 3.1883,
+    "apy_base": 3.1883,
+    "apy_reward": 0,
+    "tvl_usd": 4180818
+  },
+  {
+    "date": "2024-02-10",
+    "apy": 3.3997,
+    "apy_base": 3.3997,
+    "apy_reward": 0,
+    "tvl_usd": 4183304
+  },
+  {
+    "date": "2024-02-11",
+    "apy": 2.9545,
+    "apy_base": 2.9545,
+    "apy_reward": 0,
+    "tvl_usd": 4176996
+  },
+  {
+    "date": "2024-02-12",
+    "apy": 2.0186,
+    "apy_base": 2.0186,
+    "apy_reward": 0,
+    "tvl_usd": 4183870
+  },
+  {
+    "date": "2024-02-13",
+    "apy": 2.0917,
+    "apy_base": 2.0917,
+    "apy_reward": 0,
+    "tvl_usd": 4184109
+  },
+  {
+    "date": "2024-02-14",
+    "apy": 4.0699,
+    "apy_base": 4.0699,
+    "apy_reward": 0,
+    "tvl_usd": 4184576
+  },
+  {
+    "date": "2024-02-15",
+    "apy": 2.6878,
+    "apy_base": 2.6878,
+    "apy_reward": 0,
+    "tvl_usd": 4184892
+  },
+  {
+    "date": "2024-02-16",
+    "apy": 3.4893,
+    "apy_base": 3.4893,
+    "apy_reward": 0,
+    "tvl_usd": 4182989
+  },
+  {
+    "date": "2024-02-17",
+    "apy": 1.1678,
+    "apy_base": 1.1678,
+    "apy_reward": 0,
+    "tvl_usd": 4181238
+  },
+  {
+    "date": "2024-02-18",
+    "apy": 3.143,
+    "apy_base": 3.143,
+    "apy_reward": 0,
+    "tvl_usd": 4185054
+  },
+  {
+    "date": "2024-02-19",
+    "apy": 2.4763,
+    "apy_base": 2.4763,
+    "apy_reward": 0,
+    "tvl_usd": 4178388
+  },
+  {
+    "date": "2024-02-20",
+    "apy": 3.5693,
+    "apy_base": 3.5693,
+    "apy_reward": 0,
+    "tvl_usd": 4179175
+  },
+  {
+    "date": "2024-02-21",
+    "apy": 4.3428,
+    "apy_base": 4.3428,
+    "apy_reward": 0,
+    "tvl_usd": 4186196
+  },
+  {
+    "date": "2024-02-22",
+    "apy": 2.2436,
+    "apy_base": 2.2436,
+    "apy_reward": 0,
+    "tvl_usd": 4160294
+  },
+  {
+    "date": "2024-02-23",
+    "apy": 2.3227,
+    "apy_base": 2.3227,
+    "apy_reward": 0,
+    "tvl_usd": 4156438
+  },
+  {
+    "date": "2024-02-24",
+    "apy": 2.6951,
+    "apy_base": 2.6951,
+    "apy_reward": 0,
+    "tvl_usd": 4156334
+  },
+  {
+    "date": "2024-02-25",
+    "apy": 2.5791,
+    "apy_base": 2.5791,
+    "apy_reward": 0,
+    "tvl_usd": 4152468
+  },
+  {
+    "date": "2024-02-26",
+    "apy": 5.3707,
+    "apy_base": 5.3707,
+    "apy_reward": 0,
+    "tvl_usd": 4168017
+  },
+  {
+    "date": "2024-02-27",
+    "apy": 5.1539,
+    "apy_base": 5.1539,
+    "apy_reward": 0,
+    "tvl_usd": 4159846
+  },
+  {
+    "date": "2024-02-28",
+    "apy": 9.7059,
+    "apy_base": 9.7059,
+    "apy_reward": 0,
+    "tvl_usd": 4162808
+  },
+  {
+    "date": "2024-02-29",
+    "apy": 5.225,
+    "apy_base": 5.225,
+    "apy_reward": 0,
+    "tvl_usd": 4166250
+  },
+  {
+    "date": "2024-03-01",
+    "apy": 5.775,
+    "apy_base": 5.775,
+    "apy_reward": 0,
+    "tvl_usd": 4164838
+  },
+  {
+    "date": "2024-03-02",
+    "apy": 4.6461,
+    "apy_base": 4.6461,
+    "apy_reward": 0,
+    "tvl_usd": 4162617
+  },
+  {
+    "date": "2024-03-03",
+    "apy": 5.9394,
+    "apy_base": 5.9394,
+    "apy_reward": 0,
+    "tvl_usd": 4155991
+  },
+  {
+    "date": "2024-03-04",
+    "apy": 7.9687,
+    "apy_base": 7.9687,
+    "apy_reward": 0,
+    "tvl_usd": 4172847
+  },
+  {
+    "date": "2024-03-05",
+    "apy": 9.1343,
+    "apy_base": 9.1343,
+    "apy_reward": 0,
+    "tvl_usd": 4178578
+  },
+  {
+    "date": "2024-03-06",
+    "apy": 14.1116,
+    "apy_base": 14.1116,
+    "apy_reward": 0,
+    "tvl_usd": 4166046
+  },
+  {
+    "date": "2024-03-07",
+    "apy": 11.7105,
+    "apy_base": 11.7105,
+    "apy_reward": 0,
+    "tvl_usd": 4166605
+  },
+  {
+    "date": "2024-03-08",
+    "apy": 3.7997,
+    "apy_base": 3.7997,
+    "apy_reward": 0,
+    "tvl_usd": 4174557
+  },
+  {
+    "date": "2024-03-09",
+    "apy": 7.843,
+    "apy_base": 7.843,
+    "apy_reward": 0,
+    "tvl_usd": 4174053
+  },
+  {
+    "date": "2024-03-10",
+    "apy": 15.6507,
+    "apy_base": 15.6507,
+    "apy_reward": 0,
+    "tvl_usd": 4166438
+  },
+  {
+    "date": "2024-03-11",
+    "apy": 9.3111,
+    "apy_base": 9.3111,
+    "apy_reward": 0,
+    "tvl_usd": 4171455
+  },
+  {
+    "date": "2024-03-12",
+    "apy": 12.3159,
+    "apy_base": 12.3159,
+    "apy_reward": 0,
+    "tvl_usd": 4174138
+  },
+  {
+    "date": "2024-03-13",
+    "apy": 7.0096,
+    "apy_base": 7.0096,
+    "apy_reward": 0,
+    "tvl_usd": 4177490
+  },
+  {
+    "date": "2024-03-14",
+    "apy": 9.6629,
+    "apy_base": 9.6629,
+    "apy_reward": 0,
+    "tvl_usd": 4176101
+  },
+  {
+    "date": "2024-03-15",
+    "apy": 9.0825,
+    "apy_base": 9.0825,
+    "apy_reward": 0,
+    "tvl_usd": 4183814
+  },
+  {
+    "date": "2024-03-16",
+    "apy": 5.978,
+    "apy_base": 5.978,
+    "apy_reward": 0,
+    "tvl_usd": 4167614
+  },
+  {
+    "date": "2024-03-17",
+    "apy": 4.5043,
+    "apy_base": 4.5043,
+    "apy_reward": 0,
+    "tvl_usd": 4165188
+  },
+  {
+    "date": "2024-03-18",
+    "apy": 9.0246,
+    "apy_base": 9.0246,
+    "apy_reward": 0,
+    "tvl_usd": 4186054
+  },
+  {
+    "date": "2024-03-19",
+    "apy": 10.032,
+    "apy_base": 10.032,
+    "apy_reward": 0,
+    "tvl_usd": 4156042
+  },
+  {
+    "date": "2024-03-20",
+    "apy": 10.176,
+    "apy_base": 10.176,
+    "apy_reward": 0,
+    "tvl_usd": 4167686
+  },
+  {
+    "date": "2024-03-21",
+    "apy": 6.8873,
+    "apy_base": 6.8873,
+    "apy_reward": 0,
+    "tvl_usd": 4158134
+  },
+  {
+    "date": "2024-03-22",
+    "apy": 9.458,
+    "apy_base": 9.458,
+    "apy_reward": 0,
+    "tvl_usd": 4165152
+  },
+  {
+    "date": "2024-03-23",
+    "apy": 5.2513,
+    "apy_base": 5.2513,
+    "apy_reward": 0,
+    "tvl_usd": 4163515
+  },
+  {
+    "date": "2024-03-24",
+    "apy": 8.1178,
+    "apy_base": 8.1178,
+    "apy_reward": 0,
+    "tvl_usd": 4169778
+  },
+  {
+    "date": "2024-03-25",
+    "apy": 10.4339,
+    "apy_base": 10.4339,
+    "apy_reward": 0,
+    "tvl_usd": 4165265
+  },
+  {
+    "date": "2024-03-26",
+    "apy": 10.9079,
+    "apy_base": 10.9079,
+    "apy_reward": 0,
+    "tvl_usd": 4172221
+  },
+  {
+    "date": "2024-03-27",
+    "apy": 13.8879,
+    "apy_base": 13.8879,
+    "apy_reward": 0,
+    "tvl_usd": 4170672
+  },
+  {
+    "date": "2024-03-28",
+    "apy": 10.6763,
+    "apy_base": 10.6763,
+    "apy_reward": 0,
+    "tvl_usd": 4175029
+  },
+  {
+    "date": "2024-03-29",
+    "apy": 4.8338,
+    "apy_base": 4.8338,
+    "apy_reward": 0,
+    "tvl_usd": 4175583
+  },
+  {
+    "date": "2024-03-30",
+    "apy": 5.5815,
+    "apy_base": 5.5815,
+    "apy_reward": 0,
+    "tvl_usd": 4173040
+  },
+  {
+    "date": "2024-03-31",
+    "apy": 5.1298,
+    "apy_base": 5.1298,
+    "apy_reward": 0,
+    "tvl_usd": 4173136
+  },
+  {
+    "date": "2024-04-01",
+    "apy": 6.8385,
+    "apy_base": 6.8385,
+    "apy_reward": 0,
+    "tvl_usd": 4175506
+  },
+  {
+    "date": "2024-04-02",
+    "apy": 12.7575,
+    "apy_base": 12.7575,
+    "apy_reward": 0,
+    "tvl_usd": 4183235
+  },
+  {
+    "date": "2024-04-03",
+    "apy": 11.2932,
+    "apy_base": 11.2932,
+    "apy_reward": 0,
+    "tvl_usd": 4178125
+  },
+  {
+    "date": "2024-04-04",
+    "apy": 6.3038,
+    "apy_base": 6.3038,
+    "apy_reward": 0,
+    "tvl_usd": 4176434
+  },
+  {
+    "date": "2024-04-05",
+    "apy": 10.4115,
+    "apy_base": 10.4115,
+    "apy_reward": 0,
+    "tvl_usd": 4180031
+  },
+  {
+    "date": "2024-04-06",
+    "apy": 3.0107,
+    "apy_base": 3.0107,
+    "apy_reward": 0,
+    "tvl_usd": 4195156
+  },
+  {
+    "date": "2024-04-07",
+    "apy": 3.8473,
+    "apy_base": 3.8473,
+    "apy_reward": 0,
+    "tvl_usd": 4179041
+  },
+  {
+    "date": "2024-04-08",
+    "apy": 5.5533,
+    "apy_base": 5.5533,
+    "apy_reward": 0,
+    "tvl_usd": 4185786
+  },
+  {
+    "date": "2024-04-09",
+    "apy": 3.3426,
+    "apy_base": 3.3426,
+    "apy_reward": 0,
+    "tvl_usd": 4175063
+  },
+  {
+    "date": "2024-04-10",
+    "apy": 8.5369,
+    "apy_base": 8.5369,
+    "apy_reward": 0,
+    "tvl_usd": 4181352
+  },
+  {
+    "date": "2024-04-11",
+    "apy": 4.049,
+    "apy_base": 4.049,
+    "apy_reward": 0,
+    "tvl_usd": 4183419
+  },
+  {
+    "date": "2024-04-12",
+    "apy": 6.0541,
+    "apy_base": 6.0541,
+    "apy_reward": 0,
+    "tvl_usd": 4186214
+  },
+  {
+    "date": "2024-04-13",
+    "apy": 9.9158,
+    "apy_base": 9.9158,
+    "apy_reward": 0,
+    "tvl_usd": 4193624
+  },
+  {
+    "date": "2024-04-14",
+    "apy": 4.5381,
+    "apy_base": 4.5381,
+    "apy_reward": 0,
+    "tvl_usd": 4192057
+  },
+  {
+    "date": "2024-04-15",
+    "apy": 3.8871,
+    "apy_base": 3.8871,
+    "apy_reward": 0,
+    "tvl_usd": 4185149
+  },
+  {
+    "date": "2024-04-16",
+    "apy": 4.7963,
+    "apy_base": 4.7963,
+    "apy_reward": 0,
+    "tvl_usd": 4186049
+  },
+  {
+    "date": "2024-04-17",
+    "apy": 7.1654,
+    "apy_base": 7.1654,
+    "apy_reward": 0,
+    "tvl_usd": 4187370
+  },
+  {
+    "date": "2024-04-18",
+    "apy": 13.3046,
+    "apy_base": 13.3046,
+    "apy_reward": 0,
+    "tvl_usd": 4188505
+  },
+  {
+    "date": "2024-04-19",
+    "apy": 6.6601,
+    "apy_base": 6.6601,
+    "apy_reward": 0,
+    "tvl_usd": 4189110
+  },
+  {
+    "date": "2024-04-20",
+    "apy": 3.8175,
+    "apy_base": 3.8175,
+    "apy_reward": 0,
+    "tvl_usd": 4192425
+  },
+  {
+    "date": "2024-04-21",
+    "apy": 3.1925,
+    "apy_base": 3.1925,
+    "apy_reward": 0,
+    "tvl_usd": 4190695
+  },
+  {
+    "date": "2024-04-22",
+    "apy": 3.9058,
+    "apy_base": 3.9058,
+    "apy_reward": 0,
+    "tvl_usd": 4195092
+  },
+  {
+    "date": "2024-04-23",
+    "apy": 4.2888,
+    "apy_base": 4.2888,
+    "apy_reward": 0,
+    "tvl_usd": 4189590
+  },
+  {
+    "date": "2024-04-24",
+    "apy": 2.5437,
+    "apy_base": 2.5437,
+    "apy_reward": 0,
+    "tvl_usd": 4187457
+  },
+  {
+    "date": "2024-04-25",
+    "apy": 3.5692,
+    "apy_base": 3.5692,
+    "apy_reward": 0,
+    "tvl_usd": 4191697
+  },
+  {
+    "date": "2024-04-26",
+    "apy": 1.9502,
+    "apy_base": 1.9502,
+    "apy_reward": 0,
+    "tvl_usd": 4192031
+  },
+  {
+    "date": "2024-04-27",
+    "apy": 10.1751,
+    "apy_base": 10.1751,
+    "apy_reward": 0,
+    "tvl_usd": 4191891
+  },
+  {
+    "date": "2024-04-28",
+    "apy": 1.0176,
+    "apy_base": 1.0176,
+    "apy_reward": 0,
+    "tvl_usd": 4191948
+  },
+  {
+    "date": "2024-04-29",
+    "apy": 1.5067,
+    "apy_base": 1.5067,
+    "apy_reward": 0,
+    "tvl_usd": 4189717
+  },
+  {
+    "date": "2024-04-30",
+    "apy": 1.4186,
+    "apy_base": 1.4186,
+    "apy_reward": 0,
+    "tvl_usd": 4188993
+  },
+  {
+    "date": "2024-05-01",
+    "apy": 2.0886,
+    "apy_base": 2.0886,
+    "apy_reward": 0,
+    "tvl_usd": 4190043
+  },
+  {
+    "date": "2024-05-02",
+    "apy": 1.6046,
+    "apy_base": 1.6046,
+    "apy_reward": 0,
+    "tvl_usd": 4191204
+  },
+  {
+    "date": "2024-05-03",
+    "apy": 2.2701,
+    "apy_base": 2.2701,
+    "apy_reward": 0,
+    "tvl_usd": 4195215
+  },
+  {
+    "date": "2024-05-04",
+    "apy": 0.7035,
+    "apy_base": 0.7035,
+    "apy_reward": 0,
+    "tvl_usd": 4192885
+  },
+  {
+    "date": "2024-05-05",
+    "apy": 4.0308,
+    "apy_base": 4.0308,
+    "apy_reward": 0,
+    "tvl_usd": 4193663
+  },
+  {
+    "date": "2024-05-06",
+    "apy": 2.2526,
+    "apy_base": 2.2526,
+    "apy_reward": 0,
+    "tvl_usd": 4193922
+  },
+  {
+    "date": "2024-05-07",
+    "apy": 2.3581,
+    "apy_base": 2.3581,
+    "apy_reward": 0,
+    "tvl_usd": 4253135
+  },
+  {
+    "date": "2024-05-08",
+    "apy": 0.7448,
+    "apy_base": 0.7448,
+    "apy_reward": 0,
+    "tvl_usd": 4253436
+  },
+  {
+    "date": "2024-05-09",
+    "apy": 1.4856,
+    "apy_base": 1.4856,
+    "apy_reward": 0,
+    "tvl_usd": 4253951
+  },
+  {
+    "date": "2024-05-10",
+    "apy": 1.017,
+    "apy_base": 1.017,
+    "apy_reward": 0,
+    "tvl_usd": 4254571
+  },
+  {
+    "date": "2024-05-11",
+    "apy": 0.6313,
+    "apy_base": 0.6313,
+    "apy_reward": 0,
+    "tvl_usd": 4254177
+  },
+  {
+    "date": "2024-05-12",
+    "apy": 0.364,
+    "apy_base": 0.364,
+    "apy_reward": 0,
+    "tvl_usd": 4254089
+  },
+  {
+    "date": "2024-05-13",
+    "apy": 1.1841,
+    "apy_base": 1.1841,
+    "apy_reward": 0,
+    "tvl_usd": 4254813
+  },
+  {
+    "date": "2024-05-14",
+    "apy": 1.5054,
+    "apy_base": 1.5054,
+    "apy_reward": 0,
+    "tvl_usd": 4253573
+  },
+  {
+    "date": "2024-05-15",
+    "apy": 4.8013,
+    "apy_base": 4.8013,
+    "apy_reward": 0,
+    "tvl_usd": 4255202
+  },
+  {
+    "date": "2024-05-16",
+    "apy": 1.5866,
+    "apy_base": 1.5866,
+    "apy_reward": 0,
+    "tvl_usd": 4213206
+  },
+  {
+    "date": "2024-05-17",
+    "apy": 6.138,
+    "apy_base": 6.138,
+    "apy_reward": 0,
+    "tvl_usd": 4214309
+  },
+  {
+    "date": "2024-05-18",
+    "apy": 1.5885,
+    "apy_base": 1.5885,
+    "apy_reward": 0,
+    "tvl_usd": 4214721
+  },
+  {
+    "date": "2024-05-19",
+    "apy": 0.5712,
+    "apy_base": 0.5712,
+    "apy_reward": 0,
+    "tvl_usd": 4214485
+  },
+  {
+    "date": "2024-05-20",
+    "apy": 2.9112,
+    "apy_base": 2.9112,
+    "apy_reward": 0,
+    "tvl_usd": 4214141
+  },
+  {
+    "date": "2024-05-21",
+    "apy": 10.3212,
+    "apy_base": 10.3212,
+    "apy_reward": 0,
+    "tvl_usd": 4216018
+  },
+  {
+    "date": "2024-05-22",
+    "apy": 3.5636,
+    "apy_base": 3.5636,
+    "apy_reward": 0,
+    "tvl_usd": 4214472
+  },
+  {
+    "date": "2024-05-23",
+    "apy": 3.3223,
+    "apy_base": 3.3223,
+    "apy_reward": 0,
+    "tvl_usd": 4214984
+  },
+  {
+    "date": "2024-05-24",
+    "apy": 3.8787,
+    "apy_base": 3.8787,
+    "apy_reward": 0,
+    "tvl_usd": 4216373
+  },
+  {
+    "date": "2024-05-25",
+    "apy": 1.1162,
+    "apy_base": 1.1162,
+    "apy_reward": 0,
+    "tvl_usd": 4217001
+  },
+  {
+    "date": "2024-05-26",
+    "apy": 1.099,
+    "apy_base": 1.099,
+    "apy_reward": 0,
+    "tvl_usd": 4215147
+  },
+  {
+    "date": "2024-05-27",
+    "apy": 1.9676,
+    "apy_base": 1.9676,
+    "apy_reward": 0,
+    "tvl_usd": 4214653
+  },
+  {
+    "date": "2024-05-28",
+    "apy": 1.7128,
+    "apy_base": 1.7128,
+    "apy_reward": 0,
+    "tvl_usd": 4215885
+  },
+  {
+    "date": "2024-05-29",
+    "apy": 1.5217,
+    "apy_base": 1.5217,
+    "apy_reward": 0,
+    "tvl_usd": 4215284
+  },
+  {
+    "date": "2024-05-30",
+    "apy": 1.3999,
+    "apy_base": 1.3999,
+    "apy_reward": 0,
+    "tvl_usd": 4216624
+  },
+  {
+    "date": "2024-05-31",
+    "apy": 2.4344,
+    "apy_base": 2.4344,
+    "apy_reward": 0,
+    "tvl_usd": 4215865
+  },
+  {
+    "date": "2024-06-03",
+    "apy": 2.0137,
+    "apy_base": 2.0137,
+    "apy_reward": 0,
+    "tvl_usd": 4785227
+  },
+  {
+    "date": "2024-06-04",
+    "apy": 2.1815,
+    "apy_base": 2.1815,
+    "apy_reward": 0,
+    "tvl_usd": 4783973
+  },
+  {
+    "date": "2024-06-05",
+    "apy": 3.1061,
+    "apy_base": 3.1061,
+    "apy_reward": 0,
+    "tvl_usd": 4783454
+  },
+  {
+    "date": "2024-06-06",
+    "apy": 3.0394,
+    "apy_base": 3.0394,
+    "apy_reward": 0,
+    "tvl_usd": 4787166
+  },
+  {
+    "date": "2024-06-07",
+    "apy": 3.284,
+    "apy_base": 3.284,
+    "apy_reward": 0,
+    "tvl_usd": 4784592
+  },
+  {
+    "date": "2024-06-08",
+    "apy": 1.8944,
+    "apy_base": 1.8944,
+    "apy_reward": 0,
+    "tvl_usd": 4785348
+  },
+  {
+    "date": "2024-06-09",
+    "apy": 1.0055,
+    "apy_base": 1.0055,
+    "apy_reward": 0,
+    "tvl_usd": 4784497
+  },
+  {
+    "date": "2024-06-10",
+    "apy": 3.2652,
+    "apy_base": 3.2652,
+    "apy_reward": 0,
+    "tvl_usd": 4784633
+  },
+  {
+    "date": "2024-06-11",
+    "apy": 1.0762,
+    "apy_base": 1.0762,
+    "apy_reward": 0,
+    "tvl_usd": 4785781
+  },
+  {
+    "date": "2024-06-12",
+    "apy": 4.7753,
+    "apy_base": 4.7753,
+    "apy_reward": 0,
+    "tvl_usd": 4789175
+  },
+  {
+    "date": "2024-06-13",
+    "apy": 7.9204,
+    "apy_base": 7.9204,
+    "apy_reward": 0,
+    "tvl_usd": 4786219
+  },
+  {
+    "date": "2024-06-14",
+    "apy": 3.3066,
+    "apy_base": 3.3066,
+    "apy_reward": 0,
+    "tvl_usd": 4787038
+  },
+  {
+    "date": "2024-06-15",
+    "apy": 1.7468,
+    "apy_base": 1.7468,
+    "apy_reward": 0,
+    "tvl_usd": 4787546
+  },
+  {
+    "date": "2024-06-16",
+    "apy": 0.613,
+    "apy_base": 0.613,
+    "apy_reward": 0,
+    "tvl_usd": 4787239
+  },
+  {
+    "date": "2024-06-17",
+    "apy": 1.7919,
+    "apy_base": 1.7919,
+    "apy_reward": 0,
+    "tvl_usd": 4787564
+  },
+  {
+    "date": "2024-06-18",
+    "apy": 3.1738,
+    "apy_base": 3.1738,
+    "apy_reward": 0,
+    "tvl_usd": 4786963
+  },
+  {
+    "date": "2024-06-19",
+    "apy": 1.7774,
+    "apy_base": 1.7774,
+    "apy_reward": 0,
+    "tvl_usd": 4787463
+  },
+  {
+    "date": "2024-06-20",
+    "apy": 3.2336,
+    "apy_base": 3.2336,
+    "apy_reward": 0,
+    "tvl_usd": 4788146
+  },
+  {
+    "date": "2024-06-21",
+    "apy": 2.9919,
+    "apy_base": 2.9919,
+    "apy_reward": 0,
+    "tvl_usd": 4788239
+  },
+  {
+    "date": "2024-06-22",
+    "apy": 0.8362,
+    "apy_base": 0.8362,
+    "apy_reward": 0,
+    "tvl_usd": 4789579
+  },
+  {
+    "date": "2024-06-23",
+    "apy": 1.0564,
+    "apy_base": 1.0564,
+    "apy_reward": 0,
+    "tvl_usd": 4788692
+  },
+  {
+    "date": "2024-06-24",
+    "apy": 3.8942,
+    "apy_base": 3.8942,
+    "apy_reward": 0,
+    "tvl_usd": 4786472
+  },
+  {
+    "date": "2024-06-25",
+    "apy": 3.1706,
+    "apy_base": 3.1706,
+    "apy_reward": 0,
+    "tvl_usd": 4790065
+  },
+  {
+    "date": "2024-06-26",
+    "apy": 3.1092,
+    "apy_base": 3.1092,
+    "apy_reward": 0,
+    "tvl_usd": 4790678
+  },
+  {
+    "date": "2024-06-27",
+    "apy": 1.0017,
+    "apy_base": 1.0017,
+    "apy_reward": 0,
+    "tvl_usd": 4788604
+  },
+  {
+    "date": "2024-06-28",
+    "apy": 2.6917,
+    "apy_base": 2.6917,
+    "apy_reward": 0,
+    "tvl_usd": 4787252
+  },
+  {
+    "date": "2024-06-29",
+    "apy": 1.2208,
+    "apy_base": 1.2208,
+    "apy_reward": 0,
+    "tvl_usd": 4790528
+  },
+  {
+    "date": "2024-06-30",
+    "apy": 0.8125,
+    "apy_base": 0.8125,
+    "apy_reward": 0,
+    "tvl_usd": 4786412
+  },
+  {
+    "date": "2024-07-01",
+    "apy": 2.5682,
+    "apy_base": 2.5682,
+    "apy_reward": 0,
+    "tvl_usd": 4790432
+  },
+  {
+    "date": "2024-07-02",
+    "apy": 1.269,
+    "apy_base": 1.269,
+    "apy_reward": 0,
+    "tvl_usd": 4788922
+  },
+  {
+    "date": "2024-07-03",
+    "apy": 1.362,
+    "apy_base": 1.362,
+    "apy_reward": 0,
+    "tvl_usd": 4791063
+  },
+  {
+    "date": "2024-07-04",
+    "apy": 2.2866,
+    "apy_base": 2.2866,
+    "apy_reward": 0,
+    "tvl_usd": 4787456
+  },
+  {
+    "date": "2024-07-05",
+    "apy": 3.1463,
+    "apy_base": 3.1463,
+    "apy_reward": 0,
+    "tvl_usd": 4789805
+  },
+  {
+    "date": "2024-07-06",
+    "apy": 2.6695,
+    "apy_base": 2.6695,
+    "apy_reward": 0,
+    "tvl_usd": 4792541
+  },
+  {
+    "date": "2024-07-07",
+    "apy": 0.4549,
+    "apy_base": 0.4549,
+    "apy_reward": 0,
+    "tvl_usd": 4791377
+  },
+  {
+    "date": "2024-07-08",
+    "apy": 2.1495,
+    "apy_base": 2.1495,
+    "apy_reward": 0,
+    "tvl_usd": 4792152
+  },
+  {
+    "date": "2024-07-09",
+    "apy": 1.6483,
+    "apy_base": 1.6483,
+    "apy_reward": 0,
+    "tvl_usd": 4789318
+  },
+  {
+    "date": "2024-07-10",
+    "apy": 2.5086,
+    "apy_base": 2.5086,
+    "apy_reward": 0,
+    "tvl_usd": 4708019
+  },
+  {
+    "date": "2024-07-11",
+    "apy": 11.0052,
+    "apy_base": 11.0052,
+    "apy_reward": 0,
+    "tvl_usd": 4709810
+  },
+  {
+    "date": "2024-07-12",
+    "apy": 2.208,
+    "apy_base": 2.208,
+    "apy_reward": 0,
+    "tvl_usd": 4710100
+  },
+  {
+    "date": "2024-07-13",
+    "apy": 1.5649,
+    "apy_base": 1.5649,
+    "apy_reward": 0,
+    "tvl_usd": 4724442
+  },
+  {
+    "date": "2024-07-14",
+    "apy": 1.4336,
+    "apy_base": 1.4336,
+    "apy_reward": 0,
+    "tvl_usd": 4712858
+  },
+  {
+    "date": "2024-07-15",
+    "apy": 2.2574,
+    "apy_base": 2.2574,
+    "apy_reward": 0,
+    "tvl_usd": 4717754
+  },
+  {
+    "date": "2024-07-16",
+    "apy": 3.5029,
+    "apy_base": 3.5029,
+    "apy_reward": 0,
+    "tvl_usd": 4713495
+  },
+  {
+    "date": "2024-07-17",
+    "apy": 2.4269,
+    "apy_base": 2.4269,
+    "apy_reward": 0,
+    "tvl_usd": 4711453
+  },
+  {
+    "date": "2024-07-18",
+    "apy": 1.64,
+    "apy_base": 1.64,
+    "apy_reward": 0,
+    "tvl_usd": 4711167
+  },
+  {
+    "date": "2024-07-19",
+    "apy": 1.7367,
+    "apy_base": 1.7367,
+    "apy_reward": 0,
+    "tvl_usd": 4710921
+  },
+  {
+    "date": "2024-07-20",
+    "apy": 1.1179,
+    "apy_base": 1.1179,
+    "apy_reward": 0,
+    "tvl_usd": 4723817
+  },
+  {
+    "date": "2024-07-21",
+    "apy": 1.7884,
+    "apy_base": 1.7884,
+    "apy_reward": 0,
+    "tvl_usd": 4711742
+  },
+  {
+    "date": "2024-07-22",
+    "apy": 0.8564,
+    "apy_base": 0.8564,
+    "apy_reward": 0,
+    "tvl_usd": 4707460
+  },
+  {
+    "date": "2024-07-23",
+    "apy": 0.9686,
+    "apy_base": 0.9686,
+    "apy_reward": 0,
+    "tvl_usd": 4714882
+  },
+  {
+    "date": "2024-07-24",
+    "apy": 1.409,
+    "apy_base": 1.409,
+    "apy_reward": 0,
+    "tvl_usd": 4711571
+  },
+  {
+    "date": "2024-07-25",
+    "apy": 1.6014,
+    "apy_base": 1.6014,
+    "apy_reward": 0,
+    "tvl_usd": 4685813
+  },
+  {
+    "date": "2024-07-26",
+    "apy": 2.627,
+    "apy_base": 2.627,
+    "apy_reward": 0,
+    "tvl_usd": 4685990
+  },
+  {
+    "date": "2024-07-27",
+    "apy": 2.1157,
+    "apy_base": 2.1157,
+    "apy_reward": 0,
+    "tvl_usd": 4684621
+  },
+  {
+    "date": "2024-07-28",
+    "apy": 0.9628,
+    "apy_base": 0.9628,
+    "apy_reward": 0,
+    "tvl_usd": 4685885
+  },
+  {
+    "date": "2024-07-29",
+    "apy": 2.2949,
+    "apy_base": 2.2949,
+    "apy_reward": 0,
+    "tvl_usd": 4684656
+  },
+  {
+    "date": "2024-07-30",
+    "apy": 1.1702,
+    "apy_base": 1.1702,
+    "apy_reward": 0,
+    "tvl_usd": 4686821
+  },
+  {
+    "date": "2024-07-31",
+    "apy": 2.5191,
+    "apy_base": 2.5191,
+    "apy_reward": 0,
+    "tvl_usd": 4686506
+  },
+  {
+    "date": "2024-08-01",
+    "apy": 2.7299,
+    "apy_base": 2.7299,
+    "apy_reward": 0,
+    "tvl_usd": 4683501
+  },
+  {
+    "date": "2024-08-02",
+    "apy": 0.5257,
+    "apy_base": 0.5257,
+    "apy_reward": 0,
+    "tvl_usd": 4685534
+  },
+  {
+    "date": "2024-08-03",
+    "apy": 0.7654,
+    "apy_base": 0.7654,
+    "apy_reward": 0,
+    "tvl_usd": 4693862
+  },
+  {
+    "date": "2024-08-04",
+    "apy": 0.6117,
+    "apy_base": 0.6117,
+    "apy_reward": 0,
+    "tvl_usd": 4690234
+  },
+  {
+    "date": "2024-08-05",
+    "apy": 4.3599,
+    "apy_base": 4.3599,
+    "apy_reward": 0,
+    "tvl_usd": 4688486
+  },
+  {
+    "date": "2024-08-06",
+    "apy": 1.6655,
+    "apy_base": 1.6655,
+    "apy_reward": 0,
+    "tvl_usd": 4695405
+  },
+  {
+    "date": "2024-08-07",
+    "apy": 3.0327,
+    "apy_base": 3.0327,
+    "apy_reward": 0,
+    "tvl_usd": 4696625
+  },
+  {
+    "date": "2024-08-08",
+    "apy": 0.6607,
+    "apy_base": 0.6607,
+    "apy_reward": 0,
+    "tvl_usd": 4699058
+  },
+  {
+    "date": "2024-08-09",
+    "apy": 0.9962,
+    "apy_base": 0.9962,
+    "apy_reward": 0,
+    "tvl_usd": 4699195
+  },
+  {
+    "date": "2024-08-10",
+    "apy": 0.4767,
+    "apy_base": 0.4767,
+    "apy_reward": 0,
+    "tvl_usd": 4896756
+  },
+  {
+    "date": "2024-08-11",
+    "apy": 0.3527,
+    "apy_base": 0.3527,
+    "apy_reward": 0,
+    "tvl_usd": 4895355
+  },
+  {
+    "date": "2024-08-12",
+    "apy": 1.032,
+    "apy_base": 1.032,
+    "apy_reward": 0,
+    "tvl_usd": 4896940
+  },
+  {
+    "date": "2024-08-13",
+    "apy": 1.2399,
+    "apy_base": 1.2399,
+    "apy_reward": 0,
+    "tvl_usd": 4896957
+  },
+  {
+    "date": "2024-08-14",
+    "apy": 0.9331,
+    "apy_base": 0.9331,
+    "apy_reward": 0,
+    "tvl_usd": 4897232
+  },
+  {
+    "date": "2024-08-15",
+    "apy": 2.629,
+    "apy_base": 2.629,
+    "apy_reward": 0,
+    "tvl_usd": 4897492
+  },
+  {
+    "date": "2024-08-16",
+    "apy": 1.5898,
+    "apy_base": 1.5898,
+    "apy_reward": 0,
+    "tvl_usd": 4894057
+  },
+  {
+    "date": "2024-08-17",
+    "apy": 1.2894,
+    "apy_base": 1.2894,
+    "apy_reward": 0,
+    "tvl_usd": 4895168
+  },
+  {
+    "date": "2024-08-18",
+    "apy": 0.3765,
+    "apy_base": 0.3765,
+    "apy_reward": 0,
+    "tvl_usd": 4893232
+  },
+  {
+    "date": "2024-08-19",
+    "apy": 0.8819,
+    "apy_base": 0.8819,
+    "apy_reward": 0,
+    "tvl_usd": 4900496
+  },
+  {
+    "date": "2024-08-20",
+    "apy": 1.2919,
+    "apy_base": 1.2919,
+    "apy_reward": 0,
+    "tvl_usd": 4895483
+  },
+  {
+    "date": "2024-08-21",
+    "apy": 0.8884,
+    "apy_base": 0.8884,
+    "apy_reward": 0,
+    "tvl_usd": 4895432
+  },
+  {
+    "date": "2024-08-22",
+    "apy": 0.3081,
+    "apy_base": 0.3081,
+    "apy_reward": 0,
+    "tvl_usd": 4894273
+  },
+  {
+    "date": "2024-08-23",
+    "apy": 1.9071,
+    "apy_base": 1.9071,
+    "apy_reward": 0,
+    "tvl_usd": 4884342
+  },
+  {
+    "date": "2024-08-24",
+    "apy": 2.2977,
+    "apy_base": 2.2977,
+    "apy_reward": 0,
+    "tvl_usd": 4898946
+  },
+  {
+    "date": "2024-08-25",
+    "apy": 0.5912,
+    "apy_base": 0.5912,
+    "apy_reward": 0,
+    "tvl_usd": 4899008
+  },
+  {
+    "date": "2024-08-26",
+    "apy": 0.267,
+    "apy_base": 0.267,
+    "apy_reward": 0,
+    "tvl_usd": 4895050
+  },
+  {
+    "date": "2024-08-27",
+    "apy": 2.8018,
+    "apy_base": 2.8018,
+    "apy_reward": 0,
+    "tvl_usd": 4901889
+  },
+  {
+    "date": "2024-08-28",
+    "apy": 1.8603,
+    "apy_base": 1.8603,
+    "apy_reward": 0,
+    "tvl_usd": 4902140
+  },
+  {
+    "date": "2024-08-29",
+    "apy": 0.2978,
+    "apy_base": 0.2978,
+    "apy_reward": 0,
+    "tvl_usd": 4897131
+  },
+  {
+    "date": "2024-08-30",
+    "apy": 1.0282,
+    "apy_base": 1.0282,
+    "apy_reward": 0,
+    "tvl_usd": 4897270
+  },
+  {
+    "date": "2024-08-31",
+    "apy": 0.6233,
+    "apy_base": 0.6233,
+    "apy_reward": 0,
+    "tvl_usd": 4891942
+  },
+  {
+    "date": "2024-09-01",
+    "apy": 0.2749,
+    "apy_base": 0.2749,
+    "apy_reward": 0,
+    "tvl_usd": 4874503
+  },
+  {
+    "date": "2024-09-02",
+    "apy": 0.9123,
+    "apy_base": 0.9123,
+    "apy_reward": 0,
+    "tvl_usd": 4896356
+  },
+  {
+    "date": "2024-09-03",
+    "apy": 1.9124,
+    "apy_base": 1.9124,
+    "apy_reward": 0,
+    "tvl_usd": 4892435
+  },
+  {
+    "date": "2024-09-04",
+    "apy": 1.4984,
+    "apy_base": 1.4984,
+    "apy_reward": 0,
+    "tvl_usd": 4893385
+  },
+  {
+    "date": "2024-09-05",
+    "apy": 1.6375,
+    "apy_base": 1.6375,
+    "apy_reward": 0,
+    "tvl_usd": 4893154
+  },
+  {
+    "date": "2024-09-06",
+    "apy": 0.9759,
+    "apy_base": 0.9759,
+    "apy_reward": 0,
+    "tvl_usd": 4893871
+  },
+  {
+    "date": "2024-09-07",
+    "apy": 1.3007,
+    "apy_base": 1.3007,
+    "apy_reward": 0,
+    "tvl_usd": 4894965
+  },
+  {
+    "date": "2024-09-08",
+    "apy": 0.8777,
+    "apy_base": 0.8777,
+    "apy_reward": 0,
+    "tvl_usd": 4889343
+  },
+  {
+    "date": "2024-09-09",
+    "apy": 2.3343,
+    "apy_base": 2.3343,
+    "apy_reward": 0,
+    "tvl_usd": 4894616
+  },
+  {
+    "date": "2024-09-10",
+    "apy": 2.1223,
+    "apy_base": 2.1223,
+    "apy_reward": 0,
+    "tvl_usd": 4900587
+  },
+  {
+    "date": "2024-09-11",
+    "apy": 1.3479,
+    "apy_base": 1.3479,
+    "apy_reward": 0,
+    "tvl_usd": 4898323
+  },
+  {
+    "date": "2024-09-12",
+    "apy": 1.299,
+    "apy_base": 1.299,
+    "apy_reward": 0,
+    "tvl_usd": 4887983
+  },
+  {
+    "date": "2024-09-13",
+    "apy": 0.7679,
+    "apy_base": 0.7679,
+    "apy_reward": 0,
+    "tvl_usd": 4891264
+  },
+  {
+    "date": "2024-09-14",
+    "apy": 0.4138,
+    "apy_base": 0.4138,
+    "apy_reward": 0,
+    "tvl_usd": 4888400
+  },
+  {
+    "date": "2024-09-15",
+    "apy": 0.497,
+    "apy_base": 0.497,
+    "apy_reward": 0,
+    "tvl_usd": 4878459
+  },
+  {
+    "date": "2024-09-16",
+    "apy": 0.5518,
+    "apy_base": 0.5518,
+    "apy_reward": 0,
+    "tvl_usd": 4889017
+  },
+  {
+    "date": "2024-09-17",
+    "apy": 0.912,
+    "apy_base": 0.912,
+    "apy_reward": 0,
+    "tvl_usd": 4887773
+  },
+  {
+    "date": "2024-09-18",
+    "apy": 1.6687,
+    "apy_base": 1.6687,
+    "apy_reward": 0,
+    "tvl_usd": 4891805
+  },
+  {
+    "date": "2024-09-19",
+    "apy": 1.4717,
+    "apy_base": 1.4717,
+    "apy_reward": 0,
+    "tvl_usd": 4889380
+  },
+  {
+    "date": "2024-09-20",
+    "apy": 0.7953,
+    "apy_base": 0.7953,
+    "apy_reward": 0,
+    "tvl_usd": 4888788
+  },
+  {
+    "date": "2024-09-21",
+    "apy": 0.8823,
+    "apy_base": 0.8823,
+    "apy_reward": 0,
+    "tvl_usd": 4889784
+  },
+  {
+    "date": "2024-09-22",
+    "apy": 0.6258,
+    "apy_base": 0.6258,
+    "apy_reward": 0,
+    "tvl_usd": 4894758
+  },
+  {
+    "date": "2024-09-23",
+    "apy": 2.1452,
+    "apy_base": 2.1452,
+    "apy_reward": 0,
+    "tvl_usd": 4887931
+  },
+  {
+    "date": "2024-09-24",
+    "apy": 1.7534,
+    "apy_base": 1.7534,
+    "apy_reward": 0,
+    "tvl_usd": 4895283
+  },
+  {
+    "date": "2024-09-25",
+    "apy": 1.8781,
+    "apy_base": 1.8781,
+    "apy_reward": 0,
+    "tvl_usd": 4889192
+  },
+  {
+    "date": "2024-09-26",
+    "apy": 1.9695,
+    "apy_base": 1.9695,
+    "apy_reward": 0,
+    "tvl_usd": 4890897
+  },
+  {
+    "date": "2024-09-27",
+    "apy": 2.1917,
+    "apy_base": 2.1917,
+    "apy_reward": 0,
+    "tvl_usd": 4890983
+  },
+  {
+    "date": "2024-09-28",
+    "apy": 0.9752,
+    "apy_base": 0.9752,
+    "apy_reward": 0,
+    "tvl_usd": 4890165
+  },
+  {
+    "date": "2024-09-29",
+    "apy": 1.2686,
+    "apy_base": 1.2686,
+    "apy_reward": 0,
+    "tvl_usd": 4891182
+  },
+  {
+    "date": "2024-09-30",
+    "apy": 2.8884,
+    "apy_base": 2.8884,
+    "apy_reward": 0,
+    "tvl_usd": 4888554
+  },
+  {
+    "date": "2024-10-01",
+    "apy": 0.8676,
+    "apy_base": 0.8676,
+    "apy_reward": 0,
+    "tvl_usd": 4890694
+  },
+  {
+    "date": "2024-10-02",
+    "apy": 1.6265,
+    "apy_base": 1.6265,
+    "apy_reward": 0,
+    "tvl_usd": 4897105
+  },
+  {
+    "date": "2024-10-03",
+    "apy": 0.484,
+    "apy_base": 0.484,
+    "apy_reward": 0,
+    "tvl_usd": 4892278
+  },
+  {
+    "date": "2024-10-04",
+    "apy": 0.3495,
+    "apy_base": 0.3495,
+    "apy_reward": 0,
+    "tvl_usd": 4892325
+  },
+  {
+    "date": "2024-10-05",
+    "apy": 0.6176,
+    "apy_base": 0.6176,
+    "apy_reward": 0,
+    "tvl_usd": 4891437
+  },
+  {
+    "date": "2024-10-06",
+    "apy": 0.4613,
+    "apy_base": 0.4613,
+    "apy_reward": 0,
+    "tvl_usd": 4897364
+  },
+  {
+    "date": "2024-10-07",
+    "apy": 0.6617,
+    "apy_base": 0.6617,
+    "apy_reward": 0,
+    "tvl_usd": 4876960
+  },
+  {
+    "date": "2024-10-08",
+    "apy": 2.5121,
+    "apy_base": 2.5121,
+    "apy_reward": 0,
+    "tvl_usd": 4890299
+  },
+  {
+    "date": "2024-10-09",
+    "apy": 1.2498,
+    "apy_base": 1.2498,
+    "apy_reward": 0,
+    "tvl_usd": 4891600
+  },
+  {
+    "date": "2024-10-10",
+    "apy": 0.7208,
+    "apy_base": 0.7208,
+    "apy_reward": 0,
+    "tvl_usd": 4889102
+  },
+  {
+    "date": "2024-10-11",
+    "apy": 1.1162,
+    "apy_base": 1.1162,
+    "apy_reward": 0,
+    "tvl_usd": 4891285
+  },
+  {
+    "date": "2024-10-12",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4892946
+  },
+  {
+    "date": "2024-10-13",
+    "apy": 0.4833,
+    "apy_base": 0.4833,
+    "apy_reward": 0,
+    "tvl_usd": 4893594
+  },
+  {
+    "date": "2024-10-14",
+    "apy": 1.1703,
+    "apy_base": 1.1703,
+    "apy_reward": 0,
+    "tvl_usd": 4908433
+  },
+  {
+    "date": "2024-10-15",
+    "apy": 3.9898,
+    "apy_base": 3.9898,
+    "apy_reward": 0,
+    "tvl_usd": 4895705
+  },
+  {
+    "date": "2024-10-16",
+    "apy": 0.9368,
+    "apy_base": 0.9368,
+    "apy_reward": 0,
+    "tvl_usd": 4895983
+  },
+  {
+    "date": "2024-10-17",
+    "apy": 1.0879,
+    "apy_base": 1.0879,
+    "apy_reward": 0,
+    "tvl_usd": 4893691
+  },
+  {
+    "date": "2024-10-18",
+    "apy": 0.7122,
+    "apy_base": 0.7122,
+    "apy_reward": 0,
+    "tvl_usd": 4894202
+  },
+  {
+    "date": "2024-10-19",
+    "apy": 0.3956,
+    "apy_base": 0.3956,
+    "apy_reward": 0,
+    "tvl_usd": 4895638
+  },
+  {
+    "date": "2024-10-20",
+    "apy": 0.547,
+    "apy_base": 0.547,
+    "apy_reward": 0,
+    "tvl_usd": 4891609
+  },
+  {
+    "date": "2024-10-21",
+    "apy": 1.1166,
+    "apy_base": 1.1166,
+    "apy_reward": 0,
+    "tvl_usd": 4894691
+  },
+  {
+    "date": "2024-10-22",
+    "apy": 0.5462,
+    "apy_base": 0.5462,
+    "apy_reward": 0,
+    "tvl_usd": 4893827
+  },
+  {
+    "date": "2024-10-23",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4893785
+  },
+  {
+    "date": "2024-10-24",
+    "apy": 2.1174,
+    "apy_base": 2.1174,
+    "apy_reward": 0,
+    "tvl_usd": 4893002
+  },
+  {
+    "date": "2024-10-25",
+    "apy": 1.5296,
+    "apy_base": 1.5296,
+    "apy_reward": 0,
+    "tvl_usd": 4875150
+  },
+  {
+    "date": "2024-10-26",
+    "apy": 4.9768,
+    "apy_base": 4.9768,
+    "apy_reward": 0,
+    "tvl_usd": 4892211
+  },
+  {
+    "date": "2024-10-27",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4893114
+  },
+  {
+    "date": "2024-10-28",
+    "apy": 0.3774,
+    "apy_base": 0.3774,
+    "apy_reward": 0,
+    "tvl_usd": 4901269
+  },
+  {
+    "date": "2024-10-29",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4887372
+  },
+  {
+    "date": "2024-10-30",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4906381
+  },
+  {
+    "date": "2024-10-31",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4894643
+  },
+  {
+    "date": "2024-11-01",
+    "apy": 2.8216,
+    "apy_base": 2.8216,
+    "apy_reward": 0,
+    "tvl_usd": 4896576
+  },
+  {
+    "date": "2024-11-02",
+    "apy": 1.8745,
+    "apy_base": 1.8745,
+    "apy_reward": 0,
+    "tvl_usd": 4895927
+  },
+  {
+    "date": "2024-11-03",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4903064
+  },
+  {
+    "date": "2024-11-04",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4900736
+  },
+  {
+    "date": "2024-11-05",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4898278
+  },
+  {
+    "date": "2024-11-06",
+    "apy": 1.8186,
+    "apy_base": 1.8186,
+    "apy_reward": 0,
+    "tvl_usd": 4693164
+  },
+  {
+    "date": "2024-11-07",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4700236
+  },
+  {
+    "date": "2024-11-08",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4700758
+  },
+  {
+    "date": "2024-11-09",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4700561
+  },
+  {
+    "date": "2024-11-10",
+    "apy": 2.6192,
+    "apy_base": 2.6192,
+    "apy_reward": 0,
+    "tvl_usd": 4703594
+  },
+  {
+    "date": "2024-11-11",
+    "apy": 2.7994,
+    "apy_base": 2.7994,
+    "apy_reward": 0,
+    "tvl_usd": 4727454
+  },
+  {
+    "date": "2024-11-12",
+    "apy": 4.5316,
+    "apy_base": 4.5316,
+    "apy_reward": 0,
+    "tvl_usd": 4701988
+  },
+  {
+    "date": "2024-11-13",
+    "apy": 1.7209,
+    "apy_base": 1.7209,
+    "apy_reward": 0,
+    "tvl_usd": 4702211
+  },
+  {
+    "date": "2024-11-14",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4700061
+  },
+  {
+    "date": "2024-11-15",
+    "apy": 0.4868,
+    "apy_base": 0.4868,
+    "apy_reward": 0,
+    "tvl_usd": 4700438
+  },
+  {
+    "date": "2024-11-16",
+    "apy": 1.0389,
+    "apy_base": 1.0389,
+    "apy_reward": 0,
+    "tvl_usd": 4696418
+  },
+  {
+    "date": "2024-11-17",
+    "apy": 1.1549,
+    "apy_base": 1.1549,
+    "apy_reward": 0,
+    "tvl_usd": 4705427
+  },
+  {
+    "date": "2024-11-18",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4702235
+  },
+  {
+    "date": "2024-11-19",
+    "apy": 2.141,
+    "apy_base": 2.141,
+    "apy_reward": 0,
+    "tvl_usd": 4703542
+  },
+  {
+    "date": "2024-11-20",
+    "apy": 0.9031,
+    "apy_base": 0.9031,
+    "apy_reward": 0,
+    "tvl_usd": 4703658
+  },
+  {
+    "date": "2024-11-21",
+    "apy": 1.1795,
+    "apy_base": 1.1795,
+    "apy_reward": 0,
+    "tvl_usd": 4703811
+  },
+  {
+    "date": "2024-11-22",
+    "apy": 1.6658,
+    "apy_base": 1.6658,
+    "apy_reward": 0,
+    "tvl_usd": 4703389
+  },
+  {
+    "date": "2024-11-23",
+    "apy": 4.4703,
+    "apy_base": 4.4703,
+    "apy_reward": 0,
+    "tvl_usd": 4704318
+  },
+  {
+    "date": "2024-11-24",
+    "apy": 9.5666,
+    "apy_base": 9.5666,
+    "apy_reward": 0,
+    "tvl_usd": 4712577
+  },
+  {
+    "date": "2024-11-25",
+    "apy": 3.4386,
+    "apy_base": 3.4386,
+    "apy_reward": 0,
+    "tvl_usd": 4724779
+  },
+  {
+    "date": "2024-11-26",
+    "apy": 5.3091,
+    "apy_base": 5.3091,
+    "apy_reward": 0,
+    "tvl_usd": 4689973
+  },
+  {
+    "date": "2024-11-27",
+    "apy": 4.195,
+    "apy_base": 4.195,
+    "apy_reward": 0,
+    "tvl_usd": 4702957
+  },
+  {
+    "date": "2024-11-28",
+    "apy": 2.5491,
+    "apy_base": 2.5491,
+    "apy_reward": 0,
+    "tvl_usd": 4709871
+  },
+  {
+    "date": "2024-11-29",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4706735
+  },
+  {
+    "date": "2024-11-30",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4705350
+  },
+  {
+    "date": "2024-12-01",
+    "apy": 2.4317,
+    "apy_base": 2.4317,
+    "apy_reward": 0,
+    "tvl_usd": 4708309
+  },
+  {
+    "date": "2024-12-02",
+    "apy": 5.0453,
+    "apy_base": 5.0453,
+    "apy_reward": 0,
+    "tvl_usd": 4708975
+  },
+  {
+    "date": "2024-12-03",
+    "apy": 3.5877,
+    "apy_base": 3.5877,
+    "apy_reward": 0,
+    "tvl_usd": 4714419
+  },
+  {
+    "date": "2024-12-04",
+    "apy": 5.6844,
+    "apy_base": 5.6844,
+    "apy_reward": 0,
+    "tvl_usd": 4715163
+  },
+  {
+    "date": "2024-12-05",
+    "apy": 8.0154,
+    "apy_base": 8.0154,
+    "apy_reward": 0,
+    "tvl_usd": 4718561
+  },
+  {
+    "date": "2024-12-06",
+    "apy": 4.6128,
+    "apy_base": 4.6128,
+    "apy_reward": 0,
+    "tvl_usd": 4709579
+  },
+  {
+    "date": "2024-12-07",
+    "apy": 3.4791,
+    "apy_base": 3.4791,
+    "apy_reward": 0,
+    "tvl_usd": 4712082
+  },
+  {
+    "date": "2024-12-08",
+    "apy": 1.4076,
+    "apy_base": 1.4076,
+    "apy_reward": 0,
+    "tvl_usd": 4701329
+  },
+  {
+    "date": "2024-12-09",
+    "apy": 5.9809,
+    "apy_base": 5.9809,
+    "apy_reward": 0,
+    "tvl_usd": 4702098
+  },
+  {
+    "date": "2024-12-10",
+    "apy": 6.9307,
+    "apy_base": 6.9307,
+    "apy_reward": 0,
+    "tvl_usd": 4702990
+  },
+  {
+    "date": "2024-12-11",
+    "apy": 4.876,
+    "apy_base": 4.876,
+    "apy_reward": 0,
+    "tvl_usd": 4697353
+  },
+  {
+    "date": "2024-12-12",
+    "apy": 7.8418,
+    "apy_base": 7.8418,
+    "apy_reward": 0,
+    "tvl_usd": 4704634
+  },
+  {
+    "date": "2024-12-13",
+    "apy": 2.0558,
+    "apy_base": 2.0558,
+    "apy_reward": 0,
+    "tvl_usd": 4702022
+  },
+  {
+    "date": "2024-12-14",
+    "apy": 2.9055,
+    "apy_base": 2.9055,
+    "apy_reward": 0,
+    "tvl_usd": 4702920
+  },
+  {
+    "date": "2024-12-15",
+    "apy": 0.733,
+    "apy_base": 0.733,
+    "apy_reward": 0,
+    "tvl_usd": 4702507
+  },
+  {
+    "date": "2024-12-16",
+    "apy": 2.8358,
+    "apy_base": 2.8358,
+    "apy_reward": 0,
+    "tvl_usd": 4702124
+  },
+  {
+    "date": "2024-12-17",
+    "apy": 2.2942,
+    "apy_base": 2.2942,
+    "apy_reward": 0,
+    "tvl_usd": 4702386
+  },
+  {
+    "date": "2024-12-18",
+    "apy": 1.8893,
+    "apy_base": 1.8893,
+    "apy_reward": 0,
+    "tvl_usd": 4697035
+  },
+  {
+    "date": "2024-12-19",
+    "apy": 4.4375,
+    "apy_base": 4.4375,
+    "apy_reward": 0,
+    "tvl_usd": 4704070
+  },
+  {
+    "date": "2024-12-20",
+    "apy": 4.1733,
+    "apy_base": 4.1733,
+    "apy_reward": 0,
+    "tvl_usd": 4707382
+  },
+  {
+    "date": "2024-12-21",
+    "apy": 1.0309,
+    "apy_base": 1.0309,
+    "apy_reward": 0,
+    "tvl_usd": 4702645
+  },
+  {
+    "date": "2024-12-22",
+    "apy": 1.0892,
+    "apy_base": 1.0892,
+    "apy_reward": 0,
+    "tvl_usd": 4701104
+  },
+  {
+    "date": "2024-12-23",
+    "apy": 1.8971,
+    "apy_base": 1.8971,
+    "apy_reward": 0,
+    "tvl_usd": 4710051
+  },
+  {
+    "date": "2024-12-24",
+    "apy": 1.3697,
+    "apy_base": 1.3697,
+    "apy_reward": 0,
+    "tvl_usd": 4702802
+  },
+  {
+    "date": "2024-12-25",
+    "apy": 1.1889,
+    "apy_base": 1.1889,
+    "apy_reward": 0,
+    "tvl_usd": 4701803
+  },
+  {
+    "date": "2024-12-26",
+    "apy": 3.6183,
+    "apy_base": 3.6183,
+    "apy_reward": 0,
+    "tvl_usd": 4702013
+  },
+  {
+    "date": "2024-12-27",
+    "apy": 0.5896,
+    "apy_base": 0.5896,
+    "apy_reward": 0,
+    "tvl_usd": 4701050
+  },
+  {
+    "date": "2024-12-28",
+    "apy": 0.5385,
+    "apy_base": 0.5385,
+    "apy_reward": 0,
+    "tvl_usd": 4700682
+  },
+  {
+    "date": "2024-12-29",
+    "apy": 0.5072,
+    "apy_base": 0.5072,
+    "apy_reward": 0,
+    "tvl_usd": 4699657
+  },
+  {
+    "date": "2024-12-30",
+    "apy": 2.2708,
+    "apy_base": 2.2708,
+    "apy_reward": 0,
+    "tvl_usd": 4698589
+  },
+  {
+    "date": "2024-12-31",
+    "apy": 2.4668,
+    "apy_base": 2.4668,
+    "apy_reward": 0,
+    "tvl_usd": 4700788
+  },
+  {
+    "date": "2025-01-01",
+    "apy": 1.3578,
+    "apy_base": 1.3578,
+    "apy_reward": 0,
+    "tvl_usd": 4700356
+  },
+  {
+    "date": "2025-01-02",
+    "apy": 1.5488,
+    "apy_base": 1.5488,
+    "apy_reward": 0,
+    "tvl_usd": 4704249
+  },
+  {
+    "date": "2025-01-03",
+    "apy": 4.407,
+    "apy_base": 4.407,
+    "apy_reward": 0,
+    "tvl_usd": 4707223
+  },
+  {
+    "date": "2025-01-04",
+    "apy": 2.9463,
+    "apy_base": 2.9463,
+    "apy_reward": 0,
+    "tvl_usd": 4707332
+  },
+  {
+    "date": "2025-01-05",
+    "apy": 1.5764,
+    "apy_base": 1.5764,
+    "apy_reward": 0,
+    "tvl_usd": 4710179
+  },
+  {
+    "date": "2025-01-06",
+    "apy": 2.228,
+    "apy_base": 2.228,
+    "apy_reward": 0,
+    "tvl_usd": 4708215
+  },
+  {
+    "date": "2025-01-07",
+    "apy": 1.6113,
+    "apy_base": 1.6113,
+    "apy_reward": 0,
+    "tvl_usd": 4704253
+  },
+  {
+    "date": "2025-01-08",
+    "apy": 2.5232,
+    "apy_base": 2.5232,
+    "apy_reward": 0,
+    "tvl_usd": 4704228
+  },
+  {
+    "date": "2025-01-09",
+    "apy": 1.4523,
+    "apy_base": 1.4523,
+    "apy_reward": 0,
+    "tvl_usd": 4709210
+  },
+  {
+    "date": "2025-01-10",
+    "apy": 2.4368,
+    "apy_base": 2.4368,
+    "apy_reward": 0,
+    "tvl_usd": 4709001
+  },
+  {
+    "date": "2025-01-11",
+    "apy": 1.0333,
+    "apy_base": 1.0333,
+    "apy_reward": 0,
+    "tvl_usd": 4708641
+  },
+  {
+    "date": "2025-01-12",
+    "apy": 0.6453,
+    "apy_base": 0.6453,
+    "apy_reward": 0,
+    "tvl_usd": 4708008
+  },
+  {
+    "date": "2025-01-13",
+    "apy": 0.6404,
+    "apy_base": 0.6404,
+    "apy_reward": 0,
+    "tvl_usd": 4708921
+  },
+  {
+    "date": "2025-01-14",
+    "apy": 1.375,
+    "apy_base": 1.375,
+    "apy_reward": 0,
+    "tvl_usd": 4709259
+  },
+  {
+    "date": "2025-01-15",
+    "apy": 1.4624,
+    "apy_base": 1.4624,
+    "apy_reward": 0,
+    "tvl_usd": 4710002
+  },
+  {
+    "date": "2025-01-16",
+    "apy": 3.1094,
+    "apy_base": 3.1094,
+    "apy_reward": 0,
+    "tvl_usd": 4710199
+  },
+  {
+    "date": "2025-01-17",
+    "apy": 1.665,
+    "apy_base": 1.665,
+    "apy_reward": 0,
+    "tvl_usd": 4710833
+  },
+  {
+    "date": "2025-01-18",
+    "apy": 1.3972,
+    "apy_base": 1.3972,
+    "apy_reward": 0,
+    "tvl_usd": 4708493
+  },
+  {
+    "date": "2025-01-19",
+    "apy": 1.7526,
+    "apy_base": 1.7526,
+    "apy_reward": 0,
+    "tvl_usd": 4710467
+  },
+  {
+    "date": "2025-01-20",
+    "apy": 1.6388,
+    "apy_base": 1.6388,
+    "apy_reward": 0,
+    "tvl_usd": 4708192
+  },
+  {
+    "date": "2025-01-21",
+    "apy": 2.2916,
+    "apy_base": 2.2916,
+    "apy_reward": 0,
+    "tvl_usd": 4711359
+  },
+  {
+    "date": "2025-01-22",
+    "apy": 1.0627,
+    "apy_base": 1.0627,
+    "apy_reward": 0,
+    "tvl_usd": 4710829
+  },
+  {
+    "date": "2025-01-23",
+    "apy": 1.6307,
+    "apy_base": 1.6307,
+    "apy_reward": 0,
+    "tvl_usd": 4711691
+  },
+  {
+    "date": "2025-01-24",
+    "apy": 1.2697,
+    "apy_base": 1.2697,
+    "apy_reward": 0,
+    "tvl_usd": 4711608
+  },
+  {
+    "date": "2025-01-25",
+    "apy": 0.4133,
+    "apy_base": 0.4133,
+    "apy_reward": 0,
+    "tvl_usd": 4711621
+  },
+  {
+    "date": "2025-01-26",
+    "apy": 1.076,
+    "apy_base": 1.076,
+    "apy_reward": 0,
+    "tvl_usd": 4712008
+  },
+  {
+    "date": "2025-01-27",
+    "apy": 1.7473,
+    "apy_base": 1.7473,
+    "apy_reward": 0,
+    "tvl_usd": 4712082
+  },
+  {
+    "date": "2025-01-28",
+    "apy": 0.5166,
+    "apy_base": 0.5166,
+    "apy_reward": 0,
+    "tvl_usd": 4710886
+  },
+  {
+    "date": "2025-01-29",
+    "apy": 0.535,
+    "apy_base": 0.535,
+    "apy_reward": 0,
+    "tvl_usd": 5063166
+  },
+  {
+    "date": "2025-01-30",
+    "apy": 0.9588,
+    "apy_base": 0.9588,
+    "apy_reward": 0,
+    "tvl_usd": 5063167
+  },
+  {
+    "date": "2025-01-31",
+    "apy": 0.4848,
+    "apy_base": 0.4848,
+    "apy_reward": 0,
+    "tvl_usd": 5314625
+  },
+  {
+    "date": "2025-02-01",
+    "apy": 1.451,
+    "apy_base": 1.451,
+    "apy_reward": 0,
+    "tvl_usd": 5314750
+  },
+  {
+    "date": "2025-02-02",
+    "apy": 0.7967,
+    "apy_base": 0.7967,
+    "apy_reward": 0,
+    "tvl_usd": 6143573
+  },
+  {
+    "date": "2025-02-03",
+    "apy": 3.1002,
+    "apy_base": 3.1002,
+    "apy_reward": 0,
+    "tvl_usd": 4715702
+  },
+  {
+    "date": "2025-02-04",
+    "apy": 1.3158,
+    "apy_base": 1.3158,
+    "apy_reward": 0,
+    "tvl_usd": 4713514
+  },
+  {
+    "date": "2025-02-05",
+    "apy": 0.4133,
+    "apy_base": 0.4133,
+    "apy_reward": 0,
+    "tvl_usd": 4713513
+  },
+  {
+    "date": "2025-02-06",
+    "apy": 0.2344,
+    "apy_base": 0.2344,
+    "apy_reward": 0,
+    "tvl_usd": 4713568
+  },
+  {
+    "date": "2025-02-07",
+    "apy": 0.2974,
+    "apy_base": 0.2974,
+    "apy_reward": 0,
+    "tvl_usd": 4713560
+  },
+  {
+    "date": "2025-02-08",
+    "apy": 0.3407,
+    "apy_base": 0.3407,
+    "apy_reward": 0,
+    "tvl_usd": 4713668
+  },
+  {
+    "date": "2025-02-09",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4713463
+  },
+  {
+    "date": "2025-02-10",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4713610
+  },
+  {
+    "date": "2025-02-11",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4713129
+  },
+  {
+    "date": "2025-02-12",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4713650
+  },
+  {
+    "date": "2025-02-13",
+    "apy": 0.1583,
+    "apy_base": 0.1583,
+    "apy_reward": 0,
+    "tvl_usd": 4713539
+  },
+  {
+    "date": "2025-02-14",
+    "apy": 1.1179,
+    "apy_base": 1.1179,
+    "apy_reward": 0,
+    "tvl_usd": 4713686
+  },
+  {
+    "date": "2025-02-15",
+    "apy": 0.2602,
+    "apy_base": 0.2602,
+    "apy_reward": 0,
+    "tvl_usd": 4713717
+  },
+  {
+    "date": "2025-02-16",
+    "apy": 0.3744,
+    "apy_base": 0.3744,
+    "apy_reward": 0,
+    "tvl_usd": 4713984
+  },
+  {
+    "date": "2025-02-17",
+    "apy": 1.4454,
+    "apy_base": 1.4454,
+    "apy_reward": 0,
+    "tvl_usd": 4714163
+  },
+  {
+    "date": "2025-02-18",
+    "apy": 0.9328,
+    "apy_base": 0.9328,
+    "apy_reward": 0,
+    "tvl_usd": 4712469
+  },
+  {
+    "date": "2025-02-19",
+    "apy": 1.0349,
+    "apy_base": 1.0349,
+    "apy_reward": 0,
+    "tvl_usd": 4713695
+  },
+  {
+    "date": "2025-02-20",
+    "apy": 0.1192,
+    "apy_base": 0.1192,
+    "apy_reward": 0,
+    "tvl_usd": 4714197
+  },
+  {
+    "date": "2025-02-21",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4712546
+  },
+  {
+    "date": "2025-02-22",
+    "apy": 0.2462,
+    "apy_base": 0.2462,
+    "apy_reward": 0,
+    "tvl_usd": 4714466
+  },
+  {
+    "date": "2025-02-23",
+    "apy": 2.6424,
+    "apy_base": 2.6424,
+    "apy_reward": 0,
+    "tvl_usd": 4714436
+  },
+  {
+    "date": "2025-02-24",
+    "apy": 0.601,
+    "apy_base": 0.601,
+    "apy_reward": 0,
+    "tvl_usd": 4714115
+  },
+  {
+    "date": "2025-02-25",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4712278
+  },
+  {
+    "date": "2025-02-26",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4712000
+  },
+  {
+    "date": "2025-02-27",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4711955
+  },
+  {
+    "date": "2025-02-28",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4714131
+  },
+  {
+    "date": "2025-03-01",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4714201
+  },
+  {
+    "date": "2025-03-02",
+    "apy": 3.3046,
+    "apy_base": 3.3046,
+    "apy_reward": 0,
+    "tvl_usd": 4716630
+  },
+  {
+    "date": "2025-03-03",
+    "apy": 5.0244,
+    "apy_base": 5.0244,
+    "apy_reward": 0,
+    "tvl_usd": 4714989
+  },
+  {
+    "date": "2025-03-04",
+    "apy": 8.2829,
+    "apy_base": 8.2829,
+    "apy_reward": 0,
+    "tvl_usd": 4717985
+  },
+  {
+    "date": "2025-03-05",
+    "apy": 6.1202,
+    "apy_base": 6.1202,
+    "apy_reward": 0,
+    "tvl_usd": 4719262
+  },
+  {
+    "date": "2025-03-06",
+    "apy": 6.3826,
+    "apy_base": 6.3826,
+    "apy_reward": 0,
+    "tvl_usd": 4720223
+  },
+  {
+    "date": "2025-03-07",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4719322
+  },
+  {
+    "date": "2025-03-08",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4719521
+  },
+  {
+    "date": "2025-03-09",
+    "apy": 0.9515,
+    "apy_base": 0.9515,
+    "apy_reward": 0,
+    "tvl_usd": 4720222
+  },
+  {
+    "date": "2025-03-10",
+    "apy": 4.7924,
+    "apy_base": 4.7924,
+    "apy_reward": 0,
+    "tvl_usd": 4719652
+  },
+  {
+    "date": "2025-03-11",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4720617
+  },
+  {
+    "date": "2025-03-12",
+    "apy": 0.5639,
+    "apy_base": 0.5639,
+    "apy_reward": 0,
+    "tvl_usd": 4720789
+  },
+  {
+    "date": "2025-03-13",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4720491
+  },
+  {
+    "date": "2025-03-14",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4721936
+  },
+  {
+    "date": "2025-03-15",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4721990
+  },
+  {
+    "date": "2025-03-16",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4721727
+  },
+  {
+    "date": "2025-03-17",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4721901
+  },
+  {
+    "date": "2025-03-18",
+    "apy": 0.957,
+    "apy_base": 0.957,
+    "apy_reward": 0,
+    "tvl_usd": 4721240
+  },
+  {
+    "date": "2025-03-19",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4722325
+  },
+  {
+    "date": "2025-03-20",
+    "apy": 0.7813,
+    "apy_base": 0.7813,
+    "apy_reward": 0,
+    "tvl_usd": 4721047
+  },
+  {
+    "date": "2025-03-21",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4721663
+  },
+  {
+    "date": "2025-03-22",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4722157
+  },
+  {
+    "date": "2025-03-23",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4722544
+  },
+  {
+    "date": "2025-03-24",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4722611
+  },
+  {
+    "date": "2025-03-25",
+    "apy": 3.8317,
+    "apy_base": 3.8317,
+    "apy_reward": 0,
+    "tvl_usd": 4723363
+  },
+  {
+    "date": "2025-03-26",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4723395
+  },
+  {
+    "date": "2025-03-27",
+    "apy": 0.5132,
+    "apy_base": 0.5132,
+    "apy_reward": 0,
+    "tvl_usd": 4723582
+  },
+  {
+    "date": "2025-03-28",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4722362
+  },
+  {
+    "date": "2025-03-29",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4723469
+  },
+  {
+    "date": "2025-03-30",
+    "apy": 1.4116,
+    "apy_base": 1.4116,
+    "apy_reward": 0,
+    "tvl_usd": 4723622
+  },
+  {
+    "date": "2025-03-31",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514616
+  },
+  {
+    "date": "2025-04-01",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514734
+  },
+  {
+    "date": "2025-04-02",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514580
+  },
+  {
+    "date": "2025-04-03",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514046
+  },
+  {
+    "date": "2025-04-04",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514114
+  },
+  {
+    "date": "2025-04-05",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514130
+  },
+  {
+    "date": "2025-04-06",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4513295
+  },
+  {
+    "date": "2025-04-07",
+    "apy": 1.6985,
+    "apy_base": 1.6985,
+    "apy_reward": 0,
+    "tvl_usd": 4514778
+  },
+  {
+    "date": "2025-04-08",
+    "apy": 0.1673,
+    "apy_base": 0.1673,
+    "apy_reward": 0,
+    "tvl_usd": 4513420
+  },
+  {
+    "date": "2025-04-09",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514433
+  },
+  {
+    "date": "2025-04-10",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4514674
+  },
+  {
+    "date": "2025-04-11",
+    "apy": 0.093,
+    "apy_base": 0.093,
+    "apy_reward": 0,
+    "tvl_usd": 4515092
+  },
+  {
+    "date": "2025-04-12",
+    "apy": 0.1485,
+    "apy_base": 0.1485,
+    "apy_reward": 0,
+    "tvl_usd": 4515815
+  },
+  {
+    "date": "2025-04-13",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4515224
+  },
+  {
+    "date": "2025-04-14",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4516108
+  },
+  {
+    "date": "2025-04-15",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4516197
+  },
+  {
+    "date": "2025-04-16",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4516225
+  },
+  {
+    "date": "2025-04-17",
+    "apy": 0.8027,
+    "apy_base": 0.8027,
+    "apy_reward": 0,
+    "tvl_usd": 4516270
+  },
+  {
+    "date": "2025-04-18",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4516178
+  },
+  {
+    "date": "2025-04-19",
+    "apy": 0.3478,
+    "apy_base": 0.3478,
+    "apy_reward": 0,
+    "tvl_usd": 4516047
+  },
+  {
+    "date": "2025-04-20",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 4516400
+  },
+  {
+    "date": "2025-04-21",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3692944
+  },
+  {
+    "date": "2025-04-22",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3692951
+  },
+  {
+    "date": "2025-04-23",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3693188
+  },
+  {
+    "date": "2025-04-24",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3693373
+  },
+  {
+    "date": "2025-04-25",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695253
+  },
+  {
+    "date": "2025-04-26",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3693364
+  },
+  {
+    "date": "2025-04-27",
+    "apy": 15.8223,
+    "apy_base": 15.8223,
+    "apy_reward": 0,
+    "tvl_usd": 3734585
+  },
+  {
+    "date": "2025-04-28",
+    "apy": 0.4268,
+    "apy_base": 0.4268,
+    "apy_reward": 0,
+    "tvl_usd": 3694334
+  },
+  {
+    "date": "2025-04-29",
+    "apy": 0.4677,
+    "apy_base": 0.4677,
+    "apy_reward": 0,
+    "tvl_usd": 3694337
+  },
+  {
+    "date": "2025-04-30",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3694641
+  },
+  {
+    "date": "2025-05-01",
+    "apy": 0.6741,
+    "apy_base": 0.6741,
+    "apy_reward": 0,
+    "tvl_usd": 3694665
+  },
+  {
+    "date": "2025-05-02",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3694612
+  },
+  {
+    "date": "2025-05-03",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3694804
+  },
+  {
+    "date": "2025-05-04",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3694827
+  },
+  {
+    "date": "2025-05-05",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3694857
+  },
+  {
+    "date": "2025-05-06",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695105
+  },
+  {
+    "date": "2025-05-07",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695107
+  },
+  {
+    "date": "2025-05-08",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695136
+  },
+  {
+    "date": "2025-05-09",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695325
+  },
+  {
+    "date": "2025-05-10",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3695420
+  },
+  {
+    "date": "2025-05-11",
+    "apy": 0.801,
+    "apy_base": 0.801,
+    "apy_reward": 0,
+    "tvl_usd": 3695548
+  },
+  {
+    "date": "2025-05-12",
+    "apy": 0.7733,
+    "apy_base": 0.7733,
+    "apy_reward": 0,
+    "tvl_usd": 3696238
+  },
+  {
+    "date": "2025-05-13",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3696454
+  },
+  {
+    "date": "2025-05-14",
+    "apy": 0.9004,
+    "apy_base": 0.9004,
+    "apy_reward": 0,
+    "tvl_usd": 3696389
+  },
+  {
+    "date": "2025-05-15",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3696591
+  },
+  {
+    "date": "2025-05-16",
+    "apy": 0.7487,
+    "apy_base": 0.7487,
+    "apy_reward": 0,
+    "tvl_usd": 3696559
+  },
+  {
+    "date": "2025-05-17",
+    "apy": 0.2432,
+    "apy_base": 0.2432,
+    "apy_reward": 0,
+    "tvl_usd": 3696637
+  },
+  {
+    "date": "2025-05-18",
+    "apy": 0.3314,
+    "apy_base": 0.3314,
+    "apy_reward": 0,
+    "tvl_usd": 3696787
+  },
+  {
+    "date": "2025-05-19",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3696922
+  },
+  {
+    "date": "2025-05-20",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3696898
+  },
+  {
+    "date": "2025-05-21",
+    "apy": 0.0947,
+    "apy_base": 0.0947,
+    "apy_reward": 0,
+    "tvl_usd": 3696718
+  },
+  {
+    "date": "2025-05-22",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697020
+  },
+  {
+    "date": "2025-05-23",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697066
+  },
+  {
+    "date": "2025-05-24",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697075
+  },
+  {
+    "date": "2025-05-25",
+    "apy": 0.3715,
+    "apy_base": 0.3715,
+    "apy_reward": 0,
+    "tvl_usd": 3697412
+  },
+  {
+    "date": "2025-05-26",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697608
+  },
+  {
+    "date": "2025-05-27",
+    "apy": 0.3558,
+    "apy_base": 0.3558,
+    "apy_reward": 0,
+    "tvl_usd": 3696992
+  },
+  {
+    "date": "2025-05-28",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697293
+  },
+  {
+    "date": "2025-05-29",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697274
+  },
+  {
+    "date": "2025-05-30",
+    "apy": 5.7466,
+    "apy_base": 5.7466,
+    "apy_reward": 0,
+    "tvl_usd": 3697845
+  },
+  {
+    "date": "2025-05-31",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3697950
+  },
+  {
+    "date": "2025-06-01",
+    "apy": 1.5437,
+    "apy_base": 1.5437,
+    "apy_reward": 0,
+    "tvl_usd": 3698088
+  },
+  {
+    "date": "2025-06-02",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698338
+  },
+  {
+    "date": "2025-06-03",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698354
+  },
+  {
+    "date": "2025-06-04",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698494
+  },
+  {
+    "date": "2025-06-05",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698244
+  },
+  {
+    "date": "2025-06-06",
+    "apy": 0.5168,
+    "apy_base": 0.5168,
+    "apy_reward": 0,
+    "tvl_usd": 3700308
+  },
+  {
+    "date": "2025-06-07",
+    "apy": 0.1163,
+    "apy_base": 0.1163,
+    "apy_reward": 0,
+    "tvl_usd": 3698382
+  },
+  {
+    "date": "2025-06-08",
+    "apy": 0.0149,
+    "apy_base": 0.0149,
+    "apy_reward": 0,
+    "tvl_usd": 3698408
+  },
+  {
+    "date": "2025-06-09",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698396
+  },
+  {
+    "date": "2025-06-10",
+    "apy": 0.7667,
+    "apy_base": 0.7667,
+    "apy_reward": 0,
+    "tvl_usd": 3698646
+  },
+  {
+    "date": "2025-06-11",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698659
+  },
+  {
+    "date": "2025-06-12",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698782
+  },
+  {
+    "date": "2025-06-13",
+    "apy": 4.4845,
+    "apy_base": 4.4845,
+    "apy_reward": 0,
+    "tvl_usd": 3698909
+  },
+  {
+    "date": "2025-06-14",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698953
+  },
+  {
+    "date": "2025-06-15",
+    "apy": 0.137,
+    "apy_base": 0.137,
+    "apy_reward": 0,
+    "tvl_usd": 3698814
+  },
+  {
+    "date": "2025-06-16",
+    "apy": 0.1467,
+    "apy_base": 0.1467,
+    "apy_reward": 0,
+    "tvl_usd": 3698985
+  },
+  {
+    "date": "2025-06-17",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699835
+  },
+  {
+    "date": "2025-06-18",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700143
+  },
+  {
+    "date": "2025-06-19",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700467
+  },
+  {
+    "date": "2025-06-20",
+    "apy": 0.2377,
+    "apy_base": 0.2377,
+    "apy_reward": 0,
+    "tvl_usd": 3700365
+  },
+  {
+    "date": "2025-06-21",
+    "apy": 0.3522,
+    "apy_base": 0.3522,
+    "apy_reward": 0,
+    "tvl_usd": 3700437
+  },
+  {
+    "date": "2025-06-22",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700281
+  },
+  {
+    "date": "2025-06-23",
+    "apy": 0.6998,
+    "apy_base": 0.6998,
+    "apy_reward": 0,
+    "tvl_usd": 3702548
+  },
+  {
+    "date": "2025-06-24",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700881
+  },
+  {
+    "date": "2025-06-25",
+    "apy": 0.7566,
+    "apy_base": 0.7566,
+    "apy_reward": 0,
+    "tvl_usd": 3700887
+  },
+  {
+    "date": "2025-06-26",
+    "apy": 3.4729,
+    "apy_base": 3.4729,
+    "apy_reward": 0,
+    "tvl_usd": 3699836
+  },
+  {
+    "date": "2025-06-27",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699930
+  },
+  {
+    "date": "2025-06-28",
+    "apy": 0.0392,
+    "apy_base": 0.0392,
+    "apy_reward": 0,
+    "tvl_usd": 3699827
+  },
+  {
+    "date": "2025-06-29",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699878
+  },
+  {
+    "date": "2025-06-30",
+    "apy": 0.6186,
+    "apy_base": 0.6186,
+    "apy_reward": 0,
+    "tvl_usd": 3700002
+  },
+  {
+    "date": "2025-07-01",
+    "apy": 0.1442,
+    "apy_base": 0.1442,
+    "apy_reward": 0,
+    "tvl_usd": 3700078
+  },
+  {
+    "date": "2025-07-02",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699938
+  },
+  {
+    "date": "2025-07-03",
+    "apy": 0.4361,
+    "apy_base": 0.4361,
+    "apy_reward": 0,
+    "tvl_usd": 3700111
+  },
+  {
+    "date": "2025-07-04",
+    "apy": 0.1946,
+    "apy_base": 0.1946,
+    "apy_reward": 0,
+    "tvl_usd": 3700153
+  },
+  {
+    "date": "2025-07-05",
+    "apy": 0.3386,
+    "apy_base": 0.3386,
+    "apy_reward": 0,
+    "tvl_usd": 3700222
+  },
+  {
+    "date": "2025-07-06",
+    "apy": 0.1109,
+    "apy_base": 0.1109,
+    "apy_reward": 0,
+    "tvl_usd": 3700231
+  },
+  {
+    "date": "2025-07-07",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700036
+  },
+  {
+    "date": "2025-07-08",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700196
+  },
+  {
+    "date": "2025-07-09",
+    "apy": 0.5733,
+    "apy_base": 0.5733,
+    "apy_reward": 0,
+    "tvl_usd": 3700495
+  },
+  {
+    "date": "2025-07-10",
+    "apy": 0.8135,
+    "apy_base": 0.8135,
+    "apy_reward": 0,
+    "tvl_usd": 3700276
+  },
+  {
+    "date": "2025-07-11",
+    "apy": 1.3641,
+    "apy_base": 1.3641,
+    "apy_reward": 0,
+    "tvl_usd": 3700688
+  },
+  {
+    "date": "2025-07-12",
+    "apy": 0.0957,
+    "apy_base": 0.0957,
+    "apy_reward": 0,
+    "tvl_usd": 3700344
+  },
+  {
+    "date": "2025-07-13",
+    "apy": 0.1669,
+    "apy_base": 0.1669,
+    "apy_reward": 0,
+    "tvl_usd": 3700535
+  },
+  {
+    "date": "2025-07-14",
+    "apy": 0.3062,
+    "apy_base": 0.3062,
+    "apy_reward": 0,
+    "tvl_usd": 3700576
+  },
+  {
+    "date": "2025-07-15",
+    "apy": 0.1877,
+    "apy_base": 0.1877,
+    "apy_reward": 0,
+    "tvl_usd": 3700592
+  },
+  {
+    "date": "2025-07-16",
+    "apy": 0.3134,
+    "apy_base": 0.3134,
+    "apy_reward": 0,
+    "tvl_usd": 3700604
+  },
+  {
+    "date": "2025-07-17",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700812
+  },
+  {
+    "date": "2025-07-18",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3702776
+  },
+  {
+    "date": "2025-07-19",
+    "apy": 0.2732,
+    "apy_base": 0.2732,
+    "apy_reward": 0,
+    "tvl_usd": 3700936
+  },
+  {
+    "date": "2025-07-20",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700921
+  },
+  {
+    "date": "2025-07-21",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3700973
+  },
+  {
+    "date": "2025-07-22",
+    "apy": 1.1406,
+    "apy_base": 1.1406,
+    "apy_reward": 0,
+    "tvl_usd": 3701054
+  },
+  {
+    "date": "2025-07-23",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3701411
+  },
+  {
+    "date": "2025-07-24",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3701444
+  },
+  {
+    "date": "2025-07-25",
+    "apy": 0.3305,
+    "apy_base": 0.3305,
+    "apy_reward": 0,
+    "tvl_usd": 3701059
+  },
+  {
+    "date": "2025-07-26",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3701069
+  },
+  {
+    "date": "2025-07-27",
+    "apy": 0.2334,
+    "apy_base": 0.2334,
+    "apy_reward": 0,
+    "tvl_usd": 3701090
+  },
+  {
+    "date": "2025-07-28",
+    "apy": 0.1354,
+    "apy_base": 0.1354,
+    "apy_reward": 0,
+    "tvl_usd": 3700650
+  },
+  {
+    "date": "2025-07-29",
+    "apy": 3.4834,
+    "apy_base": 3.4834,
+    "apy_reward": 0,
+    "tvl_usd": 3700658
+  },
+  {
+    "date": "2025-07-30",
+    "apy": 0.4959,
+    "apy_base": 0.4959,
+    "apy_reward": 0,
+    "tvl_usd": 3699772
+  },
+  {
+    "date": "2025-07-31",
+    "apy": 0.6211,
+    "apy_base": 0.6211,
+    "apy_reward": 0,
+    "tvl_usd": 3699670
+  },
+  {
+    "date": "2025-08-01",
+    "apy": 0.2193,
+    "apy_base": 0.2193,
+    "apy_reward": 0,
+    "tvl_usd": 3698418
+  },
+  {
+    "date": "2025-08-02",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3698969
+  },
+  {
+    "date": "2025-08-03",
+    "apy": 0.1475,
+    "apy_base": 0.1475,
+    "apy_reward": 0,
+    "tvl_usd": 3699427
+  },
+  {
+    "date": "2025-08-04",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699522
+  },
+  {
+    "date": "2025-08-05",
+    "apy": 1.0839,
+    "apy_base": 1.0839,
+    "apy_reward": 0,
+    "tvl_usd": 3699437
+  },
+  {
+    "date": "2025-08-06",
+    "apy": 0,
+    "apy_base": 0,
+    "apy_reward": 0,
+    "tvl_usd": 3699780
+  },
+  {
+    "date": "2025-08-07",
+    "apy": 0.7413,
+    "apy_base": 0.7413,
+    "apy_reward": 0,
+    "tvl_usd": 3699782
+  },
+  {
+    "date": "2025-08-08",
+    "apy": 0.6991,
+    "apy_base": 0.6991,
+    "apy_reward": 0,
+    "tvl_usd": 3699916
+  },
+  {
+    "date": "2025-08-09",
+    "apy": 1.3137,
+    "apy_base": 1.3137,
+    "apy_reward": 0,
+    "tvl_usd": 3700044
+  },
+  {
+    "date": "2025-08-10",
+    "apy": 0.8724,
+    "apy_base": 0.8724,
+    "apy_reward": 0,
+    "tvl_usd": 3699957
+  },
+  {
+    "date": "2025-08-11",
+    "apy": 0.2698,
+    "apy_base": 0.2698,
+    "apy_reward": 0,
+    "tvl_usd": 3700055
+  },
+  {
+    "date": "2025-08-12",
+    "apy": 0.6099,
+    "apy_base": 0.6099,
+    "apy_reward": 0,
+    "tvl_usd": 3699687
+  },
+  {
+    "date": "2025-08-13",
+    "apy": 0.4979,
+    "apy_base": 0.4979,
+    "apy_reward": 0,
+    "tvl_usd": 3700270
+  },
+  {
+    "date": "2025-08-14",
+    "apy": 0.2238,
+    "apy_base": 0.2238,
+    "apy_reward": 0,
+    "tvl_usd": 3701998
+  },
+  {
+    "date": "2025-08-15",
+    "apy": 0.3801,
+    "apy_base": 0.3801,
+    "apy_reward": 0,
+    "tvl_usd": 3702625
+  },
+  {
+    "date": "2025-08-16",
+    "apy": 0.3742,
+    "apy_base": 0.3742,
+    "apy_reward": 0,
+    "tvl_usd": 3702699
+  },
+  {
+    "date": "2025-08-17",
+    "apy": 0.1081,
+    "apy_base": 0.1081,
+    "apy_reward": 0,
+    "tvl_usd": 3702735
+  },
+  {
+    "date": "2025-08-18",
+    "apy": 0.1978,
+    "apy_base": 0.1978,
+    "apy_reward": 0,
+    "tvl_usd": 3700598
+  },
+  {
+    "date": "2025-08-19",
+    "apy": 0.4763,
+    "apy_base": 0.4763,
+    "apy_reward": 0,
+    "tvl_usd": 3700755
+  },
+  {
+    "date": "2025-08-20",
+    "apy": 0.4557,
+    "apy_base": 0.4557,
+    "apy_reward": 0,
+    "tvl_usd": 3700892
+  },
+  {
+    "date": "2025-08-21",
+    "apy": 0.1425,
+    "apy_base": 0.1425,
+    "apy_reward": 0,
+    "tvl_usd": 3700398
+  },
+  {
+    "date": "2025-08-22",
+    "apy": 0.7429,
+    "apy_base": 0.7429,
+    "apy_reward": 0,
+    "tvl_usd": 3700494
+  },
+  {
+    "date": "2025-08-23",
+    "apy": 0.1504,
+    "apy_base": 0.1504,
+    "apy_reward": 0,
+    "tvl_usd": 3700416
+  },
+  {
+    "date": "2025-08-24",
+    "apy": 0.328,
+    "apy_base": 0.328,
+    "apy_reward": 0,
+    "tvl_usd": 3700862
+  },
+  {
+    "date": "2025-08-25",
+    "apy": 0.2247,
+    "apy_base": 0.2247,
+    "apy_reward": 0,
+    "tvl_usd": 3701010
+  },
+  {
+    "date": "2025-08-26",
+    "apy": 0.547,
+    "apy_base": 0.547,
+    "apy_reward": 0,
+    "tvl_usd": 3701072
+  },
+  {
+    "date": "2025-08-27",
+    "apy": 0.366,
+    "apy_base": 0.366,
+    "apy_reward": 0,
+    "tvl_usd": 3701294
+  },
+  {
+    "date": "2025-08-28",
+    "apy": 0.0704,
+    "apy_base": 0.0704,
+    "apy_reward": 0,
+    "tvl_usd": 3700755
+  },
+  {
+    "date": "2025-08-29",
+    "apy": 0.4361,
+    "apy_base": 0.4361,
+    "apy_reward": 0,
+    "tvl_usd": 3700770
+  },
+  {
+    "date": "2025-08-30",
+    "apy": 0.4924,
+    "apy_base": 0.4924,
+    "apy_reward": 0,
+    "tvl_usd": 3700869
+  },
+  {
+    "date": "2025-08-31",
+    "apy": 0.1558,
+    "apy_base": 0.1558,
+    "apy_reward": 0,
+    "tvl_usd": 3700879
+  },
+  {
+    "date": "2025-09-01",
+    "apy": 0.5138,
+    "apy_base": 0.5138,
+    "apy_reward": 0,
+    "tvl_usd": 3700935
+  },
+  {
+    "date": "2025-09-02",
+    "apy": 0.1296,
+    "apy_base": 0.1296,
+    "apy_reward": 0,
+    "tvl_usd": 3700960
+  },
+  {
+    "date": "2025-09-03",
+    "apy": 0.2007,
+    "apy_base": 0.2007,
+    "apy_reward": 0,
+    "tvl_usd": 3700981
+  },
+  {
+    "date": "2025-09-04",
+    "apy": 0.8825,
+    "apy_base": 0.8825,
+    "apy_reward": 0,
+    "tvl_usd": 3700973
+  },
+  {
+    "date": "2025-09-05",
+    "apy": 0.6044,
+    "apy_base": 0.6044,
+    "apy_reward": 0,
+    "tvl_usd": 3701147
+  },
+  {
+    "date": "2025-09-06",
+    "apy": 0.1296,
+    "apy_base": 0.1296,
+    "apy_reward": 0,
+    "tvl_usd": 3700980
+  },
+  {
+    "date": "2025-09-07",
+    "apy": 0.6172,
+    "apy_base": 0.6172,
+    "apy_reward": 0,
+    "tvl_usd": 3701178
+  },
+  {
+    "date": "2025-09-08",
+    "apy": 0.327,
+    "apy_base": 0.327,
+    "apy_reward": 0,
+    "tvl_usd": 3701229
+  },
+  {
+    "date": "2025-09-09",
+    "apy": 0.2952,
+    "apy_base": 0.2952,
+    "apy_reward": 0,
+    "tvl_usd": 3701254
+  },
+  {
+    "date": "2025-09-10",
+    "apy": 0.1871,
+    "apy_base": 0.1871,
+    "apy_reward": 0,
+    "tvl_usd": 3701117
+  },
+  {
+    "date": "2025-09-11",
+    "apy": 0.0455,
+    "apy_base": 0.0455,
+    "apy_reward": 0,
+    "tvl_usd": 3701200
+  },
+  {
+    "date": "2025-09-12",
+    "apy": 0.3321,
+    "apy_base": 0.3321,
+    "apy_reward": 0,
+    "tvl_usd": 3703091
+  },
+  {
+    "date": "2025-09-13",
+    "apy": 0.1938,
+    "apy_base": 0.1938,
+    "apy_reward": 0,
+    "tvl_usd": 3703046
+  },
+  {
+    "date": "2025-09-14",
+    "apy": 0.2097,
+    "apy_base": 0.2097,
+    "apy_reward": 0,
+    "tvl_usd": 3703200
+  },
+  {
+    "date": "2025-09-15",
+    "apy": 0.2188,
+    "apy_base": 0.2188,
+    "apy_reward": 0,
+    "tvl_usd": 3701230
+  },
+  {
+    "date": "2025-09-16",
+    "apy": 0.1464,
+    "apy_base": 0.1464,
+    "apy_reward": 0,
+    "tvl_usd": 3701224
+  },
+  {
+    "date": "2025-09-17",
+    "apy": 1.4632,
+    "apy_base": 1.4632,
+    "apy_reward": 0,
+    "tvl_usd": 3701370
+  },
+  {
+    "date": "2025-09-18",
+    "apy": 0.6955,
+    "apy_base": 0.6955,
+    "apy_reward": 0,
+    "tvl_usd": 3701552
+  },
+  {
+    "date": "2025-09-19",
+    "apy": 0.4173,
+    "apy_base": 0.4173,
+    "apy_reward": 0,
+    "tvl_usd": 3701436
+  },
+  {
+    "date": "2025-09-20",
+    "apy": 0.6248,
+    "apy_base": 0.6248,
+    "apy_reward": 0,
+    "tvl_usd": 3701497
+  },
+  {
+    "date": "2025-09-21",
+    "apy": 0.0388,
+    "apy_base": 0.0388,
+    "apy_reward": 0,
+    "tvl_usd": 3714734
+  },
+  {
+    "date": "2025-09-22",
+    "apy": 0.1403,
+    "apy_base": 0.1403,
+    "apy_reward": 0,
+    "tvl_usd": 3716613
+  },
+  {
+    "date": "2025-09-23",
+    "apy": 0.1853,
+    "apy_base": 0.1853,
+    "apy_reward": 0,
+    "tvl_usd": 3714768
+  },
+  {
+    "date": "2025-09-24",
+    "apy": 0.2025,
+    "apy_base": 0.2025,
+    "apy_reward": 0,
+    "tvl_usd": 3714793
+  },
+  {
+    "date": "2025-09-25",
+    "apy": 0.2149,
+    "apy_base": 0.2149,
+    "apy_reward": 0,
+    "tvl_usd": 3714812
+  },
+  {
+    "date": "2025-09-26",
+    "apy": 0.1116,
+    "apy_base": 0.1116,
+    "apy_reward": 0,
+    "tvl_usd": 3716688
+  },
+  {
+    "date": "2025-09-27",
+    "apy": 0.086,
+    "apy_base": 0.086,
+    "apy_reward": 0,
+    "tvl_usd": 3703324
+  },
+  {
+    "date": "2025-09-28",
+    "apy": 0.2561,
+    "apy_base": 0.2561,
+    "apy_reward": 0,
+    "tvl_usd": 3701484
+  },
+  {
+    "date": "2025-09-29",
+    "apy": 0.3017,
+    "apy_base": 0.3017,
+    "apy_reward": 0,
+    "tvl_usd": 3701689
+  },
+  {
+    "date": "2025-09-30",
+    "apy": 0.2362,
+    "apy_base": 0.2362,
+    "apy_reward": 0,
+    "tvl_usd": 3701690
+  },
+  {
+    "date": "2025-10-01",
+    "apy": 0.4556,
+    "apy_base": 0.4556,
+    "apy_reward": 0,
+    "tvl_usd": 3701847
+  },
+  {
+    "date": "2025-10-02",
+    "apy": 0.0901,
+    "apy_base": 0.0901,
+    "apy_reward": 0,
+    "tvl_usd": 3690358
+  },
+  {
+    "date": "2025-10-03",
+    "apy": 1.3313,
+    "apy_base": 1.3313,
+    "apy_reward": 0,
+    "tvl_usd": 3691097
+  },
+  {
+    "date": "2025-10-04",
+    "apy": 0.0544,
+    "apy_base": 0.0544,
+    "apy_reward": 0,
+    "tvl_usd": 3690432
+  },
+  {
+    "date": "2025-10-05",
+    "apy": 0.0952,
+    "apy_base": 0.0952,
+    "apy_reward": 0,
+    "tvl_usd": 3690208
+  },
+  {
+    "date": "2025-10-06",
+    "apy": 0.2476,
+    "apy_base": 0.2476,
+    "apy_reward": 0,
+    "tvl_usd": 3690357
+  },
+  {
+    "date": "2025-10-07",
+    "apy": 0.1646,
+    "apy_base": 0.1646,
+    "apy_reward": 0,
+    "tvl_usd": 3690677
+  },
+  {
+    "date": "2025-10-08",
+    "apy": 0.1613,
+    "apy_base": 0.1613,
+    "apy_reward": 0,
+    "tvl_usd": 3690193
+  },
+  {
+    "date": "2025-10-09",
+    "apy": 0.5956,
+    "apy_base": 0.5956,
+    "apy_reward": 0,
+    "tvl_usd": 3691101
+  },
+  {
+    "date": "2025-10-10",
+    "apy": 0.3411,
+    "apy_base": 0.3411,
+    "apy_reward": 0,
+    "tvl_usd": 3690908
+  },
+  {
+    "date": "2025-10-11",
+    "apy": 1.253,
+    "apy_base": 1.253,
+    "apy_reward": 0,
+    "tvl_usd": 3693436
+  },
+  {
+    "date": "2025-10-12",
+    "apy": 0.1253,
+    "apy_base": 0.1253,
+    "apy_reward": 0,
+    "tvl_usd": 3692702
+  },
+  {
+    "date": "2025-10-13",
+    "apy": 0.2711,
+    "apy_base": 0.2711,
+    "apy_reward": 0,
+    "tvl_usd": 3692518
+  },
+  {
+    "date": "2025-10-14",
+    "apy": 0.5578,
+    "apy_base": 0.5578,
+    "apy_reward": 0,
+    "tvl_usd": 3691636
+  },
+  {
+    "date": "2025-10-15",
+    "apy": 0.7381,
+    "apy_base": 0.7381,
+    "apy_reward": 0,
+    "tvl_usd": 3691859
+  },
+  {
+    "date": "2025-10-16",
+    "apy": 0.8803,
+    "apy_base": 0.8803,
+    "apy_reward": 0,
+    "tvl_usd": 3691352
+  },
+  {
+    "date": "2025-10-17",
+    "apy": 0.1271,
+    "apy_base": 0.1271,
+    "apy_reward": 0,
+    "tvl_usd": 3691786
+  },
+  {
+    "date": "2025-10-18",
+    "apy": 0.0352,
+    "apy_base": 0.0352,
+    "apy_reward": 0,
+    "tvl_usd": 3691462
+  },
+  {
+    "date": "2025-10-19",
+    "apy": 0.0242,
+    "apy_base": 0.0242,
+    "apy_reward": 0,
+    "tvl_usd": 3691527
+  },
+  {
+    "date": "2025-10-20",
+    "apy": 0.0912,
+    "apy_base": 0.0912,
+    "apy_reward": 0,
+    "tvl_usd": 3691426
+  },
+  {
+    "date": "2025-10-21",
+    "apy": 1.3483,
+    "apy_base": 1.3483,
+    "apy_reward": 0,
+    "tvl_usd": 3691786
+  },
+  {
+    "date": "2025-10-22",
+    "apy": 0.0833,
+    "apy_base": 0.0833,
+    "apy_reward": 0,
+    "tvl_usd": 3587158
+  },
+  {
+    "date": "2025-10-23",
+    "apy": 0.1188,
+    "apy_base": 0.1188,
+    "apy_reward": 0,
+    "tvl_usd": 3515765
+  },
+  {
+    "date": "2025-10-24",
+    "apy": 0.0421,
+    "apy_base": 0.0421,
+    "apy_reward": 0,
+    "tvl_usd": 3515471
+  },
+  {
+    "date": "2025-10-25",
+    "apy": 0.194,
+    "apy_base": 0.194,
+    "apy_reward": 0,
+    "tvl_usd": 3515596
+  },
+  {
+    "date": "2025-10-26",
+    "apy": 0.325,
+    "apy_base": 0.325,
+    "apy_reward": 0,
+    "tvl_usd": 3515165
+  },
+  {
+    "date": "2025-10-27",
+    "apy": 0.1262,
+    "apy_base": 0.1262,
+    "apy_reward": 0,
+    "tvl_usd": 3515286
+  },
+  {
+    "date": "2025-10-28",
+    "apy": 0.17,
+    "apy_base": 0.17,
+    "apy_reward": 0,
+    "tvl_usd": 3515632
+  },
+  {
+    "date": "2025-10-29",
+    "apy": 0.1636,
+    "apy_base": 0.1636,
+    "apy_reward": 0,
+    "tvl_usd": 3515417
+  },
+  {
+    "date": "2025-10-30",
+    "apy": 0.191,
+    "apy_base": 0.191,
+    "apy_reward": 0,
+    "tvl_usd": 3515302
+  },
+  {
+    "date": "2025-10-31",
+    "apy": 0.1109,
+    "apy_base": 0.1109,
+    "apy_reward": 0,
+    "tvl_usd": 3514706
+  },
+  {
+    "date": "2025-11-01",
+    "apy": 1.3851,
+    "apy_base": 1.3851,
+    "apy_reward": 0,
+    "tvl_usd": 3514889
+  },
+  {
+    "date": "2025-11-02",
+    "apy": 0.3774,
+    "apy_base": 0.3774,
+    "apy_reward": 0,
+    "tvl_usd": 3515087
+  },
+  {
+    "date": "2025-11-03",
+    "apy": 0.3798,
+    "apy_base": 0.3798,
+    "apy_reward": 0,
+    "tvl_usd": 3514989
+  },
+  {
+    "date": "2025-11-05",
+    "apy": 1.8238,
+    "apy_base": 1.8238,
+    "apy_reward": 0,
+    "tvl_usd": 3515334
+  },
+  {
+    "date": "2025-11-06",
+    "apy": 0.3148,
+    "apy_base": 0.3148,
+    "apy_reward": 0,
+    "tvl_usd": 3514734
+  },
+  {
+    "date": "2025-11-07",
+    "apy": 0.1051,
+    "apy_base": 0.1051,
+    "apy_reward": 0,
+    "tvl_usd": 3515437
+  },
+  {
+    "date": "2025-11-08",
+    "apy": 0.0917,
+    "apy_base": 0.0917,
+    "apy_reward": 0,
+    "tvl_usd": 3514942
+  },
+  {
+    "date": "2025-11-09",
+    "apy": 0.1788,
+    "apy_base": 0.1788,
+    "apy_reward": 0,
+    "tvl_usd": 3514768
+  },
+  {
+    "date": "2025-11-10",
+    "apy": 0.1236,
+    "apy_base": 0.1236,
+    "apy_reward": 0,
+    "tvl_usd": 3514874
+  },
+  {
+    "date": "2025-11-11",
+    "apy": 0.0676,
+    "apy_base": 0.0676,
+    "apy_reward": 0,
+    "tvl_usd": 3514580
+  },
+  {
+    "date": "2025-11-12",
+    "apy": 0.1855,
+    "apy_base": 0.1855,
+    "apy_reward": 0,
+    "tvl_usd": 3515244
+  },
+  {
+    "date": "2025-11-13",
+    "apy": 0.3764,
+    "apy_base": 0.3764,
+    "apy_reward": 0,
+    "tvl_usd": 3514192
+  },
+  {
+    "date": "2025-11-14",
+    "apy": 0.8216,
+    "apy_base": 0.8216,
+    "apy_reward": 0,
+    "tvl_usd": 3515169
+  },
+  {
+    "date": "2025-11-15",
+    "apy": 1.2117,
+    "apy_base": 1.2117,
+    "apy_reward": 0,
+    "tvl_usd": 3514897
+  },
+  {
+    "date": "2025-11-18",
+    "apy": 0.3028,
+    "apy_base": 0.3028,
+    "apy_reward": 0,
+    "tvl_usd": 3524274
+  },
+  {
+    "date": "2025-11-19",
+    "apy": 1.034,
+    "apy_base": 1.034,
+    "apy_reward": 0,
+    "tvl_usd": 3523464
+  },
+  {
+    "date": "2025-11-20",
+    "apy": 0.2741,
+    "apy_base": 0.2741,
+    "apy_reward": 0,
+    "tvl_usd": 3513732
+  },
+  {
+    "date": "2025-11-21",
+    "apy": 2.3025,
+    "apy_base": 2.3025,
+    "apy_reward": 0,
+    "tvl_usd": 3515115
+  },
+  {
+    "date": "2025-11-22",
+    "apy": 0.1695,
+    "apy_base": 0.1695,
+    "apy_reward": 0,
+    "tvl_usd": 3515244
+  },
+  {
+    "date": "2025-11-23",
+    "apy": 0.355,
+    "apy_base": 0.355,
+    "apy_reward": 0,
+    "tvl_usd": 3515531
+  },
+  {
+    "date": "2025-11-24",
+    "apy": 0.7321,
+    "apy_base": 0.7321,
+    "apy_reward": 0,
+    "tvl_usd": 3515488
+  },
+  {
+    "date": "2025-11-25",
+    "apy": 0.3655,
+    "apy_base": 0.3655,
+    "apy_reward": 0,
+    "tvl_usd": 3515677
+  },
+  {
+    "date": "2025-11-26",
+    "apy": 0.53,
+    "apy_base": 0.53,
+    "apy_reward": 0,
+    "tvl_usd": 3516028
+  },
+  {
+    "date": "2025-11-27",
+    "apy": 0.1334,
+    "apy_base": 0.1334,
+    "apy_reward": 0,
+    "tvl_usd": 3516407
+  },
+  {
+    "date": "2025-11-28",
+    "apy": 0.2876,
+    "apy_base": 0.2876,
+    "apy_reward": 0,
+    "tvl_usd": 3516810
+  },
+  {
+    "date": "2025-11-29",
+    "apy": 0.0441,
+    "apy_base": 0.0441,
+    "apy_reward": 0,
+    "tvl_usd": 3516777
+  },
+  {
+    "date": "2025-11-30",
+    "apy": 0.1276,
+    "apy_base": 0.1276,
+    "apy_reward": 0,
+    "tvl_usd": 3516339
+  },
+  {
+    "date": "2025-12-01",
+    "apy": 0.3835,
+    "apy_base": 0.3835,
+    "apy_reward": 0,
+    "tvl_usd": 3516629
+  },
+  {
+    "date": "2025-12-02",
+    "apy": 0.1558,
+    "apy_base": 0.1558,
+    "apy_reward": 0,
+    "tvl_usd": 3517131
+  },
+  {
+    "date": "2025-12-03",
+    "apy": 0.4468,
+    "apy_base": 0.4468,
+    "apy_reward": 0,
+    "tvl_usd": 3516891
+  },
+  {
+    "date": "2025-12-04",
+    "apy": 0.2517,
+    "apy_base": 0.2517,
+    "apy_reward": 0,
+    "tvl_usd": 3516661
+  },
+  {
+    "date": "2025-12-05",
+    "apy": 0.0318,
+    "apy_base": 0.0318,
+    "apy_reward": 0,
+    "tvl_usd": 3516502
+  },
+  {
+    "date": "2025-12-06",
+    "apy": 0.0477,
+    "apy_base": 0.0477,
+    "apy_reward": 0,
+    "tvl_usd": 3516542
+  },
+  {
+    "date": "2025-12-09",
+    "apy": 0.7561,
+    "apy_base": 0.7561,
+    "apy_reward": 0,
+    "tvl_usd": 3516453
+  },
+  {
+    "date": "2025-12-10",
+    "apy": 0.9594,
+    "apy_base": 0.9594,
+    "apy_reward": 0,
+    "tvl_usd": 3515080
+  },
+  {
+    "date": "2025-12-11",
+    "apy": 0.1335,
+    "apy_base": 0.1335,
+    "apy_reward": 0,
+    "tvl_usd": 3516814
+  },
+  {
+    "date": "2025-12-12",
+    "apy": 0.2078,
+    "apy_base": 0.2078,
+    "apy_reward": 0,
+    "tvl_usd": 3517041
+  },
+  {
+    "date": "2025-12-13",
+    "apy": 0.1184,
+    "apy_base": 0.1184,
+    "apy_reward": 0,
+    "tvl_usd": 3516834
+  },
+  {
+    "date": "2025-12-15",
+    "apy": 0.5412,
+    "apy_base": 0.5412,
+    "apy_reward": 0,
+    "tvl_usd": 3517139
+  },
+  {
+    "date": "2025-12-16",
+    "apy": 0.1253,
+    "apy_base": 0.1253,
+    "apy_reward": 0,
+    "tvl_usd": 3516659
+  },
+  {
+    "date": "2025-12-17",
+    "apy": 0.6593,
+    "apy_base": 0.6593,
+    "apy_reward": 0,
+    "tvl_usd": 3516738
+  },
+  {
+    "date": "2025-12-18",
+    "apy": 2.283,
+    "apy_base": 2.283,
+    "apy_reward": 0,
+    "tvl_usd": 3516090
+  },
+  {
+    "date": "2025-12-19",
+    "apy": 0.5526,
+    "apy_base": 0.5526,
+    "apy_reward": 0,
+    "tvl_usd": 3516185
+  },
+  {
+    "date": "2025-12-20",
+    "apy": 0.4062,
+    "apy_base": 0.4062,
+    "apy_reward": 0,
+    "tvl_usd": 3521625
+  },
+  {
+    "date": "2025-12-21",
+    "apy": 0.1465,
+    "apy_base": 0.1465,
+    "apy_reward": 0,
+    "tvl_usd": 3522285
+  },
+  {
+    "date": "2025-12-22",
+    "apy": 0.3469,
+    "apy_base": 0.3469,
+    "apy_reward": 0,
+    "tvl_usd": 3521342
+  },
+  {
+    "date": "2025-12-23",
+    "apy": 0.1358,
+    "apy_base": 0.1358,
+    "apy_reward": 0,
+    "tvl_usd": 3522983
+  },
+  {
+    "date": "2025-12-24",
+    "apy": 0.0821,
+    "apy_base": 0.0821,
+    "apy_reward": 0,
+    "tvl_usd": 3523474
+  },
+  {
+    "date": "2025-12-25",
+    "apy": 0.0818,
+    "apy_base": 0.0818,
+    "apy_reward": 0,
+    "tvl_usd": 3522958
+  },
+  {
+    "date": "2025-12-26",
+    "apy": 0.1514,
+    "apy_base": 0.1514,
+    "apy_reward": 0,
+    "tvl_usd": 3523100
+  },
+  {
+    "date": "2025-12-27",
+    "apy": 0.6333,
+    "apy_base": 0.6333,
+    "apy_reward": 0,
+    "tvl_usd": 3523588
+  },
+  {
+    "date": "2025-12-28",
+    "apy": 0.0942,
+    "apy_base": 0.0942,
+    "apy_reward": 0,
+    "tvl_usd": 3523518
+  },
+  {
+    "date": "2025-12-29",
+    "apy": 0.1724,
+    "apy_base": 0.1724,
+    "apy_reward": 0,
+    "tvl_usd": 3522144
+  },
+  {
+    "date": "2025-12-30",
+    "apy": 0.3995,
+    "apy_base": 0.3995,
+    "apy_reward": 0,
+    "tvl_usd": 3520581
+  },
+  {
+    "date": "2025-12-31",
+    "apy": 0.5117,
+    "apy_base": 0.5117,
+    "apy_reward": 0,
+    "tvl_usd": 3519758
+  },
+  {
+    "date": "2026-01-01",
+    "apy": 0.1813,
+    "apy_base": 0.1813,
+    "apy_reward": 0,
+    "tvl_usd": 3520215
+  },
+  {
+    "date": "2026-01-02",
+    "apy": 0.2577,
+    "apy_base": 0.2577,
+    "apy_reward": 0,
+    "tvl_usd": 3521553
+  },
+  {
+    "date": "2026-01-03",
+    "apy": 0.0909,
+    "apy_base": 0.0909,
+    "apy_reward": 0,
+    "tvl_usd": 3521677
+  },
+  {
+    "date": "2026-01-04",
+    "apy": 0.3113,
+    "apy_base": 0.3113,
+    "apy_reward": 0,
+    "tvl_usd": 3521889
+  },
+  {
+    "date": "2026-01-05",
+    "apy": 0.2758,
+    "apy_base": 0.2758,
+    "apy_reward": 0,
+    "tvl_usd": 3522114
+  },
+  {
+    "date": "2026-01-06",
+    "apy": 0.1971,
+    "apy_base": 0.1971,
+    "apy_reward": 0,
+    "tvl_usd": 3521858
+  },
+  {
+    "date": "2026-01-07",
+    "apy": 0.2316,
+    "apy_base": 0.2316,
+    "apy_reward": 0,
+    "tvl_usd": 3521793
+  },
+  {
+    "date": "2026-01-08",
+    "apy": 0.2155,
+    "apy_base": 0.2155,
+    "apy_reward": 0,
+    "tvl_usd": 3522176
+  },
+  {
+    "date": "2026-01-09",
+    "apy": 0.3492,
+    "apy_base": 0.3492,
+    "apy_reward": 0,
+    "tvl_usd": 3521238
+  },
+  {
+    "date": "2026-01-10",
+    "apy": 0.1223,
+    "apy_base": 0.1223,
+    "apy_reward": 0,
+    "tvl_usd": 3522119
+  },
+  {
+    "date": "2026-01-11",
+    "apy": 0.2759,
+    "apy_base": 0.2759,
+    "apy_reward": 0,
+    "tvl_usd": 3520745
+  },
+  {
+    "date": "2026-01-12",
+    "apy": 0.0906,
+    "apy_base": 0.0906,
+    "apy_reward": 0,
+    "tvl_usd": 3521193
+  },
+  {
+    "date": "2026-01-13",
+    "apy": 0.2798,
+    "apy_base": 0.2798,
+    "apy_reward": 0,
+    "tvl_usd": 3510713
+  },
+  {
+    "date": "2026-01-14",
+    "apy": 0.9129,
+    "apy_base": 0.9129,
+    "apy_reward": 0,
+    "tvl_usd": 3511683
+  },
+  {
+    "date": "2026-01-15",
+    "apy": 0.0971,
+    "apy_base": 0.0971,
+    "apy_reward": 0,
+    "tvl_usd": 3511159
+  },
+  {
+    "date": "2026-01-16",
+    "apy": 0.5583,
+    "apy_base": 0.5583,
+    "apy_reward": 0,
+    "tvl_usd": 3513366
+  },
+  {
+    "date": "2026-01-17",
+    "apy": 0.2681,
+    "apy_base": 0.2681,
+    "apy_reward": 0,
+    "tvl_usd": 3511033
+  },
+  {
+    "date": "2026-01-18",
+    "apy": 0.1113,
+    "apy_base": 0.1113,
+    "apy_reward": 0,
+    "tvl_usd": 3511307
+  },
+  {
+    "date": "2026-01-19",
+    "apy": 0.7289,
+    "apy_base": 0.7289,
+    "apy_reward": 0,
+    "tvl_usd": 3505966
+  },
+  {
+    "date": "2026-01-20",
+    "apy": 0.1955,
+    "apy_base": 0.1955,
+    "apy_reward": 0,
+    "tvl_usd": 3504652
+  },
+  {
+    "date": "2026-01-21",
+    "apy": 0.128,
+    "apy_base": 0.128,
+    "apy_reward": 0,
+    "tvl_usd": 3505681
+  },
+  {
+    "date": "2026-01-22",
+    "apy": 0.4139,
+    "apy_base": 0.4139,
+    "apy_reward": 0,
+    "tvl_usd": 3505257
+  },
+  {
+    "date": "2026-01-23",
+    "apy": 0.39,
+    "apy_base": 0.39,
+    "apy_reward": 0,
+    "tvl_usd": 3504617
+  },
+  {
+    "date": "2026-01-24",
+    "apy": 0.2662,
+    "apy_base": 0.2662,
+    "apy_reward": 0,
+    "tvl_usd": 3504267
+  },
+  {
+    "date": "2026-01-25",
+    "apy": 0.2061,
+    "apy_base": 0.2061,
+    "apy_reward": 0,
+    "tvl_usd": 3505099
+  },
+  {
+    "date": "2026-01-26",
+    "apy": 0.073,
+    "apy_base": 0.073,
+    "apy_reward": 0,
+    "tvl_usd": 3505027
+  },
+  {
+    "date": "2026-01-27",
+    "apy": 0.0555,
+    "apy_base": 0.0555,
+    "apy_reward": 0,
+    "tvl_usd": 3504771
+  },
+  {
+    "date": "2026-01-28",
+    "apy": 0.7729,
+    "apy_base": 0.7729,
+    "apy_reward": 0,
+    "tvl_usd": 3504397
+  },
+  {
+    "date": "2026-01-29",
+    "apy": 0.2341,
+    "apy_base": 0.2341,
+    "apy_reward": 0,
+    "tvl_usd": 3504217
+  },
+  {
+    "date": "2026-01-30",
+    "apy": 0.2784,
+    "apy_base": 0.2784,
+    "apy_reward": 0,
+    "tvl_usd": 3504308
+  },
+  {
+    "date": "2026-01-31",
+    "apy": 1.1703,
+    "apy_base": 1.1703,
+    "apy_reward": 0,
+    "tvl_usd": 3504797
+  },
+  {
+    "date": "2026-02-01",
+    "apy": 0.1519,
+    "apy_base": 0.1519,
+    "apy_reward": 0,
+    "tvl_usd": 3504808
+  },
+  {
+    "date": "2026-02-02",
+    "apy": 0.1624,
+    "apy_base": 0.1624,
+    "apy_reward": 0,
+    "tvl_usd": 3505550
+  },
+  {
+    "date": "2026-02-03",
+    "apy": 0.2852,
+    "apy_base": 0.2852,
+    "apy_reward": 0,
+    "tvl_usd": 3504841
+  },
+  {
+    "date": "2026-02-04",
+    "apy": 0.281,
+    "apy_base": 0.281,
+    "apy_reward": 0,
+    "tvl_usd": 3503398
+  },
+  {
+    "date": "2026-02-05",
+    "apy": 0.8717,
+    "apy_base": 0.8717,
+    "apy_reward": 0,
+    "tvl_usd": 2839316
+  },
+  {
+    "date": "2026-02-06",
+    "apy": 0.4347,
+    "apy_base": 0.4347,
+    "apy_reward": 0,
+    "tvl_usd": 3534805
+  },
+  {
+    "date": "2026-02-07",
+    "apy": 0.9602,
+    "apy_base": 0.9602,
+    "apy_reward": 0,
+    "tvl_usd": 3534866
+  },
+  {
+    "date": "2026-02-08",
+    "apy": 0.6303,
+    "apy_base": 0.6303,
+    "apy_reward": 0,
+    "tvl_usd": 3535358
+  },
+  {
+    "date": "2026-02-09",
+    "apy": 0.615,
+    "apy_base": 0.615,
+    "apy_reward": 0,
+    "tvl_usd": 3535469
+  },
+  {
+    "date": "2026-02-10",
+    "apy": 0.6227,
+    "apy_base": 0.6227,
+    "apy_reward": 0,
+    "tvl_usd": 3535415
+  },
+  {
+    "date": "2026-02-11",
+    "apy": 0.34,
+    "apy_base": 0.34,
+    "apy_reward": 0,
+    "tvl_usd": 3535212
+  },
+  {
+    "date": "2026-02-12",
+    "apy": 0.5823,
+    "apy_base": 0.5823,
+    "apy_reward": 0,
+    "tvl_usd": 3535222
+  },
+  {
+    "date": "2026-02-13",
+    "apy": 1.0927,
+    "apy_base": 1.0927,
+    "apy_reward": 0,
+    "tvl_usd": 3535676
+  },
+  {
+    "date": "2026-02-14",
+    "apy": 0.3811,
+    "apy_base": 0.3811,
+    "apy_reward": 0,
+    "tvl_usd": 3535898
+  },
+  {
+    "date": "2026-02-15",
+    "apy": 0.7907,
+    "apy_base": 0.7907,
+    "apy_reward": 0,
+    "tvl_usd": 3535925
+  },
+  {
+    "date": "2026-02-16",
+    "apy": 0.8071,
+    "apy_base": 0.8071,
+    "apy_reward": 0,
+    "tvl_usd": 3536281
+  },
+  {
+    "date": "2026-02-17",
+    "apy": 0.5958,
+    "apy_base": 0.5958,
+    "apy_reward": 0,
+    "tvl_usd": 3536262
+  },
+  {
+    "date": "2026-02-18",
+    "apy": 0.2286,
+    "apy_base": 0.2286,
+    "apy_reward": 0,
+    "tvl_usd": 3536106
+  },
+  {
+    "date": "2026-02-19",
+    "apy": 0.1032,
+    "apy_base": 0.1032,
+    "apy_reward": 0,
+    "tvl_usd": 3536369
+  },
+  {
+    "date": "2026-02-20",
+    "apy": 0.066,
+    "apy_base": 0.066,
+    "apy_reward": 0,
+    "tvl_usd": 3536395
+  },
+  {
+    "date": "2026-02-21",
+    "apy": 0.087,
+    "apy_base": 0.087,
+    "apy_reward": 0,
+    "tvl_usd": 3536327
+  },
+  {
+    "date": "2026-02-22",
+    "apy": 0.1553,
+    "apy_base": 0.1553,
+    "apy_reward": 0,
+    "tvl_usd": 3536136
+  },
+  {
+    "date": "2026-02-23",
+    "apy": 0.2052,
+    "apy_base": 0.2052,
+    "apy_reward": 0,
+    "tvl_usd": 3536472
+  },
+  {
+    "date": "2026-02-24",
+    "apy": 0.2175,
+    "apy_base": 0.2175,
+    "apy_reward": 0,
+    "tvl_usd": 3537075
+  },
+  {
+    "date": "2026-02-25",
+    "apy": 0.1009,
+    "apy_base": 0.1009,
+    "apy_reward": 0,
+    "tvl_usd": 3537254
+  },
+  {
+    "date": "2026-02-26",
+    "apy": 0.2767,
+    "apy_base": 0.2767,
+    "apy_reward": 0,
+    "tvl_usd": 3537115
+  },
+  {
+    "date": "2026-02-27",
+    "apy": 0.2768,
+    "apy_base": 0.2768,
+    "apy_reward": 0,
+    "tvl_usd": 3537028
+  },
+  {
+    "date": "2026-02-28",
+    "apy": 0.3402,
+    "apy_base": 0.3402,
+    "apy_reward": 0,
+    "tvl_usd": 3537738
+  },
+  {
+    "date": "2026-03-01",
+    "apy": 0.74,
+    "apy_base": 0.74,
+    "apy_reward": 0,
+    "tvl_usd": 3536928
+  },
+  {
+    "date": "2026-03-02",
+    "apy": 0.2813,
+    "apy_base": 0.2813,
+    "apy_reward": 0,
+    "tvl_usd": 3537121
+  },
+  {
+    "date": "2026-03-03",
+    "apy": 0.1395,
+    "apy_base": 0.1395,
+    "apy_reward": 0,
+    "tvl_usd": 3537219
+  },
+  {
+    "date": "2026-03-04",
+    "apy": 0.3229,
+    "apy_base": 0.3229,
+    "apy_reward": 0,
+    "tvl_usd": 3537163
+  },
+  {
+    "date": "2026-03-05",
+    "apy": 0.4453,
+    "apy_base": 0.4453,
+    "apy_reward": 0,
+    "tvl_usd": 3537305
+  },
+  {
+    "date": "2026-03-06",
+    "apy": 0.1132,
+    "apy_base": 0.1132,
+    "apy_reward": 0,
+    "tvl_usd": 3537013
+  },
+  {
+    "date": "2026-03-07",
+    "apy": 5.0018,
+    "apy_base": 5.0018,
+    "apy_reward": 0,
+    "tvl_usd": 3537707
+  },
+  {
+    "date": "2026-03-08",
+    "apy": 0.6621,
+    "apy_base": 0.6621,
+    "apy_reward": 0,
+    "tvl_usd": 3537911
+  },
+  {
+    "date": "2026-03-09",
+    "apy": 0.0698,
+    "apy_base": 0.0698,
+    "apy_reward": 0,
+    "tvl_usd": 3537835
+  },
+  {
+    "date": "2026-03-10",
+    "apy": 0.1887,
+    "apy_base": 0.1887,
+    "apy_reward": 0,
+    "tvl_usd": 3537719
+  },
+  {
+    "date": "2026-03-11",
+    "apy": 0.6342,
+    "apy_base": 0.6342,
+    "apy_reward": 0,
+    "tvl_usd": 3537774
+  },
+  {
+    "date": "2026-03-12",
+    "apy": 0.2587,
+    "apy_base": 0.2587,
+    "apy_reward": 0,
+    "tvl_usd": 3537679
+  },
+  {
+    "date": "2026-03-13",
+    "apy": 0.1421,
+    "apy_base": 0.1421,
+    "apy_reward": 0,
+    "tvl_usd": 3537599
+  },
+  {
+    "date": "2026-03-14",
+    "apy": 0.1435,
+    "apy_base": 0.1435,
+    "apy_reward": 0,
+    "tvl_usd": 3537686
+  }
+]

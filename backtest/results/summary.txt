@@ -1,0 +1,224 @@
+======================================================================
+            PPN BACKTEST RESULTS SUMMARY
+      Multi-source: CoinGecko Pro + Yahoo Finance + Parcl Labs
+      Deposit: $10,000 per simulation
+======================================================================
+
+CRITICAL METRIC -- PRINCIPAL PROTECTION RATE:
+  [PASS] 100.0000% across ALL 5,134,380 simulations
+  [PASS] No single simulation lost principal
+  [PASS] Math verified: zero-coupon PV formula holds exactly
+
+======================================================================
+
+BY ASSET (best performing config for each):
+
+  BITCOIN [Crypto]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +83.03%  |  Best: +1467.65%  |  Worst: +0.00%
+    Liq rate: 92.0%  |  Beat Morpho: 8.0%
+    Total sims across all configs: 67,650
+
+  ETHEREUM [Crypto]:
+    Best config: 15.0% APY, 100x, 180d
+    Avg return: +38.06%  |  Best: +1384.53%  |  Worst: +0.00%
+    Liq rate: 94.2%  |  Beat Morpho: 5.8%
+    Total sims across all configs: 67,650
+
+  GOLD [Commodities]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +555.09%  |  Best: +1527.63%  |  Worst: +0.00%
+    Liq rate: 50.7%  |  Beat Morpho: 49.3%
+    Total sims across all configs: 40,410
+
+  RE_ATLANTA [Real Estate]:
+    Best config: 15.0% APY, 5x, 365d
+    Avg return: +14.51%  |  Best: +22.69%  |  Worst: +7.60%
+    Liq rate: 0.0%  |  Beat Morpho: 40.4%
+    Total sims across all configs: 199,290
+
+  RE_AUSTIN [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +23.84%  |  Best: +317.98%  |  Worst: +0.00%
+    Liq rate: 89.2%  |  Beat Morpho: 10.8%
+    Total sims across all configs: 199,290
+
+  RE_BOSTON [Real Estate]:
+    Best config: 15.0% APY, 100x, 180d
+    Avg return: +15.71%  |  Best: +148.67%  |  Worst: +0.00%
+    Liq rate: 77.9%  |  Beat Morpho: 21.2%
+    Total sims across all configs: 199,290
+
+  RE_BOSTON_RENT [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +48.01%  |  Best: +1769.98%  |  Worst: +0.00%
+    Liq rate: 92.7%  |  Beat Morpho: 7.2%
+    Total sims across all configs: 199,290
+
+  RE_BROOKLYN [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +19.44%  |  Best: +174.51%  |  Worst: +0.00%
+    Liq rate: 79.6%  |  Beat Morpho: 20.4%
+    Total sims across all configs: 199,290
+
+  RE_BROOKLYN_RENT [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +27.47%  |  Best: +965.34%  |  Worst: +0.00%
+    Liq rate: 94.0%  |  Beat Morpho: 5.8%
+    Total sims across all configs: 199,290
+
+  RE_CHARLOTTE [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +65.30%  |  Best: +325.95%  |  Worst: +0.00%
+    Liq rate: 62.5%  |  Beat Morpho: 36.7%
+    Total sims across all configs: 199,290
+
+  RE_CHICAGO [Real Estate]:
+    Best config: 15.0% APY, 100x, 180d
+    Avg return: +17.55%  |  Best: +155.27%  |  Worst: +0.00%
+    Liq rate: 77.4%  |  Beat Morpho: 21.1%
+    Total sims across all configs: 199,290
+
+  RE_CHICAGO_RENT [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +17.87%  |  Best: +296.04%  |  Worst: +0.00%
+    Liq rate: 86.4%  |  Beat Morpho: 13.5%
+    Total sims across all configs: 199,290
+
+  RE_DC [Real Estate]:
+    Best config: 15.0% APY, 1x, 365d
+    Avg return: +12.75%  |  Best: +13.77%  |  Worst: +11.83%
+    Liq rate: 0.0%  |  Beat Morpho: 0.0%
+    Total sims across all configs: 199,290
+
+  RE_DENVER [Real Estate]:
+    Best config: 15.0% APY, 100x, 180d
+    Avg return: +15.80%  |  Best: +129.34%  |  Worst: +0.00%
+    Liq rate: 74.1%  |  Beat Morpho: 24.7%
+    Total sims across all configs: 199,290
+
+  RE_DENVER_RENT [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +15.42%  |  Best: +172.84%  |  Worst: +0.00%
+    Liq rate: 81.9%  |  Beat Morpho: 17.2%
+    Total sims across all configs: 199,290
+
+  RE_LA [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +23.66%  |  Best: +224.33%  |  Worst: +0.00%
+    Liq rate: 78.3%  |  Beat Morpho: 21.7%
+    Total sims across all configs: 199,290
+
+  RE_LAS_VEGAS [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +82.79%  |  Best: +416.29%  |  Worst: +0.00%
+    Liq rate: 46.5%  |  Beat Morpho: 52.0%
+    Total sims across all configs: 199,290
+
+  RE_MIAMI [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +101.66%  |  Best: +635.95%  |  Worst: +0.00%
+    Liq rate: 65.9%  |  Beat Morpho: 33.9%
+    Total sims across all configs: 199,290
+
+  RE_MIAMI_BEACH [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +31.40%  |  Best: +257.25%  |  Worst: +0.00%
+    Liq rate: 76.0%  |  Beat Morpho: 23.7%
+    Total sims across all configs: 199,290
+
+  RE_NASHVILLE [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +51.66%  |  Best: +369.24%  |  Worst: +0.00%
+    Liq rate: 69.0%  |  Beat Morpho: 30.4%
+    Total sims across all configs: 199,290
+
+  RE_NYC [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +37.93%  |  Best: +302.12%  |  Worst: +0.00%
+    Liq rate: 70.2%  |  Beat Morpho: 29.8%
+    Total sims across all configs: 199,290
+
+  RE_PITTSBURGH [Real Estate]:
+    Best config: 15.0% APY, 100x, 180d
+    Avg return: +18.24%  |  Best: +220.08%  |  Worst: +0.00%
+    Liq rate: 84.3%  |  Beat Morpho: 14.9%
+    Total sims across all configs: 199,290
+
+  RE_SD [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +65.01%  |  Best: +392.03%  |  Worst: +0.00%
+    Liq rate: 60.3%  |  Beat Morpho: 38.9%
+    Total sims across all configs: 199,290
+
+  RE_SF [Real Estate]:
+    Best config: 15.0% APY, 1x, 365d
+    Avg return: +12.68%  |  Best: +13.87%  |  Worst: +10.89%
+    Liq rate: 0.0%  |  Beat Morpho: 0.0%
+    Total sims across all configs: 199,290
+
+  RE_TAMPA [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +67.83%  |  Best: +362.20%  |  Worst: +0.00%
+    Liq rate: 65.4%  |  Beat Morpho: 34.6%
+    Total sims across all configs: 199,290
+
+  RE_US [Real Estate]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +55.51%  |  Best: +283.68%  |  Worst: +0.00%
+    Liq rate: 48.6%  |  Beat Morpho: 47.8%
+    Total sims across all configs: 199,290
+
+  RE_US_RENT [Real Estate]:
+    Best config: 15.0% APY, 10x, 365d
+    Avg return: +15.39%  |  Best: +28.99%  |  Worst: +3.36%
+    Liq rate: 0.0%  |  Beat Morpho: 38.1%
+    Total sims across all configs: 199,290
+
+  SILVER [Commodities]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +304.03%  |  Best: +3759.51%  |  Worst: +0.00%
+    Liq rate: 84.8%  |  Beat Morpho: 15.2%
+    Total sims across all configs: 40,410
+
+  SOLANA [Crypto]:
+    Best config: 15.0% APY, 1x, 365d
+    Avg return: +12.25%  |  Best: +24.29%  |  Worst: +5.19%
+    Liq rate: 0.0%  |  Beat Morpho: 24.1%
+    Total sims across all configs: 67,650
+
+  XRP [Crypto]:
+    Best config: 15.0% APY, 100x, 365d
+    Avg return: +295.15%  |  Best: +6650.58%  |  Worst: +0.00%
+    Liq rate: 92.0%  |  Beat Morpho: 8.0%
+    Total sims across all configs: 67,650
+
+======================================================================
+
+BY LEVERAGE (averaged across all assets, 5.2% APY, 90 days):
+
+    1x:  Avg +1.29%  |  Liq 0.0%  |  Beat Morpho 37.3%  |  Sims 45,074
+    5x:  Avg +1.49%  |  Liq 7.3%  |  Beat Morpho 50.2%  |  Sims 45,074
+   10x:  Avg +1.67%  |  Liq 15.5%  |  Beat Morpho 48.8%  |  Sims 45,074
+   20x:  Avg +1.98%  |  Liq 31.4%  |  Beat Morpho 45.9%  |  Sims 45,074
+   50x:  Avg +2.94%  |  Liq 54.5%  |  Beat Morpho 38.3%  |  Sims 45,074
+  100x:  Avg +4.33%  |  Liq 65.3%  |  Beat Morpho 32.4%  |  Sims 45,074
+
+======================================================================
+
+BY DURATION (averaged across all assets, 5.2% APY, 20x leverage):
+
+   30d:  Avg +0.53%  |  Budget $41.58  |  Liq 16.3%
+   90d:  Avg +1.98%  |  Budget $124.22  |  Liq 31.4%
+  180d:  Avg +4.39%  |  Budget $246.89  |  Liq 44.2%
+  365d:  Avg +11.43%  |  Budget $494.30  |  Liq 52.7%
+
+======================================================================
+
+KEY FINDINGS:
+  1. Principal protection: 100.0000% across 5,134,380 simulations
+  2. Best risk-adjusted: gold 15.0% 50x 365d -> avg +406.24% (liq 26.8%)
+  3. Most aggressive: gold 15.0% 100x 365d -> avg +555.09% (liq 50.7%)
+  4. DeFi yield edge: 10% APY -> $459.15 budget vs 3.8% -> $182.24 (2.5x)
+
+======================================================================
