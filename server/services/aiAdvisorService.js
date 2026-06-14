@@ -10,11 +10,10 @@
  * "shield envelope" and committed on-chain via AegisVault.createShield's
  * `storageRootHash` argument — making the agent's decision verifiable.
  *
- * LLM plumbing reuses the existing fallbacks:
- *   1. NVIDIA NIM  (NIM_API_KEY)            — primary
- *   2. OpenAI      (OPENAI_API_KEY)         — secondary
- *   3. Deterministic heuristic              — always available, so the demo
- *                                             never breaks.
+ * Inference runs through the provider-agnostic llmGateway (the active model is
+ * hot-swappable at runtime via the admin panel). If no model is reachable, a
+ * deterministic heuristic is always available, so the flow never breaks. The
+ * recommendation exposes only a generic `mode` (ai | heuristic), never a vendor.
  */
 
 const { ethers } = require('ethers');
@@ -116,14 +115,11 @@ function isConfigured() {
 }
 
 function getInfo() {
-  const pub = llmGateway.publicConfig();
+  // Provider-agnostic by design — never expose the underlying model/vendor here.
   return {
     configured: llmGateway.isConfigured(),
-    active: pub.active,
-    providers: pub.providers
-      .filter((p) => p.configured)
-      .map((p) => p.id)
-      .concat('heuristic'),
+    engine: 'aegis-risk-engine',
+    mode: llmGateway.isConfigured() ? 'ai' : 'heuristic',
     universe: SYMBOLS,
   };
 }
@@ -145,7 +141,7 @@ async function callLlm(userPrompt) {
  * @param {number} [opts.depositAmount]  deposit (for context; not required)
  * @param {number} [opts.durationSeconds]
  * @returns {Promise<{
- *   recommendation: { asset, assetId, direction, reasoning, model, provider },
+ *   recommendation: { asset, assetId, direction, reasoning, engine, mode },
  *   riskParams: { hedgeRatioBps, principalClampBps, volatilityPct, sizingRationale },
  *   entryPrice: number
  * }>}
@@ -158,8 +154,7 @@ async function recommendShield({ concern, depositAmount, durationSeconds } = {})
   const userPrompt = `Concern: "${concern}". Deposit: ${depositAmount || 'unspecified'}. Duration(s): ${durationSeconds || 'unspecified'}.`;
 
   let chosen = null;
-  let model = 'heuristic';
-  let provider = 'heuristic';
+  let mode = 'heuristic'; // 'ai' | 'heuristic' — vendor-agnostic by design
   let reasoning = '';
   let volatilityPct = null;
   let hedgeRatioBps = null;
@@ -170,8 +165,7 @@ async function recommendShield({ concern, depositAmount, durationSeconds } = {})
     const parsed = parseAdvisorJson(llm.content);
     if (parsed) {
       chosen = parsed.asset;
-      model = llm.model;
-      provider = llm.provider;
+      mode = 'ai';
       reasoning = parsed.reasoning;
       volatilityPct = Number.isFinite(parsed.volatilityPct)
         ? parsed.volatilityPct
@@ -188,8 +182,7 @@ async function recommendShield({ concern, depositAmount, durationSeconds } = {})
   // Deterministic fallback (or fill any gaps the LLM left).
   if (!chosen) {
     chosen = heuristicAssetPick(concern);
-    provider = 'heuristic';
-    model = 'rule-based';
+    mode = 'heuristic';
   }
   if (volatilityPct == null || !Number.isFinite(volatilityPct)) {
     volatilityPct = chosen.vol;
@@ -219,8 +212,8 @@ async function recommendShield({ concern, depositAmount, durationSeconds } = {})
       assetId,
       direction: 'hedge',
       reasoning,
-      model,
-      provider,
+      engine: 'aegis-risk-engine',
+      mode,
     },
     riskParams: {
       hedgeRatioBps,

@@ -1,4 +1,0 @@
-allowBuilds:
-  esbuild: set this to true or false
-  ffmpeg-static: set this to true or false
-  msedge-tts: set this to true or false

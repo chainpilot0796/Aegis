@@ -21,13 +21,13 @@
           "relayer": "0x71AfE44200A819171a0687b1026E8d4424472Ff8"
         }
       },
-      "_note": "Legacy Base Sepolia deployment. Aegis.0G lives under ogTestnet / ogMainnet."
+      "_note": "Legacy Base Sepolia deployment (pre-Mantle)."
     },
     "ogTestnet": {
       "network": "ogTestnet",
-      "label": "0G Galileo Testnet",
+      "label": "Legacy Testnet",
       "chainId": "16602",
-      "explorer": "https://chainscan-galileo.0g.ai",
+      "explorer": "",
       "deployer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
       "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
       "deploymentTime": "2026-05-16T12:08:14.420Z",
@@ -49,9 +49,9 @@
     },
     "ogMainnet": {
       "network": "ogMainnet",
-      "label": "0G Aristotle Mainnet",
+      "label": "Legacy Mainnet",
       "chainId": "16661",
-      "explorer": "https://chainscan.0g.ai",
+      "explorer": "",
       "deployer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
       "relayer": "0x4523095f3d872dD51aAB5c6428b513AF645C15B5",
       "deploymentTime": "2026-05-16T14:51:49.431Z",

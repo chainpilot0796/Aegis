@@ -35,7 +35,7 @@ const shieldSchema = new mongoose.Schema({
   compliance: { type: mongoose.Schema.Types.Mixed, default: null },
   chain: { type: String, default: null }, // 'mantle' | '0g' | null
 
-  // 0G Compute — TEE-verified inference proof for the recommendation that produced this shield
+  // AI inference metadata for the recommendation that produced this shield
   teeInferenceProvider: { type: String, default: null },
   teeInferenceSignature: { type: String, default: null },
   teeInferenceVerified: { type: Boolean, default: false },

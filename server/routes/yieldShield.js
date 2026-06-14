@@ -61,7 +61,7 @@ router.post('/simulate', agentBearerAuth({ action: 'simulate' }), (req, res) => 
   }
 });
 
-// POST /prepare — upload doc to 0G Storage, return on-chain args for AegisVault.createShield.
+// POST /prepare — commit the decision envelope, return on-chain args for AegisVault.createShield.
 // Frontend calls this BEFORE the on-chain tx so it has the rootHash to pass into the contract.
 router.post('/prepare', agentBearerAuth({ action: 'prepare' }), async (req, res) => {
   try {
@@ -215,7 +215,7 @@ router.post('/verify', (req, res) => {
   }
 });
 
-// POST /activate — create a shield (server-side: upload doc to 0G Storage,
+// POST /activate — create a shield (server-side: commit the decision envelope,
 // persist Shield record with TEE inference proof + on-chain tx hash from the
 // frontend's `AegisVault.createShield` call).
 router.post('/activate', agentBearerAuth({ action: 'activate' }), async (req, res) => {
@@ -331,7 +331,7 @@ router.get('/history/:address', async (req, res) => {
 // GET /doc/:rootHash — fetch the auditable shield envelope so anyone can re-hash
 // and verify the on-chain commitment.
 // Resolution order: in-memory cache -> Shield DB record -> IPFS gateway (Pinata)
-// -> legacy 0G Storage. Includes a self-verification of the rootHash.
+// -> legacy storage. Includes a self-verification of the rootHash.
 router.get('/doc/:rootHash', async (req, res) => {
   try {
     const { rootHash } = req.params;
@@ -395,7 +395,7 @@ router.get('/doc/:rootHash', async (req, res) => {
       }
     }
 
-    // 4. Legacy 0G Storage fallback
+    // 4. Legacy envelope storage fallback
     const zeroGStorageService = require('../services/zeroGStorageService');
     if (zeroGStorageService.isConfigured()) {
       const doc = await zeroGStorageService.fetchShieldDoc(rootHash);

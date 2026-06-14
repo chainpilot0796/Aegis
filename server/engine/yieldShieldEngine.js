@@ -191,7 +191,7 @@ async function prepareShieldMantle({
 }
 
 /**
- * Build the deterministic on-chain args + upload the agreement doc to 0G Storage.
+ * Build the deterministic on-chain args + commit the decision envelope.
  * Returns everything the frontend needs to invoke AegisVault.createShield.
  *
  * Splits out from the legacy `createShield()` flow so the frontend can:
@@ -223,11 +223,11 @@ async function prepareShield({
   const assetName = market ? market.name : asset;
 
   // Entry price — best-effort from price engine; falls back to 1 (real-time feeds are
-  // out of scope for the Aegis.0G hackathon demo, README notes this explicitly).
+  // out of scope for the Aegis hackathon demo, README notes this explicitly).
   const priceData = priceEngine.getPrice(asset);
   const entryPrice = priceData && priceData.price ? priceData.price : 1;
 
-  // Upload shield agreement doc to 0G Storage (with Fileverse + content-hash fallback)
+  // Commit the decision envelope (keccak256 rootHash; optional IPFS pin)
   const docResult = await sponsorService.createShieldDoc({
     address,
     asset,
@@ -247,10 +247,10 @@ async function prepareShield({
   const entryPriceScaled = Math.max(Math.floor(entryPrice * 1e8), 1); // uint64
   const depositBaseUnits = Math.floor(depositAmount * 1e6).toString(); // uint128 (USDC 6dp), as string for safety
 
-  // The rootHash must fit bytes32 — 0G Storage rootHashes are 0x + 64 hex chars already
+  // The rootHash must fit bytes32 — envelope rootHashes are 0x + 64 hex chars already
   let storageRootHash = docResult?.rootHash || null;
   if (!storageRootHash) {
-    // No 0G Storage available — fall back to deterministic content hash as bytes32 so the
+    // No off-chain storage available — fall back to deterministic content hash as bytes32 so the
     // on-chain `createShield` call still succeeds; flag the provider as 'hash'.
     const payload = JSON.stringify({ address, asset, depositAmount, durationMonths, entryPrice, at: Date.now() });
     storageRootHash = ethers.keccak256(ethers.toUtf8Bytes(payload));
@@ -455,7 +455,7 @@ async function createShield({
   const userShort = address.slice(2, 6).toLowerCase();
   const ensSubname = await sponsorService.registerEnsSubname(asset, userShort, address);
 
-  // Storage: try 0G Storage first, then Fileverse, then content hash
+  // Storage: keccak256 content hash (optional IPFS pin)
   const docResult = await sponsorService.createShieldDoc({
     address,
     asset,

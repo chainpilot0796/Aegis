@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Aegis.0G sitemap.
+  Aegis sitemap.
   <loc> values are root-relative so this file works under any deploy domain
-  (e.g. https://aegis.0g.xyz, a Vercel preview URL, etc). Crawlers resolve
+  (e.g. https://aegis.xyz, a Vercel preview URL, etc). Crawlers resolve
   them against the host that served sitemap.xml.
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

@@ -46,7 +46,7 @@ contract AegisVault {
     }
     mapping(address => LpWithdrawalRequest) public lpWithdrawalQueue;
 
-    // --- Shields (Aegis.0G core product) ---
+    // --- Shields (Aegis core product) ---
     struct Shield {
         uint128 depositAmount;       // A-USDC (6 dp)
         uint64  durationSeconds;
@@ -56,7 +56,7 @@ contract AegisVault {
         uint64  entryPrice;          // scaled 1e8 USD
         uint64  closePrice;          // scaled 1e8 USD, set on settle
         int128  exposurePayout;      // signed A-USDC delta, set on settle
-        bytes32 storageRootHash;     // 0G Storage rootHash of agreement doc
+        bytes32 storageRootHash;     // keccak256 rootHash of off-chain decision envelope
         bool    settled;
     }
     mapping(address => Shield[]) private _userShields;
@@ -189,7 +189,7 @@ contract AegisVault {
     }
 
     // =====================================================================
-    //  SHIELD FUNCTIONS — Aegis.0G core
+    //  SHIELD FUNCTIONS — Aegis core
     // =====================================================================
 
     /**
@@ -199,7 +199,7 @@ contract AegisVault {
      * @param  durationSeconds Time until settlement.
      * @param  assetId         keccak256-tagged asset identifier (e.g. keccak256("gold")).
      * @param  entryPrice      Asset entry price, scaled 1e8.
-     * @param  storageRootHash 0G Storage rootHash for the agreement document.
+     * @param  storageRootHash keccak256 rootHash of the off-chain decision envelope.
      * @return idx             Index of the new Shield in the caller's shield array.
      */
     function createShield(

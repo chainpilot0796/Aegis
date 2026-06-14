@@ -1,5 +1,5 @@
 /**
- * Aegis.0G — agent session key management + action feed.
+ * Aegis — agent session key management + action feed.
  *
  * All mutation endpoints require a wallet signature over a server-issued
  * nonce. Auth header (`X-Wallet-*`) is also accepted as a transport for the

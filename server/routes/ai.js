@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 const yieldShieldEngine = require('../engine/yieldShieldEngine');
-const zeroGComputeService = require('../services/zeroGComputeService');
 const aiAdvisorService = require('../services/aiAdvisorService');
 const complianceService = require('../services/complianceService');
 const { MARKETS } = require('../config/markets');
@@ -11,9 +10,9 @@ const agentBearerAuth = require('../middleware/agentBearerAuth');
  * POST /api/ai/recommend-shield
  * Body: { concern: string, depositAmount?: number, durationMonths?: number }
  *
- * Asks 0G Compute (TEE-verified) for an asset recommendation, with silent
- * NIM and OpenAI fallbacks. Returns the same envelope the frontend expects,
- * augmented with TEE proof fields when 0G Compute served the request.
+ * Vendor-agnostic AI risk engine: picks a hedge asset and derives risk params.
+ * Returns the envelope the frontend expects. The underlying model is never
+ * exposed — only a generic engine label and an ai/heuristic mode.
  */
 router.post('/recommend-shield', agentBearerAuth({ action: 'recommend' }), async (req, res) => {
   try {
@@ -22,9 +21,14 @@ router.post('/recommend-shield', agentBearerAuth({ action: 'recommend' }), async
       return res.status(400).json({ error: 'Missing concern field' });
     }
 
-    const rec = await zeroGComputeService.recommendShield(concern);
-
-    const asset = rec.asset || 'gold';
+    const durSec = Math.floor(Number(durationMonths) * 30 * 24 * 3600);
+    const advice = await aiAdvisorService.recommendShield({
+      concern,
+      depositAmount: Number(depositAmount),
+      durationSeconds: durSec,
+    });
+    const rec = advice.recommendation;
+    const asset = rec.asset || 'GOLD';
     const market = MARKETS.find((m) => m.id === asset);
     const projection = yieldShieldEngine.getProjection({
       depositAmount: Number(depositAmount),
@@ -35,17 +39,14 @@ router.post('/recommend-shield', agentBearerAuth({ action: 'recommend' }), async
     res.json({
       recommendation: {
         asset,
-        assetName: market ? market.name : asset,
+        assetName: rec.assetName || (market ? market.name : asset),
         reason:
-          rec.reason ||
-          `Based on your concern about "${concern}", we recommend hedging with ${market ? market.name : asset}.`,
+          rec.reasoning ||
+          `Based on your concern about "${concern}", we recommend hedging with ${rec.assetName || asset}.`,
         projection,
-        // Inference provenance — surface to the UI so judges can see verifiability
-        providerUsed: rec.providerUsed,
-        teeVerified: rec.teeVerified === true,
-        teeProviderAddress: rec.teeProviderAddress || null,
-        teeModel: rec.teeModel || null,
-        teeChatId: rec.teeChatId || null,
+        riskParams: advice.riskParams,
+        engine: rec.engine,
+        mode: rec.mode,
       },
     });
   } catch (error) {

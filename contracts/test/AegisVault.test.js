@@ -5,7 +5,7 @@ const {
   time,
 } = require("@nomicfoundation/hardhat-network-helpers");
 
-describe("Aegis.0G", function () {
+describe("Aegis", function () {
   // ─── Shared fixture ───────────────────────────────────────────────
   async function deployFixture() {
     const [owner, relayer, user1, user2, lp1] = await ethers.getSigners();
@@ -65,7 +65,7 @@ describe("Aegis.0G", function () {
   });
 
   // =================================================================
-  //  Shield path — Aegis.0G core
+  //  Shield path — Aegis core
   // =================================================================
   describe("Shield", function () {
     const ASSET_GOLD = ethers.id("gold"); // keccak256("gold")

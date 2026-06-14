@@ -28,7 +28,7 @@
 
     /* ──────────────────────────────────────────────────────────────────────
        Aegis design tokens — dark, verifiable-finance.
-       Violet = agent / TEE / primary action.
+       Violet = agent / primary action.
        Cyan   = positive / verifiable.
        Amber  = pending. Red = danger.
        Legacy names (--t-blue, --t-green) are kept as aliases to violet so

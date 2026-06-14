@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: /sitemap.xml
-# Aegis.0G OpenClaw skill index
+# Aegis OpenClaw skill index
 X-OpenClaw-Skills: /.well-known/aegis-skills.json

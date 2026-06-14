@@ -134,32 +134,6 @@ async function startServer() {
     });
   });
 
-  // 0G stack health — judges hit this to verify integration
-  app.get('/api/sponsors/zerog', (req, res) => {
-    const network = (process.env.ZG_NETWORK || 'testnet').toLowerCase();
-    res.json({
-      sponsor: '0G Labs',
-      network,
-      chain: {
-        label: network === 'mainnet' ? '0G Aristotle Mainnet' : '0G Galileo Testnet',
-        chainId: network === 'mainnet' ? 16661 : 16602,
-        rpc:
-          network === 'mainnet'
-            ? process.env.ZG_MAINNET_RPC || 'https://evmrpc.0g.ai'
-            : process.env.ZG_TESTNET_RPC || 'https://evmrpc-testnet.0g.ai',
-        explorer:
-          network === 'mainnet'
-            ? 'https://chainscan.0g.ai'
-            : 'https://chainscan-galileo.0g.ai',
-        vault: process.env.VAULT_CONTRACT_ADDRESS || null,
-        ausdc: process.env.USDC_ADDRESS || null,
-      },
-      storage: zeroGStorageService.getInfo(),
-      compute: zeroGComputeService.getInfo(),
-      nimFallback: nimFallbackService.getInfo(),
-    });
-  });
-
   // Mantle stack health — judges hit this to verify the Mantle integration.
   // Also aliased at /api/sponsors/mantle.
   const mantleHealth = async (req, res) => {
@@ -222,7 +196,7 @@ async function startServer() {
   // Initialize Fileverse
   await fileverseService.init();
 
-  // Initialize 0G Storage + 0G Compute
+  // Initialize optional legacy services
   await zeroGStorageService.init();
   await zeroGComputeService.init();
 

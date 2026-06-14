@@ -44,12 +44,12 @@ module.exports = {
       chainId: 84532,
     },
     ogTestnet: {
-      url: ZG_TESTNET_RPC || "https://evmrpc-testnet.0g.ai",
+      url: ZG_TESTNET_RPC || "",
       accounts,
       chainId: 16602,
     },
     ogMainnet: {
-      url: ZG_MAINNET_RPC || "https://evmrpc.0g.ai",
+      url: ZG_MAINNET_RPC || "",
       accounts,
       chainId: 16661,
     },

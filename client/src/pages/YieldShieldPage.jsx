@@ -78,7 +78,7 @@ export default function YieldShieldPage() {
 
   // Mantle AI recommendation state
   const [concern, setConcern] = useState('');
-  const [recommendation, setRecommendation] = useState(null); // {asset, reason, teeVerified, teeProviderAddress, teeModel, teeChatId, providerUsed}
+  const [recommendation, setRecommendation] = useState(null); // {asset, assetName, reason, riskParams, engine, mode}
   const [recommending, setRecommending] = useState(false);
 
   // AI risk params returned by the server prepare call (drives sizing visibly)
@@ -209,9 +209,6 @@ export default function YieldShieldPage() {
           accredited,
           notSanctioned,
         },
-        teeInferenceSignature: recommendation?.teeChatId || null,
-        teeInferenceProvider: recommendation?.teeProviderAddress || null,
-        teeInferenceModel: recommendation?.teeModel || null,
       });
       const prep = prepResp.prepare || prepResp;
       if (!prep || !prep.rootHash) {
@@ -309,10 +306,6 @@ export default function YieldShieldPage() {
         prepare: prep,
         onChainTxHash,
         onChainIdx,
-        teeInferenceSignature: recommendation?.teeChatId || null,
-        teeInferenceProvider: recommendation?.teeProviderAddress || null,
-        teeInferenceModel: recommendation?.teeModel || null,
-        teeInferenceVerified: recommendation?.teeVerified === true,
       });
 
       const shield = activateResp.shield || activateResp;
@@ -445,23 +438,6 @@ export default function YieldShieldPage() {
                 </a>
               );
             })()}
-            {success.teeInferenceProvider && (
-              <div
-                className={`rounded-lg border p-3 ${success.teeInferenceVerified ? 'border-[var(--t-violet)]/40 bg-[var(--t-violet)]/10' : 'border-[var(--t-border)] bg-[var(--t-bg-secondary)]'}`}
-              >
-                <div className="text-[0.6rem] uppercase tracking-wider text-[var(--t-violet)] font-semibold">
-                  {success.teeInferenceVerified ? 'AI · Verified Recommendation ✓' : 'AI · Recommendation'}
-                </div>
-                <div className="text-xs font-mono text-[var(--t-text-muted)] mt-0.5 truncate">
-                  {success.teeInferenceProvider.slice(0, 12)}…{success.teeInferenceProvider.slice(-6)}
-                </div>
-                {success.teeInferenceModel && (
-                  <div className="text-[0.65rem] text-[var(--t-text-muted)] mt-0.5">
-                    model: {success.teeInferenceModel}
-                  </div>
-                )}
-              </div>
-            )}
           </div>
           {success.ensSubname && (
             <div className="rounded-lg border border-[var(--t-blue)]/40 bg-[var(--t-bg-secondary)] p-3 mb-6 text-left">
@@ -631,20 +607,9 @@ export default function YieldShieldPage() {
                       </p>
                     </div>
                     <div className="text-right">
-                      {recommendation.teeVerified ? (
-                        <span className="inline-block text-[0.6rem] uppercase tracking-wider text-[var(--t-violet)] font-semibold border border-[var(--t-violet)]/40 rounded-full px-2 py-0.5 bg-[var(--t-violet)]/20">
-                          TEE Verified ✓
-                        </span>
-                      ) : (
-                        <span className="inline-block text-[0.6rem] uppercase tracking-wider text-[var(--t-text-muted)] font-semibold border border-[var(--t-border)] rounded-full px-2 py-0.5">
-                          {recommendation.providerUsed || 'fallback'}
-                        </span>
-                      )}
-                      {recommendation.teeModel && (
-                        <div className="text-[0.65rem] text-[var(--t-text-muted)] mt-1">
-                          {recommendation.teeModel}
-                        </div>
-                      )}
+                      <span className="inline-block text-[0.6rem] uppercase tracking-wider text-[var(--t-violet)] font-semibold border border-[var(--t-violet)]/40 rounded-full px-2 py-0.5 bg-[var(--t-violet)]/20">
+                        {recommendation.mode === 'heuristic' ? 'Rule-based' : 'AI Risk Engine'}
+                      </span>
                     </div>
                   </div>
                 </div>

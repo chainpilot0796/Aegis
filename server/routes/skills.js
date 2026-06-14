@@ -1,5 +1,5 @@
 /**
- * Aegis.0G — OpenClaw skill discovery + delivery route.
+ * Aegis — skill discovery + delivery route.
  *
  * Mounted at `/api/skills`. Serves the markdown skill files from
  * `<repo-root>/openclaw-skill/` and a programmatic JSON index that mirrors

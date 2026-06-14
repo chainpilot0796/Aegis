@@ -4,8 +4,8 @@ const path = require("path");
 
 const NETWORK_META = {
   baseSepolia:   { explorer: "https://sepolia.basescan.org",     label: "Base Sepolia" },
-  ogTestnet:     { explorer: "https://chainscan-galileo.0g.ai",  label: "0G Galileo Testnet" },
-  ogMainnet:     { explorer: "https://chainscan.0g.ai",          label: "0G Aristotle Mainnet" },
+  ogTestnet:     { explorer: "",  label: "Legacy Testnet" },
+  ogMainnet:     { explorer: "",          label: "Legacy Mainnet" },
   mantleSepolia: { explorer: "https://sepolia.mantlescan.xyz",   label: "Mantle Sepolia Testnet" },
   mantleMainnet: { explorer: "https://mantlescan.xyz",           label: "Mantle Mainnet" },
   localhost:     { explorer: "",                                  label: "Localhost" },

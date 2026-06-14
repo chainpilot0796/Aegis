@@ -2,7 +2,7 @@
   "schema": "aegis.skills/1",
   "entry": "/api/skills/aegis.skill.md",
   "skills": [
-    { "id": "aegis-0g",                 "path": "/api/skills/aegis.skill.md",                                "kind": "entrypoint" },
+    { "id": "aegis",                 "path": "/api/skills/aegis.skill.md",                                "kind": "entrypoint" },
     { "id": "aegis-conservative-saver", "path": "/api/skills/strategies/conservative-saver.skill.md",        "kind": "strategy"   },
     { "id": "aegis-inflation-hedger",   "path": "/api/skills/strategies/inflation-hedger.skill.md",          "kind": "strategy"   },
     { "id": "aegis-momentum-shield",    "path": "/api/skills/strategies/momentum-shield.skill.md",           "kind": "strategy"   },
@@ -17,7 +17,7 @@
       { "method": "POST", "path": "/yield-shield/prepare",     "auth": "bearer" },
       { "method": "POST", "path": "/yield-shield/activate",    "auth": "bearer" },
       { "method": "GET",  "path": "/yield-shield/doc/:rootHash" },
-      { "method": "GET",  "path": "/sponsors/zerog" },
+      { "method": "GET",  "path": "/health/mantle" },
       { "method": "GET",  "path": "/agents/actions/public" }
     ]
   },
