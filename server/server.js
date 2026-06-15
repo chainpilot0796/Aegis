@@ -42,6 +42,7 @@ const nimFallbackService = require('./services/nimFallbackService');
 const aiAdvisorService = require('./services/aiAdvisorService');
 const complianceService = require('./services/complianceService');
 const shieldEnvelopeService = require('./services/shieldEnvelopeService');
+const bybitService = require('./services/bybitService');
 const mantle = require('./config/mantle');
 
 // Loop
@@ -181,6 +182,7 @@ async function startServer() {
       aiAdvisor: aiAdvisorService.getInfo(),
       compliance: complianceService.getInfo(),
       storage: shieldEnvelopeService.getInfo(),
+      marketData: bybitService.getInfo(),
     });
   };
   app.get('/api/health/mantle', mantleHealth);

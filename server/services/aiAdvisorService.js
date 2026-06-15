@@ -18,6 +18,7 @@
 
 const { ethers } = require('ethers');
 const llmGateway = require('./llmGateway');
+const bybitService = require('./bybitService');
 
 // Mantle RWA hedge universe. The on-chain demo uses mETH/USDY; the others are
 // offered so the AI can reason over a small realistic set of RWA proxies.
@@ -200,10 +201,10 @@ async function recommendShield({ concern, depositAmount, durationSeconds } = {})
   const assetId = ethers.keccak256(ethers.toUtf8Bytes(chosen.symbol));
 
   // entryPrice is scaled 1e8. Real-time feeds are out of scope for the demo;
-  // use a stable per-asset placeholder so the on-chain uint64 is deterministic.
-  const PRICE_PLACEHOLDER = { mETH: 3500, USDY: 1, BTC: 65000, GOLD: 2400 };
-  const px = PRICE_PLACEHOLDER[chosen.symbol] || 1;
-  const entryPrice = Math.max(Math.floor(px * 1e8), 1);
+  // Live entry price from Bybit market data (mETH marked off ETH); falls back to
+  // a deterministic placeholder if the feed is unreachable.
+  const mark = await bybitService.getPrice(chosen.symbol);
+  const entryPrice = Math.max(Math.floor(mark.price * 1e8), 1);
 
   return {
     recommendation: {
